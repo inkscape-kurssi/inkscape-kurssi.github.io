@@ -79,14 +79,14 @@
     width: 3em;
     height: 3em;
     margin-right: 0.5em;
-    background: transparent url(/images/SVG-icon.svg) center center no-repeat;
+    background: transparent url(../../images/SVG-icon.svg) center center no-repeat;
     background-size: auto;
     background-size: contain;
 }
 
 p.highlight, p.highlight-title,
 blockquote.highlight, blockquote.highlight-title {
-    background-image: url(/images/butterfly-wireframe2-transparent.svg);
+    background-image: url(../../images/butterfly-wireframe2-transparent.svg);
     background-size: 180px;
     background-repeat: no-repeat;
     background-position: right 20px center;
@@ -94,7 +94,7 @@ blockquote.highlight, blockquote.highlight-title {
 
 .side-bar {
     background-color: #eee;
-    background-image: url(/images/butterfly-wireframe4-transparent.svg);
+    background-image: url(../../images/butterfly-wireframe4-transparent.svg);
     background-size: 600px;
     background-position: left 20px bottom 20px;
     background-repeat: no-repeat;
