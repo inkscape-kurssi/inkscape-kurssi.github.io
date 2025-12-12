@@ -1,0 +1,109 @@
+// custom SCSS (or CSS) goes here
+
+:root {
+    --pagehead1-hl: #c34a07;
+    --pagehead2-hl: #1b4e6e;
+}
+/***
+ * Classes for image wrappers
+ */
+.figure, .figure-small, .figure-medium, .figure-large {
+    text-align: left;
+    margin: 0 auto;
+    padding: 0;
+    border: none;
+}
+.figure-small {
+    width: 100px;
+}
+.figure-medium {
+    width: 300px;
+}
+.figure-large {
+    width: 500px;
+}
+.figure-full {
+    width: 100%;
+}
+.figure-left {
+    float: left;
+}
+.figure-right {
+    float: right;
+}
+// .figure-left::after, .figure-right::after {
+//     display: block;
+//     content: "";
+//     clear: both;
+// }
+.figure img,
+.figure svg {
+    width: auto;
+    height: auto;
+    margin: 0.5em auto;
+    display: block;
+}
+.figure-small img,
+.figure-small svg {
+    width: 100px;
+    height: auto;
+    margin: 0.5em auto;
+    display: block;
+}
+.figure-medium img,
+.figure-medium svg {
+    width: 300px;
+    height: auto;
+    margin: 0.5em auto;
+    display: block;
+}
+.figure-large img,
+.figure-large svg {
+    width: 500px;
+    height: auto;
+    margin: 0.5em auto;
+    display: block;
+}
+.figure-full img,
+.figure-ful {
+    width: 100%;
+    height: auto;
+    margin: 0.5em auto;
+    display: block;
+}
+
+.exercises a[href$="svg"]::before,
+.exercises-title a[href$="svg"]::before {
+    content: "";
+    display: inline-block;
+    width: 3em;
+    height: 3em;
+    margin-right: 0.5em;
+    background: transparent url(/images/SVG-icon.svg) center center no-repeat;
+    background-size: auto;
+    background-size: contain;
+}
+
+p.highlight, p.highlight-title,
+blockquote.highlight, blockquote.highlight-title {
+    background-image: url(/images/butterfly-wireframe2-transparent.svg);
+    background-size: 180px;
+    background-repeat: no-repeat;
+    background-position: right 20px center;
+}
+
+.side-bar {
+    background-color: #eee;
+    background-image: url(/images/butterfly-wireframe4-transparent.svg);
+    background-size: 600px;
+    background-position: left 20px bottom 20px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.main-content h1 {
+    border-bottom: 3px solid var(--pagehead1-hl);
+}
+.main-content h2 {
+    border-bottom: 1px solid var(--pagehead2-hl);
+}
