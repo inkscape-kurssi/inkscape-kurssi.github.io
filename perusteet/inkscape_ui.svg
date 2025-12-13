@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="inkscape_ui.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.70526203"
+     inkscape:cx="401.2693"
+     inkscape:cy="562.91135"
+     inkscape:window-width="1919"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker20"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path20" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker19"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path19" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DartArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path6" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Taso 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3"
+       transform="matrix(3.5080369,0,0,3.5080369,-259.3488,-320.14139)">
+      <circle
+         style="fill:#ffcc00;stroke:#000000;stroke-width:1"
+         id="path1"
+         cx="105"
+         cy="124.81437"
+         r="16.491018" />
+      <g
+         id="g2"
+         transform="translate(12.483788)">
+        <ellipse
+           style="fill:#ffffff;stroke:#000000;stroke-width:1"
+           id="path2"
+           cx="87.224548"
+           cy="121.27034"
+           rx="2.5059879"
+           ry="4.0547743" />
+        <ellipse
+           style="fill:#ffffff;stroke:#000000;stroke-width:1"
+           id="ellipse2"
+           cx="97.807877"
+           cy="121.27034"
+           rx="2.5059879"
+           ry="4.0547743" />
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 97.724552,131.28144 c 4.850298,3.66467 9.700598,3.66467 14.550898,0"
+         id="path3"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Ubuntu Sans';-inkscape-font-specification:'Ubuntu Sans Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#aa0000;stroke:none;stroke-width:1.26009"
+       x="-71.652946"
+       y="87.757088"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Ubuntu Sans';-inkscape-font-specification:'Ubuntu Sans Bold';text-align:center;text-anchor:middle;fill:#aa0000;stroke:none;stroke-width:1.26009"
+         x="-71.652946"
+         y="87.757088">Työkalukohtaiset</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Ubuntu Sans';-inkscape-font-specification:'Ubuntu Sans Bold';text-align:center;text-anchor:middle;fill:#aa0000;stroke:none;stroke-width:1.26009"
+         x="-71.652946"
+         y="101.86821"
+         id="tspan5">asetukset ja toiminnot</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Ubuntu Sans';-inkscape-font-specification:'Ubuntu Sans Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#aa0000;stroke:none;stroke-width:1.26009"
+       x="107.2965"
+       y="37.111015"
+       id="text7"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Ubuntu Sans';-inkscape-font-specification:'Ubuntu Sans Bold';text-align:center;text-anchor:middle;fill:#aa0000;stroke:none;stroke-width:1.26009"
+         x="107.2965"
+         y="37.111015"
+         id="tspan7">Piirtoalue</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Ubuntu Sans';-inkscape-font-specification:'Ubuntu Sans Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#aa0000;stroke:none;stroke-width:1.26009"
+       x="-77.655441"
+       y="166.1647"
+       id="text8"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Ubuntu Sans';-inkscape-font-specification:'Ubuntu Sans Bold';text-align:center;text-anchor:middle;fill:#aa0000;stroke:none;stroke-width:1.26009"
+         x="-77.655441"
+         y="166.1647"
+         id="tspan8">Työkalurivi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Ubuntu Sans';-inkscape-font-specification:'Ubuntu Sans Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#aa0000;stroke:none;stroke-width:1.26009"
+       x="-71.277794"
+       y="226.0621"
+       id="text9"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Ubuntu Sans';-inkscape-font-specification:'Ubuntu Sans Bold';text-align:center;text-anchor:middle;fill:#aa0000;stroke:none;stroke-width:1.26009"
+         x="-71.277794"
+         y="226.0621"
+         id="tspan9">Väripaletti sekä</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Ubuntu Sans';-inkscape-font-specification:'Ubuntu Sans Bold';text-align:center;text-anchor:middle;fill:#aa0000;stroke:none;stroke-width:1.26009"
+         x="-71.277794"
+         y="240.17322"
+         id="tspan10">tilanne- ja vihjetekstit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Ubuntu Sans';-inkscape-font-specification:'Ubuntu Sans Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#aa0000;stroke:none;stroke-width:1.26009"
+       x="290.37265"
+       y="76.50238"
+       id="text12"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Ubuntu Sans';-inkscape-font-specification:'Ubuntu Sans Bold';text-align:center;text-anchor:middle;fill:#aa0000;stroke:none;stroke-width:1.26009"
+         x="290.37265"
+         y="76.50238"
+         id="tspan13">Kohdistusvalinnat</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Ubuntu Sans';-inkscape-font-specification:'Ubuntu Sans Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#aa0000;stroke:none;stroke-width:1.26009"
+       x="286.24594"
+       y="142.905"
+       id="text15"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Ubuntu Sans';-inkscape-font-specification:'Ubuntu Sans Bold';text-align:center;text-anchor:middle;fill:#aa0000;stroke:none;stroke-width:1.26009"
+         x="286.24594"
+         y="142.905"
+         id="tspan14">Telakoidut</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Ubuntu Sans';-inkscape-font-specification:'Ubuntu Sans Bold';text-align:center;text-anchor:middle;fill:#aa0000;stroke:none;stroke-width:1.26009"
+         x="286.24594"
+         y="157.01613"
+         id="tspan15">dialogit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Ubuntu Sans';-inkscape-font-specification:'Ubuntu Sans Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#aa0000;stroke:none;stroke-width:1.26009"
+       x="-53.725071"
+       y="51.74247"
+       id="text16"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Ubuntu Sans';-inkscape-font-specification:'Ubuntu Sans Bold';text-align:center;text-anchor:middle;fill:#aa0000;stroke:none;stroke-width:1.26009"
+         x="-53.725071"
+         y="51.74247"
+         id="tspan16">Komentopalkki</tspan></text>
+    <path
+       style="fill:none;stroke:#aa0000;stroke-width:1.9;stroke-dasharray:none;marker-end:url(#DartArrow)"
+       d="M -115.17291,70.904496 C -123.42635,60.150022 -133.05536,21.884103 -133.55557,9.7540575"
+       id="path16"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#aa0000;stroke-width:1.9;stroke-dasharray:none;marker-mid:url(#marker20);marker-end:url(#marker19)"
+       d="m -93.737277,42.392634 c -6.132234,-7.990478 -13.657013,-15.42869 -14.860183,-22.574026 -0.49979,-2.968176 -1.14298,-6.94702 -1.27154,-10.0645505"
+       id="path17"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#aa0000;stroke-width:1.9;stroke-dasharray:none;marker-end:url(#DartArrow)"
+       d="m -93.661931,152.68815 c -9.503959,-6.12755 -24.510209,-9.75406 -45.018739,-10.87953"
+       id="path21"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#aa0000;stroke-width:1.9;stroke-dasharray:none;marker-end:url(#DartArrow)"
+       d="m -121.89099,242.80243 c -6.43688,9.29724 -10.55507,24.17607 -12.35458,44.63648"
+       id="path22"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#aa0000;stroke-width:1.9;stroke-dasharray:none;marker-end:url(#DartArrow)"
+       d="m 298.50325,162.28405 c 10.61537,3.89693 26.05156,4.14831 46.30856,0.75413"
+       id="path23"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#aa0000;stroke-width:1.9;stroke-dasharray:none;marker-end:url(#DartArrow)"
+       d="M 301.87965,60.99191 C 317.31584,38.858974 335.25306,21.72812 355.69133,9.5993458"
+       id="path24"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

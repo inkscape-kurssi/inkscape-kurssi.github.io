@@ -11,9 +11,9 @@ has_toc: false
 {: .figure-medium }
 ![](../../images/butterflies/Monarch_butterfly_1.svg)
 
-Aloitetaan harjoittelu Inkscapen käyttöliittymään tutustumisella ja
-ohjelmassa navigoinnilla. Opetellaan lisäksi, miten valintatyökalulla
-valitaan ja muokataan piirto-objekteja.
+Aloitetaan harjoittelu tutustumalla Inkscapen käyttöliittymään ja
+ohjelmassa navigointiin. Opetellaan lisäksi, miten valintatyökalulla
+valitaan ja muokataan piirto-objekteja sekä miten piirretään peruskuvioita.
 
 {: .highlight-title }
 > Kappaleen aiheet
