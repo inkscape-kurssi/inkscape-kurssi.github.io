@@ -2,21 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="600"
    height="1000"
    viewBox="0 0 158.75 264.58333"
    version="1.1"
    id="svg68864"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="harjoitus-02-valinta.svg">
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="harjoitus-02-valinta.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs68858">
     <marker
@@ -38,10 +38,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter69594"
-       x="-0.01677349"
-       width="1.033547"
-       y="-0.14186841"
-       height="1.2837368">
+       x="-0.014471331"
+       width="1.0289427"
+       y="-0.15169669"
+       height="1.3033934">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.71855807"
@@ -566,20 +566,23 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.5539948"
-     inkscape:cx="307.49438"
-     inkscape:cy="816.43529"
+     inkscape:cx="307.36163"
+     inkscape:cy="156.61739"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
+     inkscape:window-width="1919"
      inkscape:window-height="1051"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:lockguides="false" />
+     inkscape:lockguides="false"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata68861">
     <rdf:RDF>
@@ -588,7 +591,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -608,17 +611,18 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot69810"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:125%;font-family:'Averia Sans';-inkscape-font-specification:'Averia Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:125%;font-family:'Averia Sans';-inkscape-font-specification:'Averia Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(0.26458333,0,0,0.26458333,0,138.24998)"><flowRegion
          id="flowRegion69812"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Averia Sans';-inkscape-font-specification:'Averia Sans'"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Averia Sans';-inkscape-font-specification:'Averia Sans'"><rect
            id="rect69814"
            width="341.73422"
            height="111.86833"
            x="140.05148"
            y="121.70309"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Averia Sans';-inkscape-font-specification:'Averia Sans'" /></flowRegion><flowPara
-         id="flowPara69816" /></flowRoot>  </g>
+         id="flowPara69816" /></flowRoot>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -632,32 +636,32 @@
          transform="translate(0,1.0583333)"
          y="0.52916664"
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.52999998;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter69594)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.53;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter69594)"
          id="text69424"><textPath
            xlink:href="#path69415"
            startOffset="50%"
            id="textPath69422"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.26458332px"
-   id="tspan69420">Inkscape-harjoituksia</tspan></textPath></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.264583px"
+             id="tspan69420">Inkscape-harjoituksia</tspan></textPath></text>
       <text
          id="text69413"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><textPath
            id="textPath69417"
            startOffset="50%"
            xlink:href="#path69415"><tspan
-   id="tspan69411"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#d40000;stroke:#000000;stroke-width:0.26458332px">Inkscape-harjoituksia</tspan></textPath></text>
+             id="tspan69411"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#d40000;stroke:#000000;stroke-width:0.264583px">Inkscape-harjoituksia</tspan></textPath></text>
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path69415"
-         d="m 25.321534,158.20181 c 35.27364,-6.2818 80.237996,-7.24553 116.579586,0"
-         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         d="m 25.321534,158.20181 c 35.27364,-6.2818 101.302486,-7.24553 137.644076,0"
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43035793px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16613843px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43036px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.166138px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="76.435097"
        y="-84.70993"
        id="text69609"><tspan
@@ -665,7 +669,7 @@
          id="tspan69607"
          x="76.435097"
          y="-84.70993"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43035793px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.16613843px">Valintatyökalu</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43036px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.166138px">Valintatyökalu</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot69923"
@@ -677,7 +681,8 @@
            height="45.57127"
            x="78.382584"
            y="317.05304" /></flowRegion><flowPara
-         id="flowPara69929" /></flowRoot>    <g
+         id="flowPara69929" /></flowRoot>
+    <g
        id="g70817"
        transform="translate(-8.4780633,-105.90111)">
       <circle
@@ -685,14 +690,14 @@
          cy="37.772881"
          cx="44.485554"
          id="path70812"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#d40000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#d40000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
          id="text70810"
          y="39.23193"
          x="44.419075"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332px"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583px"
            y="39.23193"
            x="44.419075"
            id="tspan70808"
@@ -721,21 +726,21 @@
        id="text1003"
        y="-78.839958"
        x="41.305954"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16613843px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.166138px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          y="-78.839958"
          x="41.305954"
          id="tspan1001"
          sodipodi:role="line">Valintatyökalulla voi nimensä mukaisesti valita piirrosobjekteja</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          y="-75.52182"
          x="41.305954"
          sodipodi:role="line"
          id="tspan1005">sekä kiertää, vääntää, peilata, skaalata ja tehdä niille vaikka mitä.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16613843px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.166138px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="41.305954"
        y="-68.25663"
        id="text1011"><tspan
@@ -743,11 +748,11 @@
          sodipodi:role="line"
          x="41.305954"
          y="-68.25663"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px">Tehtävänäsi on siirtää alla oleva sydän kehyksen sisään mallin mukaisesti.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px">Tehtävänäsi on siirtää alla oleva sydän kehyksen sisään mallin mukaisesti.</tspan><tspan
          sodipodi:role="line"
          x="41.305954"
          y="-64.938492"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          id="tspan1015">Aloita valitsemalla työkalupalkista valintatyökalu.</tspan></text>
     <flowRoot
        xml:space="preserve"
@@ -760,37 +765,38 @@
            height="338.99814"
            x="-110.92871"
            y="210.41838" /></flowRegion><flowPara
-         id="flowPara1023"></flowPara></flowRoot>    <text
+         id="flowPara1023" /></flowRoot>
+    <text
        id="text1029"
        y="-57.673306"
        x="41.305954"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16613843px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.166138px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan1027"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          y="-57.673306"
          x="41.305954"
          sodipodi:role="line">Valitse sydän klikkaamalla sitä hiirellä. Raahaa sydän kehyksen päälle.</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          y="-54.355167"
          x="41.305954"
          sodipodi:role="line"
          id="tspan1033">Sydän on liian iso. Paina <tspan
    style="fill:#aa0000"
    id="tspan1626">Ctrl</tspan>-näppäin pohjaan ja skaalaa sydän sopivan</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
-         y="-51.037033"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
+         y="-51.037029"
          x="41.305954"
          sodipodi:role="line"
          id="tspan1035">kokoiseksi sydämen ympärillä olevilla &quot;skaalauskahvoilla&quot;.</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
-         y="-47.718895"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
+         y="-47.718891"
          x="41.305954"
          sodipodi:role="line"
          id="tspan1037">(Ctrl pitää sydämen mittasuhteet samoina.)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16613843px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.166138px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="41.305954"
        y="-41.798302"
        id="text1047"><tspan
@@ -798,26 +804,26 @@
          sodipodi:role="line"
          x="41.305954"
          y="-41.798302"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px">Jos sydän ei ole ihan kohdallaan, raahaa sitä vielä vähän.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px">Jos sydän ei ole ihan kohdallaan, raahaa sitä vielä vähän.</tspan><tspan
          sodipodi:role="line"
          x="41.305954"
          y="-38.480164"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          id="tspan1058">Sydän on vielä vinossa. Klikkaa sydäntä niin, että sen ympärillä olevat</tspan><tspan
          sodipodi:role="line"
          x="41.305954"
-         y="-35.162029"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         y="-35.162025"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          id="tspan1060">&quot;skaalauskahvat&quot; muuttuvat &quot;kiertokahvoiksi&quot;. Ota kulmassa olevasta</tspan><tspan
          sodipodi:role="line"
          x="41.305954"
-         y="-31.843891"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         y="-31.843889"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          id="tspan1062">kiertokahvasta kiinni ja suorista sydän. Lopuksi voit vielä peilata sydämen</tspan><tspan
          sodipodi:role="line"
          x="41.305954"
-         y="-28.525755"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         y="-28.525751"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          id="tspan1064">pystyakselin suhteen ikkunan yläreunassa olevalla peilausnapilla.</tspan></text>
     <g
        inkscape:label="#object_flip_hor"
@@ -835,19 +841,19 @@
          sodipodi:nodetypes="cc"
          id="path6651-2"
          d="m -37.49238,176.4968 v 1"
-         style="fill:none;stroke:#000000;stroke-width:0.99999982;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="cccc"
          id="path6653-3"
          d="m -39.45,176.45 v 13.0935 h -5.08475 z"
-         style="color:#000000;display:inline;fill:url(#linearGradient6665-4);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient6667-7);stroke-width:0.89999992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="color:#000000;display:inline;fill:url(#linearGradient6665-4);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient6667-7);stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="cccc"
          id="path6655-0"
          d="m -35.49238,176.4968 v 13 h 5 z"
-         style="color:#000000;display:inline;fill:url(#linearGradient6737-8);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient6739-7);stroke-width:1.0000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="color:#000000;display:inline;fill:url(#linearGradient6737-8);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient6739-7);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          inkscape:connector-curvature="0" />
       <use
          x="0"
@@ -901,22 +907,22 @@
            id="g54881"
            transform="translate(-141.36,-916.52)">
           <path
-             style="fill:url(#linearGradient1188);fill-rule:evenodd;stroke:#6a0000;stroke-width:9.34700012"
+             style="fill:url(#linearGradient1188);fill-rule:evenodd;stroke:#6a0000;stroke-width:9.347"
              inkscape:connector-curvature="0"
              id="path54883"
              d="m 471.65,1150.4 c -67.13,-88.1 -132.63,-52.4 -148.32,7.5 -36.86,140.6 148.21,215 148.21,215 0,0 200.57,-75.1 160.66,-216.2 -15.49,-54.7 -94.03,-94.7 -160.55,-6.3 z" />
           <path
-             style="opacity:0.57619001;fill:url(#linearGradient1190);fill-rule:evenodd"
+             style="opacity:0.57619;fill:url(#linearGradient1190);fill-rule:evenodd"
              inkscape:connector-curvature="0"
              id="path54885"
              d="m 468.09,1358.1 7.23,7.7 c 0,0 138.16,-73.3 137.68,-110.4 -0.48,-37 -0.43,-7 -0.43,-7 0,0 -1.69,29.4 -144.48,109.7 z" />
           <path
-             style="fill:none;stroke:#440000;stroke-width:14.81400013"
+             style="fill:none;stroke:#440000;stroke-width:14.814"
              inkscape:connector-curvature="0"
              id="path54887"
              d="m 471.75,1146.5 c -71.76,-93 -141.8,-55.2 -158.57,7.9 -39.41,148.5 158.45,226.9 158.45,226.9 0,0 214.43,-79.2 171.76,-228.1 -16.56,-57.8 -100.53,-100 -171.64,-6.7 z" />
           <path
-             style="opacity:0.92856996;fill:url(#linearGradient1192);fill-rule:evenodd"
+             style="opacity:0.92857;fill:url(#linearGradient1192);fill-rule:evenodd"
              inkscape:connector-curvature="0"
              id="path54889"
              d="m 326,1205.4 c -4.24,-28.8 5.64,-59 24.63,-80.7 13.66,-12.7 33.95,-21.7 52.56,-15.9 11.86,4.3 22.79,10.8 33.42,17.4 14.9,11.9 25.76,28 35.5,44.2 2.13,5.8 -1.72,-7 37.09,-46.2 20.09,-15.2 48.72,-23.6 72.35,-11.6 15.34,7.8 27.4,20.7 37.28,34.6 3.23,14.7 -15.65,18 -24.89,24.3 -57.89,29.5 -124.52,34.5 -188.42,31.9 -26.48,-1 -53.33,-3.5 -79.52,2 z" />
@@ -930,15 +936,15 @@
        height="16.031147"
        width="16.031147"
        id="rect54820"
-       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:1.05833333, 0.26458333;stroke-dashoffset:0;stroke-opacity:1" />
+       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:1.05833, 0.264583;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        id="text1204"
        y="-19.965603"
        x="105.64182"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16613843px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.166138px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan1202"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          y="-19.965603"
          x="105.64182"
          sodipodi:role="line">Malli</tspan></text>
@@ -946,14 +952,14 @@
        transform="translate(-8.4780633,-3.7719469)"
        id="g1251">
       <circle
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#d40000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#d40000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle1245"
          cx="44.485554"
          cy="37.772881"
          r="2.9491472" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="44.419075"
          y="39.23193"
          id="text1249"><tspan
@@ -961,27 +967,27 @@
            id="tspan1247"
            x="44.419075"
            y="39.23193"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332px">2</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583px">2</tspan></text>
     </g>
     <text
        id="text1257"
        y="5.8267083"
        x="41.305954"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16613843px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.166138px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan1255"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          y="5.8267083"
          x="41.305954"
          sodipodi:role="line">Jos muokkauksessa sattuu vahinko, sen voi perua &quot;kumoa&quot;-toiminnolla (undo),</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
-         y="9.144845"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
+         y="9.144846"
          x="41.305954"
          sodipodi:role="line"
-         id="tspan1261">joka löytyy yläpaneelista &quot;muokkaa&quot; valikosta tai ctrl+z -näppäinyhdistelmällä.</tspan></text>
+         id="tspan1261">joka löytyy yläpaneelista, &quot;muokkaa&quot; valikosta tai ctrl+z -näppäinyhdistelmällä.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16613843px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.166138px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="41.305954"
        y="32.814213"
        id="text1267"><tspan
@@ -989,18 +995,18 @@
          sodipodi:role="line"
          x="41.305954"
          y="32.814213"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px">Useamman kuvion voi valita yhtä aikaa valitsemalla ensin yhden ja sen jälkeen</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px">Useamman kuvion voi valita yhtä aikaa valitsemalla ensin yhden ja sen jälkeen</tspan><tspan
          sodipodi:role="line"
          x="41.305954"
          y="36.132351"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          id="tspan1271">loput <tspan
    style="fill:#aa0000"
    id="tspan1628">Shift</tspan>-näppäintä samalla pohjassa pitäen. Kokeile siirtää pienet sydämet</tspan><tspan
          sodipodi:role="line"
          x="41.305954"
-         y="39.450485"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         y="39.450489"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          id="tspan1273">kaikki yhdellä kertaa.</tspan></text>
     <rect
        ry="2.0819674"
@@ -1009,7 +1015,7 @@
        height="16.031147"
        width="16.031147"
        id="rect74490"
-       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:1.05833333, 0.26458333;stroke-dashoffset:0;stroke-opacity:1" />
+       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:1.05833, 0.264583;stroke-dashoffset:0;stroke-opacity:1" />
     <g
        style="display:inline"
        transform="matrix(0.01349053,0,0,0.01349053,100.37832,42.159657)"
@@ -1021,22 +1027,22 @@
            d="m 471.65,1150.4 c -67.13,-88.1 -132.63,-52.4 -148.32,7.5 -36.86,140.6 148.21,215 148.21,215 0,0 200.57,-75.1 160.66,-216.2 -15.49,-54.7 -94.03,-94.7 -160.55,-6.3 z"
            id="path74551"
            inkscape:connector-curvature="0"
-           style="fill:url(#linearGradient1528);fill-rule:evenodd;stroke:#6a0000;stroke-width:9.34700012" />
+           style="fill:url(#linearGradient1528);fill-rule:evenodd;stroke:#6a0000;stroke-width:9.347" />
         <path
            d="m 468.09,1358.1 7.23,7.7 c 0,0 138.16,-73.3 137.68,-110.4 -0.48,-37 -0.43,-7 -0.43,-7 0,0 -1.69,29.4 -144.48,109.7 z"
            id="path74553"
            inkscape:connector-curvature="0"
-           style="opacity:0.57619001;fill:url(#linearGradient1530);fill-rule:evenodd" />
+           style="opacity:0.57619;fill:url(#linearGradient1530);fill-rule:evenodd" />
         <path
            d="m 471.75,1146.5 c -71.76,-93 -141.8,-55.2 -158.57,7.9 -39.41,148.5 158.45,226.9 158.45,226.9 0,0 214.43,-79.2 171.76,-228.1 -16.56,-57.8 -100.53,-100 -171.64,-6.7 z"
            id="path74555"
            inkscape:connector-curvature="0"
-           style="fill:none;stroke:#440000;stroke-width:14.81400013" />
+           style="fill:none;stroke:#440000;stroke-width:14.814" />
         <path
            d="m 326,1205.4 c -4.24,-28.8 5.64,-59 24.63,-80.7 13.66,-12.7 33.95,-21.7 52.56,-15.9 11.86,4.3 22.79,10.8 33.42,17.4 14.9,11.9 25.76,28 35.5,44.2 2.13,5.8 -1.72,-7 37.09,-46.2 20.09,-15.2 48.72,-23.6 72.35,-11.6 15.34,7.8 27.4,20.7 37.28,34.6 3.23,14.7 -15.65,18 -24.89,24.3 -57.89,29.5 -124.52,34.5 -188.42,31.9 -26.48,-1 -53.33,-3.5 -79.52,2 z"
            id="path74557"
            inkscape:connector-curvature="0"
-           style="opacity:0.92856996;fill:url(#linearGradient1532);fill-rule:evenodd" />
+           style="opacity:0.92857;fill:url(#linearGradient1532);fill-rule:evenodd" />
       </g>
     </g>
     <g
@@ -1050,22 +1056,22 @@
            d="m 471.65,1150.4 c -67.13,-88.1 -132.63,-52.4 -148.32,7.5 -36.86,140.6 148.21,215 148.21,215 0,0 200.57,-75.1 160.66,-216.2 -15.49,-54.7 -94.03,-94.7 -160.55,-6.3 z"
            id="path74569"
            inkscape:connector-curvature="0"
-           style="fill:url(#linearGradient1534);fill-rule:evenodd;stroke:#6a0000;stroke-width:9.34700012" />
+           style="fill:url(#linearGradient1534);fill-rule:evenodd;stroke:#6a0000;stroke-width:9.347" />
         <path
            d="m 468.09,1358.1 7.23,7.7 c 0,0 138.16,-73.3 137.68,-110.4 -0.48,-37 -0.43,-7 -0.43,-7 0,0 -1.69,29.4 -144.48,109.7 z"
            id="path74571"
            inkscape:connector-curvature="0"
-           style="opacity:0.57619001;fill:url(#linearGradient1536);fill-rule:evenodd" />
+           style="opacity:0.57619;fill:url(#linearGradient1536);fill-rule:evenodd" />
         <path
            d="m 471.75,1146.5 c -71.76,-93 -141.8,-55.2 -158.57,7.9 -39.41,148.5 158.45,226.9 158.45,226.9 0,0 214.43,-79.2 171.76,-228.1 -16.56,-57.8 -100.53,-100 -171.64,-6.7 z"
            id="path74573"
            inkscape:connector-curvature="0"
-           style="fill:none;stroke:#440000;stroke-width:14.81400013" />
+           style="fill:none;stroke:#440000;stroke-width:14.814" />
         <path
            d="m 326,1205.4 c -4.24,-28.8 5.64,-59 24.63,-80.7 13.66,-12.7 33.95,-21.7 52.56,-15.9 11.86,4.3 22.79,10.8 33.42,17.4 14.9,11.9 25.76,28 35.5,44.2 2.13,5.8 -1.72,-7 37.09,-46.2 20.09,-15.2 48.72,-23.6 72.35,-11.6 15.34,7.8 27.4,20.7 37.28,34.6 3.23,14.7 -15.65,18 -24.89,24.3 -57.89,29.5 -124.52,34.5 -188.42,31.9 -26.48,-1 -53.33,-3.5 -79.52,2 z"
            id="path74575"
            inkscape:connector-curvature="0"
-           style="opacity:0.92856996;fill:url(#linearGradient1538);fill-rule:evenodd" />
+           style="opacity:0.92857;fill:url(#linearGradient1538);fill-rule:evenodd" />
       </g>
     </g>
     <g
@@ -1079,22 +1085,22 @@
            d="m 471.65,1150.4 c -67.13,-88.1 -132.63,-52.4 -148.32,7.5 -36.86,140.6 148.21,215 148.21,215 0,0 200.57,-75.1 160.66,-216.2 -15.49,-54.7 -94.03,-94.7 -160.55,-6.3 z"
            id="path74587"
            inkscape:connector-curvature="0"
-           style="fill:url(#linearGradient1540);fill-rule:evenodd;stroke:#6a0000;stroke-width:9.34700012" />
+           style="fill:url(#linearGradient1540);fill-rule:evenodd;stroke:#6a0000;stroke-width:9.347" />
         <path
            d="m 468.09,1358.1 7.23,7.7 c 0,0 138.16,-73.3 137.68,-110.4 -0.48,-37 -0.43,-7 -0.43,-7 0,0 -1.69,29.4 -144.48,109.7 z"
            id="path74589"
            inkscape:connector-curvature="0"
-           style="opacity:0.57619001;fill:url(#linearGradient1542);fill-rule:evenodd" />
+           style="opacity:0.57619;fill:url(#linearGradient1542);fill-rule:evenodd" />
         <path
            d="m 471.75,1146.5 c -71.76,-93 -141.8,-55.2 -158.57,7.9 -39.41,148.5 158.45,226.9 158.45,226.9 0,0 214.43,-79.2 171.76,-228.1 -16.56,-57.8 -100.53,-100 -171.64,-6.7 z"
            id="path74591"
            inkscape:connector-curvature="0"
-           style="fill:none;stroke:#440000;stroke-width:14.81400013" />
+           style="fill:none;stroke:#440000;stroke-width:14.814" />
         <path
            d="m 326,1205.4 c -4.24,-28.8 5.64,-59 24.63,-80.7 13.66,-12.7 33.95,-21.7 52.56,-15.9 11.86,4.3 22.79,10.8 33.42,17.4 14.9,11.9 25.76,28 35.5,44.2 2.13,5.8 -1.72,-7 37.09,-46.2 20.09,-15.2 48.72,-23.6 72.35,-11.6 15.34,7.8 27.4,20.7 37.28,34.6 3.23,14.7 -15.65,18 -24.89,24.3 -57.89,29.5 -124.52,34.5 -188.42,31.9 -26.48,-1 -53.33,-3.5 -79.52,2 z"
            id="path74593"
            inkscape:connector-curvature="0"
-           style="opacity:0.92856996;fill:url(#linearGradient1544);fill-rule:evenodd" />
+           style="opacity:0.92857;fill:url(#linearGradient1544);fill-rule:evenodd" />
       </g>
     </g>
     <g
@@ -1108,22 +1114,22 @@
            d="m 471.65,1150.4 c -67.13,-88.1 -132.63,-52.4 -148.32,7.5 -36.86,140.6 148.21,215 148.21,215 0,0 200.57,-75.1 160.66,-216.2 -15.49,-54.7 -94.03,-94.7 -160.55,-6.3 z"
            id="path74605"
            inkscape:connector-curvature="0"
-           style="fill:url(#linearGradient1546);fill-rule:evenodd;stroke:#6a0000;stroke-width:9.34700012" />
+           style="fill:url(#linearGradient1546);fill-rule:evenodd;stroke:#6a0000;stroke-width:9.347" />
         <path
            d="m 468.09,1358.1 7.23,7.7 c 0,0 138.16,-73.3 137.68,-110.4 -0.48,-37 -0.43,-7 -0.43,-7 0,0 -1.69,29.4 -144.48,109.7 z"
            id="path74607"
            inkscape:connector-curvature="0"
-           style="opacity:0.57619001;fill:url(#linearGradient1548);fill-rule:evenodd" />
+           style="opacity:0.57619;fill:url(#linearGradient1548);fill-rule:evenodd" />
         <path
            d="m 471.75,1146.5 c -71.76,-93 -141.8,-55.2 -158.57,7.9 -39.41,148.5 158.45,226.9 158.45,226.9 0,0 214.43,-79.2 171.76,-228.1 -16.56,-57.8 -100.53,-100 -171.64,-6.7 z"
            id="path74609"
            inkscape:connector-curvature="0"
-           style="fill:none;stroke:#440000;stroke-width:14.81400013" />
+           style="fill:none;stroke:#440000;stroke-width:14.814" />
         <path
            d="m 326,1205.4 c -4.24,-28.8 5.64,-59 24.63,-80.7 13.66,-12.7 33.95,-21.7 52.56,-15.9 11.86,4.3 22.79,10.8 33.42,17.4 14.9,11.9 25.76,28 35.5,44.2 2.13,5.8 -1.72,-7 37.09,-46.2 20.09,-15.2 48.72,-23.6 72.35,-11.6 15.34,7.8 27.4,20.7 37.28,34.6 3.23,14.7 -15.65,18 -24.89,24.3 -57.89,29.5 -124.52,34.5 -188.42,31.9 -26.48,-1 -53.33,-3.5 -79.52,2 z"
            id="path74611"
            inkscape:connector-curvature="0"
-           style="opacity:0.92856996;fill:url(#linearGradient1550);fill-rule:evenodd" />
+           style="opacity:0.92857;fill:url(#linearGradient1550);fill-rule:evenodd" />
       </g>
     </g>
     <g
@@ -1134,22 +1140,22 @@
          id="g74494"
          transform="translate(-141.36,-916.52)">
         <path
-           style="fill:url(#linearGradient1552);fill-rule:evenodd;stroke:#6a0000;stroke-width:9.34700012"
+           style="fill:url(#linearGradient1552);fill-rule:evenodd;stroke:#6a0000;stroke-width:9.347"
            inkscape:connector-curvature="0"
            id="path74496"
            d="m 471.65,1150.4 c -67.13,-88.1 -132.63,-52.4 -148.32,7.5 -36.86,140.6 148.21,215 148.21,215 0,0 200.57,-75.1 160.66,-216.2 -15.49,-54.7 -94.03,-94.7 -160.55,-6.3 z" />
         <path
-           style="opacity:0.57619001;fill:url(#linearGradient1554);fill-rule:evenodd"
+           style="opacity:0.57619;fill:url(#linearGradient1554);fill-rule:evenodd"
            inkscape:connector-curvature="0"
            id="path74498"
            d="m 468.09,1358.1 7.23,7.7 c 0,0 138.16,-73.3 137.68,-110.4 -0.48,-37 -0.43,-7 -0.43,-7 0,0 -1.69,29.4 -144.48,109.7 z" />
         <path
-           style="fill:none;stroke:#440000;stroke-width:14.81400013"
+           style="fill:none;stroke:#440000;stroke-width:14.814"
            inkscape:connector-curvature="0"
            id="path74500"
            d="m 471.75,1146.5 c -71.76,-93 -141.8,-55.2 -158.57,7.9 -39.41,148.5 158.45,226.9 158.45,226.9 0,0 214.43,-79.2 171.76,-228.1 -16.56,-57.8 -100.53,-100 -171.64,-6.7 z" />
         <path
-           style="opacity:0.92856996;fill:url(#linearGradient1556);fill-rule:evenodd"
+           style="opacity:0.92857;fill:url(#linearGradient1556);fill-rule:evenodd"
            inkscape:connector-curvature="0"
            id="path74502"
            d="m 326,1205.4 c -4.24,-28.8 5.64,-59 24.63,-80.7 13.66,-12.7 33.95,-21.7 52.56,-15.9 11.86,4.3 22.79,10.8 33.42,17.4 14.9,11.9 25.76,28 35.5,44.2 2.13,5.8 -1.72,-7 37.09,-46.2 20.09,-15.2 48.72,-23.6 72.35,-11.6 15.34,7.8 27.4,20.7 37.28,34.6 3.23,14.7 -15.65,18 -24.89,24.3 -57.89,29.5 -124.52,34.5 -188.42,31.9 -26.48,-1 -53.33,-3.5 -79.52,2 z" />
@@ -1159,15 +1165,15 @@
        id="text74504"
        y="40.651867"
        x="105.70576"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          id="tspan74506"
          y="40.651867"
          x="105.70576"
          sodipodi:role="line"
-         style="font-size:2.34196472px;line-height:1.25;stroke-width:0.26458332">Malli</tspan></text>
+         style="font-size:2.34196px;line-height:1.25;stroke-width:0.264583">Malli</tspan></text>
     <rect
-       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:1.05833333, 0.26458333;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:1.05833, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
        id="rect74508"
        width="16.031147"
        height="16.031147"
@@ -1176,7 +1182,7 @@
        ry="2.0819674" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16613843px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.166138px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="41.305954"
        y="61.389183"
        id="text1620"><tspan
@@ -1184,17 +1190,17 @@
          sodipodi:role="line"
          x="41.305954"
          y="61.389183"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"><tspan
    style="fill:#aa0000"
    id="tspan1630">Ctrl</tspan>-näppäimen pitäminen pohjassa siirron aikana saa siirron tapahtumaan</tspan><tspan
          sodipodi:role="line"
          x="41.305954"
          y="64.707321"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          id="tspan1624">vaaka- tai pystysuoraan.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16613843px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.166138px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="41.305954"
        y="14.822541"
        id="text1642"><tspan
@@ -1202,11 +1208,11 @@
          sodipodi:role="line"
          x="41.305954"
          y="14.822541"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px">Kokeile, mitä tapahtuu, jos yrität muuttaa sydämen kokoa ilman, että</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px">Kokeile, mitä tapahtuu, jos yrität muuttaa sydämen kokoa ilman, että</tspan><tspan
          sodipodi:role="line"
          x="41.305954"
          y="18.140678"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          id="tspan1646">Ctrl-näppäin on pohjassa.</tspan></text>
     <g
        id="g1654"
@@ -1216,14 +1222,14 @@
          cy="37.772881"
          cx="44.485554"
          id="circle1648"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#d40000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#d40000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
          id="text1652"
          y="39.23193"
          x="44.419075"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332px"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583px"
            y="39.23193"
            x="44.419075"
            id="tspan1650"
@@ -1233,19 +1239,19 @@
        id="text1664"
        y="80.439209"
        x="41.305954"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16613843px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.166138px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan1660"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          y="80.439209"
          x="41.305954"
          sodipodi:role="line">Harjoitellaan seuraavaksi yksinkertaista värien vaihtamista. Valitun kohteen</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          y="83.757347"
          x="41.305954"
          sodipodi:role="line"
-         id="tspan1864">täyttövarin voi vaihtaa klikkaamalla hiirellä väripaletista haluttua väriä.</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         id="tspan1864">täyttövärin voi vaihtaa klikkaamalla hiirellä väripaletista haluttua väriä.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          y="87.075485"
          x="41.305954"
          sodipodi:role="line"
@@ -1253,17 +1259,17 @@
    id="tspan1658"
    style="fill:#aa0000">Shift</tspan>-näppäin</tspan><tspan
          id="tspan1662"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
-         y="90.393616"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
+         y="90.393623"
          x="41.305954"
          sodipodi:role="line">pohjassa. Värin saa poistettua klikkaamalla paletissa äärivasemmalla olevaa</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
-         y="93.711754"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
+         y="93.711761"
          x="41.305954"
          sodipodi:role="line"
          id="tspan1985">ruksisymbolia.</tspan></text>
     <rect
-       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:1.05833333, 0.26458333;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:1.05833, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1666"
        width="16.031147"
        height="16.031147"
@@ -1297,11 +1303,11 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="105.70576"
        y="95.685196"
        id="text1730"><tspan
-         style="font-size:2.34196472px;line-height:1.25;stroke-width:0.26458332"
+         style="font-size:2.34196px;line-height:1.25;stroke-width:0.264583"
          sodipodi:role="line"
          x="105.70576"
          y="95.685196"
@@ -1313,34 +1319,34 @@
        height="16.031147"
        width="16.031147"
        id="rect1732"
-       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:1.05833333, 0.26458333;stroke-dashoffset:0;stroke-opacity:1" />
+       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:1.05833, 0.264583;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        id="text1740"
        y="116.4225"
        x="41.305954"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16613843px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.166138px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan1738"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          y="116.4225"
          x="41.305954"
          sodipodi:role="line">Aseta vasemman kuvan valkoisille sydämille samat värit kuin mallikuvassa.</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          y="119.74064"
          x="41.305954"
          sodipodi:role="line"
          id="tspan1977">Muuta myös raunaviivan paksuus. Sen saa muutettua klikkaamalla ikkunan</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          y="123.05878"
          x="41.305954"
          sodipodi:role="line"
-         id="tspan1979">vasemmassa alareunassa viivan värin oikealla puolella olevaa numeroa</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         id="tspan1979">vasemmassa alareunassa viivan värin oikealla puolella olevaa lukua</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          y="126.37691"
          x="41.305954"
          sodipodi:role="line"
          id="tspan1981">hiiren oikealla napilla. Valitse esiin tulevasta valikosta haluamasi viivan paksuus.</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65450931px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.16613843px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65451px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.166138px"
          y="129.69505"
          x="41.305954"
          sodipodi:role="line"
