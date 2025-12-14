@@ -106,6 +106,26 @@ valita reunaviivalle paksuuden.
 ![](../varit_ja_paksuus.png)
 
 
+## Objektien pinoaminen
+
+Piirtoalueella olevat objektit ovat aina syvyyssuunnassa jossain järjestyksessä päällekkäin.
+Jos objektit ovat piirtoalueella samassa kohdassa, päällä olevat siis peittävät alla olevia
+osittain tai kokonaan.
+
+{: .figure-medium }
+> ![](../pinoaminen_1.png)
+> ![](../pinoaminen_2.png)
+
+Kun objekti on valittuna, voi sen syvyyssuuntaista sijaintia tässä objektien pinossa muuttaa
+valintatyökalun asetuspalkin järjestelynapeilla taikka vastaavilla "Kohde"-valikosta löytyvillä
+toiminnoilla. Toiminnoille on myös kätevät näppäintoiminnot, joiden osaaminen sujuvoittaa työskentelyä.
+
+{: .figure-medium }
+![](../inkscape_jarjestyskuvakkeet.png)
+
+Valittun objektin voi näillä toiminnoilla siirtää päällimmäiseksi (*Home*), nostaa yhden askeleen ylemmäs (*Page up*),
+laskea yhden askeleen alemmas (*Page Down*) ja siirtää alimmaiseksi (*End*).
+
 ## Valintatyökalun asetukset
 
 Valintatyökalun työkalukohtaisissa asetuksissa on joukko käyttöä helpottavia nappeja ja valintoja.
@@ -119,8 +139,8 @@ sekä peilauksille pysty- ja vaaka-akselin suhteen. Kolmantena ryhmänä ovat na
 piirtokohdetta saa siirrettyä objektien pinossa päällimmäiseksi, alimmaiseksi sekä ylös ja alas.
 
 Täytettäviin numerokenttiin on mahdollista suoraan lukuarvot kirjoittamalla siirtää valittu kohde
-x- ja y-suunnassa haluttuun kohtaan. Piirtoalueen origo on vasemmassa alakulmassa ja syötetty koordinaatti
-tarkoittaa valitun kohteen vasenta alakulmaa. Yksiköksi on valittavissa pudotusvalikosta fyysisen
+x- ja y-suunnassa haluttuun kohtaan. Piirtoalueen origo on (oletuksena) vasemmassa yläkulmassa ja syötetty koordinaatti
+tarkoittaa valitun kohteen vasenta yläkulmaa. Yksiköksi on valittavissa pudotusvalikosta fyysisen
 maailman mittayksiköitä, kuten mm, cm tai tuumat, digitaalisia yksiköitä, kuten pikselit (px), pt ja pc,
 sekä prosentti piirtoalueen koon suhteen.
 
@@ -149,4 +169,6 @@ silloin, kun sitä sattuu tarvitsemaan.
 > valintatyökalun käyttöä.
 > 
 > [Harjoitus 2 - Valintatyökalu](/files/harjoitus-02-valinta.svg)
+>
+> [Harjoitus 3 - Valintatyökalu - Edistyneet](/files/harjoitus-03-valinta_edistyneet.svg)
 
