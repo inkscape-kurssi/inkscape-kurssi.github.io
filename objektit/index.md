@@ -16,8 +16,9 @@ nav_order: 6
 > - Objektien tasaaminen
 >     - tasaustyökalun käyttö objektien ja pisteiden kohdistamiseen
 > - Objektien kloonaus ja duplikointi
-> - Joukko-operaatiot
+> - Joukko-operaatiot eli Boolen operaatiot
 >     - bezier-käyrien väliset yhdiste (unioni), erotus, leikkaus, poisto (symmetrinen erotus),
 >       jako ja polun leikkaus
+>     - "Shape builder" -työkalu
 > - Objektien ryhmittely
 > - Tasot
