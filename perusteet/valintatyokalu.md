@@ -9,7 +9,7 @@ parent: Perusteet
 # Valintatyökalu
 
 Valintatyökalu on työkalupalkissa ylimpänä ja sitä symboloi nuolikuvake.
-Työkalun voi valita myös näppäimistöllä **F1**- tai **s**-näppäintä painamalla.
+Työkalun voi valita myös näppäimistöllä *F1*- tai *s*-näppäintä painamalla.
 Valintatyökalulla voi piirtoalueelta valita kohteita yhden tai useampia kerrallaan.
 Valitulle kohteelle voi suorittaa erilaisia toimenpiteitä, kuten siirtämisiä,
 skaalauksia, kiertoja ja peilauksia.
@@ -24,7 +24,7 @@ valinnasta.
 
 Valinta näkyy katkoviivoilla piirrettynä suorakaiteena kaikkien valittujen
 kohteiden ympärillä sekä koko valinnan ympärile kulmiin ja reunoihin ilmaantuvina
-*skaalauskahvoina*.
+**skaalauskahvoina**.
 
 {: .figure-medium }
 ![](../valinta.png)
@@ -44,7 +44,7 @@ raahaamalla ne uuteen paikkaan. Jos raahattaessa pitää *Ctrl*-näppäintä poh
 tapahtuu raahaaminen joko vaaka- tai pystysuoraan. Näin kohde on helppoa saada
 pysymään samassa linjassa siirron aikana.
 
-Valittuja kohteita voi siirtää myös käyttämällä näppäimistön nuolinäppäimiä.
+Valittuja kohteita voi siirtää myös käyttämällä näppäimistön **nuolinäppäimiä**.
 Pelkästään nuolinäppäintä painamalla kohde siirtyy piirtoalueella noin kahden
 pikselin suuruisen matkan valittuun suuntaan. Pitämällä *Shift*-näppäintä pohjassa
 nuolinäppäintä painettaessa siirrytty matka on pidempi, eli 20 pikseliä.
@@ -57,7 +57,7 @@ sekä pysty- että vaakasuunnassa.
 ## Skaalaaminen
 
 Skaalaaminen tapahtuu ottamalla kiinni valinnan nurkissa tai reunoissa olevista
-kaksipäisistä nuolista, *skaalauskahvoista*. Kahvasta vetämällä kohde venyy
+kaksipäisistä nuolista, **skaalauskahvoista**. Kahvasta vetämällä kohde venyy
 (tai kutistuu) haluttuun suuntaan. Oletuksena kohteen mittasuhteet eivät säily
 vaan sen muoto saattaa litistyä tai venyä pysty- tai vaakasuunnassa.
 
@@ -75,10 +75,11 @@ ympärillä.
 ## Kierto ja vääntö
 
 Kiertoa varten valintaa pitää klikata hiirellä toistamiseen. Silloin skaalaamiseen
-käytettävät kahvat muuttuvat *kiertokahvoiksi*. Nurkissa olevista kahvoista kiinni
+käytettävät kahvat muuttuvat **kiertokahvoiksi**. Jokainen valitun kohteen klikkaus vaihtaa
+tilan skaalauksen ja kierron välillä. Nurkissa olevista kahvoista kiinni
 ottamalla voi valintaa kiertää vapaasti mihin kulmaan haluaa. Kierron keskipisteenä
 toimii valinnan keskellä oleva "plus-symboli". Jos kierron haluaa tehdä jonkin muun
-pisteen ympäri, voi "plus-symbolin" siirtää haluamaansa kohtaan.
+pisteen ympäri, voi "plus-symbolin" siirtää hiirellä raahaamalla haluamaansa kohtaan.
 
 Jos kiertäessä pitää *Ctrl*-näppäintä pohjassa, kierto tapahtuu portaittain 15 asteen loikilla.
 
@@ -96,7 +97,7 @@ väännettyä kuvion vinoon.
 Valinnan täyttövärin voi vaihtaa klikkaamalla ikkunan alareunan väripaletista
 halutun värin. Jos klikatessa pitää *Shift*-näppäintä pohjassa, vaihtuu
 valinnassa olevien kohteiden reunan väri. Värin sijasta voi valita myös
-paletin alussa, äärivasemmalla, olevan ja ruksilla merkityn "ei väriä" -vaihtoehdon. Tällöin
+paletin alussa, äärivasemmalla, olevan ja ruksilla merkityn "**ei väriä**" -vaihtoehdon. Tällöin
 valinnasta riippuen objektin täyttö tai reuna muuttuu läpinäkyväksi. Valitut värit
 näkyvät ikkunan vasemmassa alakulmassa. Viivan värin vieressä olevaa numeroa
 hiiren oikealla nappulalla painamaa klikkaamalla esiin tulevasta valikosta voi
@@ -118,13 +119,15 @@ osittain tai kokonaan.
 
 Kun objekti on valittuna, voi sen syvyyssuuntaista sijaintia tässä objektien pinossa muuttaa
 valintatyökalun asetuspalkin järjestelynapeilla taikka vastaavilla "Kohde"-valikosta löytyvillä
-toiminnoilla. Toiminnoille on myös kätevät näppäintoiminnot, joiden osaaminen sujuvoittaa työskentelyä.
+toiminnoilla.
 
 {: .figure-medium }
 ![](../inkscape_jarjestyskuvakkeet.png)
 
-Valittun objektin voi näillä toiminnoilla siirtää päällimmäiseksi (*Home*), nostaa yhden askeleen ylemmäs (*Page up*),
-laskea yhden askeleen alemmas (*Page Down*) ja siirtää alimmaiseksi (*End*).
+Toiminnoille on olemassa myös kätevät näppäintoiminnot, joiden osaaminen sujuvoittaa ja nopeuttaa
+työskentelyä. Valittun objektin voi näillä toiminnoilla siirtää päällimmäiseksi (*Home*), nostaa yhden
+askeleen ylemmäs (*Page up*), laskea yhden askeleen alemmas (*Page Down*) ja
+siirtää alimmaiseksi (*End*).
 
 ## Valintatyökalun asetukset
 
@@ -139,13 +142,14 @@ sekä peilauksille pysty- ja vaaka-akselin suhteen. Kolmantena ryhmänä ovat na
 piirtokohdetta saa siirrettyä objektien pinossa päällimmäiseksi, alimmaiseksi sekä ylös ja alas.
 
 Täytettäviin numerokenttiin on mahdollista suoraan lukuarvot kirjoittamalla siirtää valittu kohde
-x- ja y-suunnassa haluttuun kohtaan. Piirtoalueen origo on (oletuksena) vasemmassa yläkulmassa ja syötetty koordinaatti
-tarkoittaa valitun kohteen vasenta yläkulmaa. Yksiköksi on valittavissa pudotusvalikosta fyysisen
-maailman mittayksiköitä, kuten mm, cm tai tuumat, digitaalisia yksiköitä, kuten pikselit (px), pt ja pc,
-sekä prosentti piirtoalueen koon suhteen.
+x- ja y-suunnassa haluttuun kohtaan. Piirtoalueen origo on (oletuksena) vasemmassa yläkulmassa,
+koordinaatit kasvavat oikealle ja alas. Syötetty koordinaatti tarkoittaa valitun kohteen vasemman yläkulman
+sijaintia suhteessa origoon. Yksiköksi on valittavissa pudotusvalikosta fyysisen
+maailman mittayksiköitä, kuten mm, cm tai tuumat, digitaalisia ja painoalan yksiköitä,
+kuten [pikselit] (px), [point] (pt) ja [pica] (pc), sekä prosenttiosuus piirtoalueen koon suhteen.
 
 Samoin kohteen leveys ja korkeus ovat myös syötettävissä lukuarvoina. Leveyden ja korkeyden
-kenttien välissä oleva lukkosymboli kuvaan kohteen mittasuhteiden lukitsemista. Jos lukko on
+kenttien välissä oleva **lukkosymboli** kuvaan kohteen mittasuhteiden lukitsemista. Jos lukko on
 kiinni, leveyden tai korkeuden muuttaminen muuttaa myös toista samassa suhteessa niin, että
 kuvaobjektin mittasuhteet säilyvät.
 
@@ -159,8 +163,8 @@ kaksinkertaiseksi, niin jos reunaviivan suhteet säilyttävä valinta on pääll
 reunaviiva skaalautuu kaksinkertaiseksi, eli 4 pikseliä paksuksi. Jos taas asetus ei ole päällä,
 reunaviiva pysyy kahdessa pikselissä ja siis pienenee suhteessa muuhun kuvioon.
 
-Oletuksena nämä kaikki neljä asetusta ovat päällä, mutta niiden toiminnasta on hyvä olla tietoinen
-silloin, kun sitä sattuu tarvitsemaan.
+Oletuksena nämä kaikki neljä asetusta ovat päällä, jolloin skaalaus pitää kuvion täsmälleen saman näköisen,
+mutta niiden toiminnasta on hyvä olla tietoinen siltä varalta, että niitä sattuu tarvitsemaan.
 
 
 {: .exercises }
@@ -172,3 +176,7 @@ silloin, kun sitä sattuu tarvitsemaan.
 >
 > [Harjoitus 3 - Valintatyökalu - Edistyneet](/files/harjoitus-03-valinta_edistyneet.svg)
 
+
+[pikselit]: https://en.wikipedia.org/wiki/Pixel
+[point]: https://en.wikipedia.org/wiki/Point_(typography)
+[pica]: https://en.wikipedia.org/wiki/Pica_(typography)

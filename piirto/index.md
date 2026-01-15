@@ -1,5 +1,5 @@
 ---
-date: "2025-12-12T15:30:00+03:00"
+date: "2025-12-15T15:30:00+03:00"
 title: "Piirtotyökalut"
 layout: default
 nav_order: 4

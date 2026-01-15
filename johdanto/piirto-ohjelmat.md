@@ -47,4 +47,4 @@ ohjelmalla voi olla joskus helpompaa ja joskus hankalampaa. Yksi Inkscapen eduis
 se käyttää tallennuksissaan standardia SVG-tiedostomuotoa, jonka voi avata suurella osalla muista
 ohjelmista.
 
-[Bezier]: https://fi.wikipedia.org/wiki/B%C3%A9zier-k%C3%A4yr%C3%A4 (Wikipedia:Bézier-käyrä)
+[Bezier]: https://fi.wikipedia.org/wiki/B%C3%A9zier-k%C3%A4yr%C3%A4

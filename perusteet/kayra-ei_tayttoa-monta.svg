@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="400"
+   viewBox="0 0 105.83333 105.83333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="kayra-ei_tayttoa-monta.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.483191"
+     inkscape:cx="179.14608"
+     inkscape:cy="230.1051"
+     inkscape:window-width="1919"
+     inkscape:window-height="2088"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Taso 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1"
+       style="fill:none;stroke:#aa0000;stroke-width:2.45261"
+       d="m 46.574418,10.549744 c -9.96088,0.320443 -19.956989,2.934815 -30.892171,8.928137 -14.5802441,7.991095 -0.981445,27.19758 2.944006,36.029842 0,0 18.887832,20.464906 14.566553,28.976526 -7.236121,14.252985 37.700498,11.559726 33.915243,6.092134 C 63.322791,85.108792 73.897707,63.786122 77.823157,59.159696 81.748606,54.533275 96.059451,39.893834 91.573222,29.239042 87.086993,18.584248 67.528704,12.143612 56.556755,10.953853 53.210879,10.591038 49.894711,10.442929 46.574418,10.549744 Z M 35.89755,25.722461 c 2.57226,0.114322 7.83664,1.442786 8.688359,4.230233 1.257548,4.115615 -1.028872,8.116645 -3.54397,10.288777 -1.387053,1.197911 -7.888381,2.62935 -8.917285,0.571542 -1.028903,-2.05781 -4.915769,-4.001412 -4.115511,-8.917285 0.800259,-4.915873 5.316147,-6.28759 7.888407,-6.173267 z m 29.046806,1.363224 c 0.455538,-0.0268 0.96286,-0.0198 1.591634,0.0088 2.515099,0.114323 8.231185,3.315526 8.574154,6.85953 0.342969,3.544001 -4.115596,7.201952 -7.545276,7.88789 -3.42968,0.685934 -8.802772,0.457396 -9.603031,-4.115511 -0.800259,-4.572905 -0.686344,-7.773823 2.40037,-9.145695 2.315033,-1.028902 3.215535,-1.41461 4.582149,-1.494999 z M 51.891283,48.807328 c 1.768124,-0.07236 6.93417,11.285182 6.593882,13.894062 -0.342968,2.629421 -13.252307,3.267001 -14.887184,1.236381 -2.18035,-2.70813 6.525178,-15.058086 8.293302,-15.130443 z"
+       sodipodi:nodetypes="sscssssssssssssssssssszssz" />
+  </g>
+</svg>
