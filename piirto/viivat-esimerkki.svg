@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="400"
+   viewBox="0 0 105.83333 105.83333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="viivat-esimerkki.svg"
+   inkscape:export-filename="taytto-liuku-mesh.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.0933019"
+     inkscape:cx="179.85939"
+     inkscape:cy="238.14052"
+     inkscape:window-width="1751"
+     inkscape:window-height="2088"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-52.916665 : 16.267103 : 0"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="52.916665 : 16.463073 : 0"
+       inkscape:persp3d-origin="52.916665 : 35.277777 : 1"
+       id="perspective571" />
+  </defs>
+  <g
+     inkscape:label="Taso 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.943999;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 6.6989459,23.130323 28.059737,10.490802 42.468789,22.624742 60.669698,9.7324308 76.469101,22.119161 90.498969,10.364407 96.186753,21.234395"
+       id="path3992" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.943999;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 8.2024701,31.807081 C 16.418158,24.855347 24.760242,21.695465 35.88302,25.866508 c 11.122779,4.171042 9.985221,9.858825 19.717652,10.238012 9.732433,0.379185 10.743594,-5.814181 18.706491,-9.479642 7.962897,-3.665461 21.992767,8.215691 21.992767,8.215691"
+       id="path3993" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.943999;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 5.8141796,51.19006 26.163808,33.873917 47.860858,45.459349 c 0,0 -6.782416,10.154542 -19.674726,11.039308 C 15.29382,57.383424 5.8141796,51.19006 5.8141796,51.19006 Z"
+       id="path3994" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.943999;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 61.554464,55.570921 72.80364,38.760357 c 9.353245,-4.152082 16.347113,-0.69728 20.981604,10.364406 l -3.41267,12.892313"
+       id="path3995"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="opacity:1;fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:0.943999;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 34.307073,98.461866 C 24.953827,98.209078 16.611744,89.487808 23.057899,85.063975 c 6.446155,-4.423831 12.765917,4.676624 22.245556,4.423833 9.47964,-0.252791 2.148719,-10.996385 12.765916,-10.996385 10.617197,0 -1.137558,20.728815 -1.137558,20.728815 z"
+       id="path3996" />
+    <path
+       style="opacity:1;fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:0.943999;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 14.409053,77.92031 2.6543,-15.167424 24.52067,1.011161 -9.606036,10.869988 5.687785,6.446155"
+       id="path3997" />
+    <path
+       style="opacity:1;fill:#afc6e9;fill-opacity:1;stroke:#000000;stroke-width:0.943999;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 70.65492,94.869412 68.379808,68.57921 99.220239,94.363832 96.186754,68.958395 Z"
+       id="path3998" />
+  </g>
+</svg>
