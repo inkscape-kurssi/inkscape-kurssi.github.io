@@ -24,10 +24,10 @@ valinnasta.
 
 Valinta näkyy katkoviivoilla piirrettynä suorakaiteena kaikkien valittujen
 kohteiden ympärillä sekä koko valinnan ympärile kulmiin ja reunoihin ilmaantuvina
-**skaalauskahvoina**.
+*skaalauskahvoina*.
 
 {: .figure-medium }
-![](../valinta.png)
+![Esimerkki valitusta kohteesta. Keltainen hymynaama.](../valinta.png)
 
 
 Yhden tai useamman kohteen voi valita myös painamalla hiiren napin pohjaan
@@ -35,7 +35,7 @@ ja piirtämällä hiirellä raahaamalla suorakulmion. Sen sisään jääneet koh
 tulevat mukaan valintaan.
 
 {: .figure-large }
-![](../valinta-2.png)
+![Esimerkki kahdesta yhtä aikaa valitusta kohteesta. Keltainen ja punainen hymynaama.](../valinta-2.png)
 
 ## Siirtäminen
 
@@ -46,51 +46,52 @@ pysymään samassa linjassa siirron aikana.
 
 Valittuja kohteita voi siirtää myös käyttämällä näppäimistön **nuolinäppäimiä**.
 Pelkästään nuolinäppäintä painamalla kohde siirtyy piirtoalueella noin kahden
-pikselin suuruisen matkan valittuun suuntaan. Pitämällä *Shift*-näppäintä pohjassa
-nuolinäppäintä painettaessa siirrytty matka on pidempi, eli 20 pikseliä.
-Vastaavasti, jos nuolinäppäintä painaessa pitää samalla *Alt*-näppäintä pohjassa,
-kohde siirtyy normaalia pienemmän matkan, eli noin 0,723 pikseliä.
-Nuolinäppäimillä kohdetta saa siis siirrettyä tarkasti halutun määrän. Tämä
-on kätevää erityisesti myös silloin, kun siirtymä halutaan tehdä saman määrän verran
+pikselin suuruisen matkan valittuun suuntaan. (Tässä pikselillä tarkoitetaan
+piirtoalueen koon mukaisia pikseleitä, ei näytön fyysisiä pikseleitä.)
+Pitämällä *Shift*-näppäintä pohjassa nuolinäppäintä painettaessa siirrytty matka on pidempi,
+eli 20 pikseliä. Vastaavasti, jos nuolinäppäintä painaessa pitää samalla *Alt*-näppäintä pohjassa,
+kohde siirtyy normaalia pienemmän matkan, joka riippuu voimassa olevasta zoomauksesta.
+Nuolinäppäimillä kohdetta saa siis siirrettyä tarkasti halutun määrän ja hienosäädettyä sijaintia.
+Tämä on kätevää erityisesti myös silloin, kun siirtymä halutaan tehdä saman määrän verran
 sekä pysty- että vaakasuunnassa.
 
 ## Skaalaaminen
 
 Skaalaaminen tapahtuu ottamalla kiinni valinnan nurkissa tai reunoissa olevista
-kaksipäisistä nuolista, **skaalauskahvoista**. Kahvasta vetämällä kohde venyy
+kaksipäisistä nuolista, *skaalauskahvoista*. Kahvasta vetämällä kohde venyy
 (tai kutistuu) haluttuun suuntaan. Oletuksena kohteen mittasuhteet eivät säily
 vaan sen muoto saattaa litistyä tai venyä pysty- tai vaakasuunnassa.
 
 {: .figure-large }
-![](../skaalaus.png)
+![Keltainen hymynaama venytetty sivusuunnassa](../skaalaus.png)
 
 Jos skaalattaessa pidetään samalla
 pohjassa *Ctrl*-näppäintä, pysyvät kohteen mittasuhteet lukittuina.
 
 Normaalisti skaalattaessa käytettyä skaalauskahvaa vastakkainen kahva pysyy paikallaan
 ja skaalaus tapahtuu näiden kahden kahvan välissä. Jos kuitenkin samanaikaisesti
-pidetään *Shift*-näppäintä pohjassa, tapahtuu skaalaaminen valinnan keskipisteen
-ympärillä.
+pidetään *Shift*-näppäintä pohjassa, pysyy valinnan keskipiste paikoillaan ja
+skaalaaminen tapahtuu valinnan sen ympärillä.
 
 ## Kierto ja vääntö
 
 Kiertoa varten valintaa pitää klikata hiirellä toistamiseen. Silloin skaalaamiseen
-käytettävät kahvat muuttuvat **kiertokahvoiksi**. Jokainen valitun kohteen klikkaus vaihtaa
+käytettävät kahvat muuttuvat *kiertokahvoiksi*. Jokainen valitun kohteen klikkaus vaihtaa
 tilan skaalauksen ja kierron välillä. Nurkissa olevista kahvoista kiinni
 ottamalla voi valintaa kiertää vapaasti mihin kulmaan haluaa. Kierron keskipisteenä
-toimii valinnan keskellä oleva "plus-symboli". Jos kierron haluaa tehdä jonkin muun
-pisteen ympäri, voi "plus-symbolin" siirtää hiirellä raahaamalla haluamaansa kohtaan.
+toimii valinnan keskellä oleva "risti-symboli". Jos kierron haluaa tehdä jonkin muun
+pisteen ympäri, voi "risti-symbolin" siirtää hiirellä raahaamalla haluamaansa kohtaan.
 
 Jos kiertäessä pitää *Ctrl*-näppäintä pohjassa, kierto tapahtuu portaittain 15 asteen loikilla.
 
 {: .figure-medium }
-![](../kierto.png)
+![Punainen hymynaama kierretty myötäpäivään.](../kierto.png)
 
 Jos kulman kahvojen sijaan ottaa kiinni valinnan sivujen kahvoista, saa niistä vetämällä
 väännettyä kuvion vinoon.
 
 {: .figure-medium }
-![](../vaanto.png)
+![Punaista hymynaamaa väännetty vinoon kuin kursivoitu.](../vaanto.png)
 
 ## Värin ja reunan paksuuden valinta
 
@@ -104,7 +105,7 @@ hiiren oikealla nappulalla painamaa klikkaamalla esiin tulevasta valikosta voi
 valita reunaviivalle paksuuden.
 
 {: .figure-large }
-![](../varit_ja_paksuus.png)
+![Inkscape-ikkunan vasen alakulma](../varit_ja_paksuus.png)
 
 
 ## Objektien pinoaminen
@@ -114,15 +115,15 @@ Jos objektit ovat piirtoalueella samassa kohdassa, päällä olevat siis peittä
 osittain tai kokonaan.
 
 {: .figure-medium }
-> ![](../pinoaminen_1.png)
-> ![](../pinoaminen_2.png)
+> ![Hymynaama, reiällinen ympyrä ja kolmio päällekkäin tässä järjestyksessä.](../pinoaminen_1.png)
+> ![Kolmio päällimmäisenä ja hymynaama ja ympyrä sen alla.](../pinoaminen_2.png)
 
 Kun objekti on valittuna, voi sen syvyyssuuntaista sijaintia tässä objektien pinossa muuttaa
 valintatyökalun asetuspalkin järjestelynapeilla taikka vastaavilla "Kohde"-valikosta löytyvillä
 toiminnoilla.
 
-{: .figure-medium }
-![](../inkscape_jarjestyskuvakkeet.png)
+{: .figure-normal }
+![Järjestelykuvakkeet: Nosto ylimmäksi, nosto ylös, lasku alas, lasku alimmaksi](../inkscape_jarjestyskuvakkeet.png)
 
 Toiminnoille on olemassa myös kätevät näppäintoiminnot, joiden osaaminen sujuvoittaa ja nopeuttaa
 työskentelyä. Valittun objektin voi näillä toiminnoilla siirtää päällimmäiseksi (*Home*), nostaa yhden
@@ -134,7 +135,7 @@ siirtää alimmaiseksi (*End*).
 Valintatyökalun työkalukohtaisissa asetuksissa on joukko käyttöä helpottavia nappeja ja valintoja.
 
 {: .figure-full }
-![](../inkscape_valinta-asetukset.png)
+![Valintatyökalun asetuspalkki](../inkscape_valinta-asetukset.png)
 
 Ensimmäinen ryhmä nappeja on joukko pikavalintoja kaikkien piirtoalueella olevien objektien valitsemiseen
 tai valinnan poistamiseen. Seuraavassa ryhmässä ovat pikavalinnat 90 asteen kierrolle vasta- ja myötäpäivään
@@ -148,7 +149,7 @@ sijaintia suhteessa origoon. Yksiköksi on valittavissa pudotusvalikosta fyysise
 maailman mittayksiköitä, kuten mm, cm tai tuumat, digitaalisia ja painoalan yksiköitä,
 kuten [pikselit] (px), [point] (pt) ja [pica] (pc), sekä prosenttiosuus piirtoalueen koon suhteen.
 
-Samoin kohteen leveys ja korkeus ovat myös syötettävissä lukuarvoina. Leveyden ja korkeyden
+Samoin kohteen leveys ja korkeus ovat myös syötettävissä lukuarvoina. Leveyden ja korkeuden
 kenttien välissä oleva **lukkosymboli** kuvaan kohteen mittasuhteiden lukitsemista. Jos lukko on
 kiinni, leveyden tai korkeuden muuttaminen muuttaa myös toista samassa suhteessa niin, että
 kuvaobjektin mittasuhteet säilyvät.

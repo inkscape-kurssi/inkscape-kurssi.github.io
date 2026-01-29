@@ -9,9 +9,9 @@ parent: Piirtotyökalut
 # Polun muokkaaminen
 
 {: .figure .figure-right }
-![](../inkscape-nodetool-ikoni.png)
+![Solmutyökalun kuvake työkalupalkissa](../inkscape-nodetool-ikoni.png)
 
-Jo olemassa olevia polkuja voi muokata **solmutyökalulla** (node tool), joka on työkalupalkissa
+Jo olemassa olevia polkuja voi muokata *solmutyökalulla* (node tool), joka on työkalupalkissa
 heti valintatyökalun alapuolella. Solmutyökalun voi hiiren lisäksi valita pikanäppäimillä *n* ja *F2*.
 
 ## Solmujen valinta ja siirtäminen
@@ -21,10 +21,10 @@ pieninä neliön muotoisina siirtokahvoina. Jos solmun kulma ei ole pyöristetty
 jos kyseisen solmun kulma on pyöristetty, siirtokahvan neliö on vaakasuunnassa.
 
 {: .figure-medium-row }
-> ![](../inkscape-nodetool-objekti.png)
-> ![](../inkscape-nodetool-siirto.png)
-> ![](../inkscape-nodetool-valinta.png)
-> ![](../inkscape-nodetool-siirto2.png)
+> ![Valitun polku-objektin solmut ovat näkyvissä, kun käytössä on solmutyökalu.](../inkscape-nodetool-objekti.png)
+> ![Valitaan hiirellä yksi solmu ja siirretään sitä raahaamalla.](../inkscape-nodetool-siirto.png)
+> ![Valitaan kaksi solmua piirtämällä niiden yli suorakulmio solmutyökalulla.](../inkscape-nodetool-valinta.png)
+> ![Kaksi solmua valittuna shift-näppäin pohjassa klikkaamalla.](../inkscape-nodetool-siirto2.png)
 
 Solmusta voi ottaa kiinni hiirellä ja sen voi raahata haluamaansa kohtaan. Useampia solmuja
 voi valita yhtä aikaa aktiiviseksi "piirtämällä" hiirellä niiden yli suorakaiteen. Kaikki
@@ -36,8 +36,8 @@ Jos useampi solmu on yhtä aikaa valittuna, solmusta kiinni ottaminen ja siirtä
 kaikkia valuttuja solmuja yhtä aikaa.
 
 Valittuja solmuja voi siirtää myös näppäimistöltä nuolinäppäimillä samoin kuin valintatyökalulla
-pystyi siirtämään kokonaisia objekteja. Pelkkä nuolinäppäimen painaminen siirtää solmua vähän.
-*Shift* ja nuolinäppäin siirtää solmua kymmenkertaisesti. *Alt*-näppäin pojassa nuolilla siirtäminen
+pystyi siirtämään kokonaisia objekteja. Pelkkä nuolinäppäimen painaminen siirtää solmua 2 pikseliä.
+*Shift* ja nuolinäppäin siirtää solmua kymmenkertaisesti, eli 20 pikseliä. *Alt*-näppäin pojassa nuolilla siirtäminen
 on puolestaan pientä hienosäätöä. Nuolinäppäimillä siirtoja voi siis tehdä paljon
 hiirtä tarkemmin ja täsmällisemmin. Tämä on käyttökelpoista esimerkiksi silloin, jos halutaan
 siirtää useampia solmuja yhtä suuria etäisyyksiä eri suuntiin.
@@ -46,33 +46,33 @@ Yksi hyödyllinen pikanäppäin toiminto on myös *Ctrl-a*, jolla saa nopeasti v
 aktiiviseen polkuun tai polkuihin kuuluvat solmut.
 
 Lisäksi on hyödyllistä tietää, että kahden solmun välistä viivaa klikkaamalla työkalu
-valitsee molemmat viivan päissä olevat solmut.
+valitsee molemmat viivan päissä olevat solmut samalla kertaa.
 
 
 ## Kulmien ja viivojen pyöristys
 
-Jos polusta valitaan solmu, jota vastaava kulma on pyöristetty, näkyvät siirtokahvan
-ympärillä myös pyöreät "venytyskahvat", joilla kulman muotoa voidaan muokata siirtämällä ja venyttämällä.
+Jos polusta valitaan solmu, jota vastaava kulma on pyöristetty, näkyvät solmun *siirtokahvan*
+ympärillä myös pyöreät *"venytyskahvat"*, joilla kulman muotoa voidaan muokata siirtämällä ja venyttämällä.
 Jos solmuun ei liity näitä kahvoja, ne saa esiin ottamalla solmusta kiinni hiirellä ja vetämällä
 *Shift*-näppäin pohjassa viivan suuntaan. Molempien viivojen suuntaan lähtevät kahvat
-ovat venytettävissä erikseen.
+ovat venytettävissä esiin erikseen.
 
 {: .figure-medium-row }
-> ![](../inkscape-nodetool-kahva.png)
-> ![](../inkscape-nodetool-kahva-2.png)
-> ![](../inkscape-nodetool-kahva-3.png)
-> ![](../inkscape-nodetool-kahva-4.png)
+> ![Pyöristetyssä solmussa venytyskahva kumpaankin suuntaan](../inkscape-nodetool-kahva.png)
+> ![Venytyskahvoista käännetty ja toista puolta vänytetty vähemmän kuin toista](../inkscape-nodetool-kahva-2.png)
+> ![Terävästä kulmasta on shift-näppäin pohjassa vedetty esiin venytyskahva](../inkscape-nodetool-kahva-3.png)
+> ![Samasta kulmasta vedetty esiin myös toinen venytyskahva](../inkscape-nodetool-kahva-4.png)
 
 Solmujen väliin jäävän viivan muotoa voi pyöristää ja venyttää myös ottamalla
 hiirellä kiinni suoraan viivasta ja venyttämällä sitä haluamallaan tavalla.
 
 {: .figure-medium-row }
-> ![](../inkscape-nodetool-viiva-1.png)
+> ![Viiva vedetty kaarevaksi suoraan viivasta vetämällä](../inkscape-nodetool-viiva-1.png)
 
 ## Asetuspalkki
 
 {: .figure-full }
-> ![](../inkscape-nodetool-asetukset.png)
+> ![Solmutyökalun asetuspalkki](../inkscape-nodetool-asetukset.png)
 
 Solmutyökalun asetuspalkissa on paljon toimintoja. Käydään niitä läpi vaiheittain.
 
@@ -83,32 +83,32 @@ sekä yhdistelyyn. Nappien kuvakkeet esittävät hyvin, mitä kustakin napista t
 Solmujen poistoja ja lisäyksiä voi tehdä joko palkin nappuloiden kautta tai suoraan polkuun.
 
 {: .figure-normal }
-> ![](../inkscape-nodetool-lisayspoisto.png)
+> ![Solmutyökalun lisää-, poista-, yhdistä- ja erota-napit](../inkscape-nodetool-lisayspoisto.png)
 
 Uusien **solmujen lisääminen** polkuun tapahtuu helposti klikkaamalla polun viivaa siitä kohdasta,
 johon uuden solmun haluaa lisätä. Polun muoto pysyy entisellään, mutta halutuun kohtaan
 ilmestyy uusi solmu. Vastaavasti ylimääräisen **solmun voi poistaa** valitsemalla sen ja
 painamalla *Del*-näppäintä tai *Backspace*-näppäintä.
 
-Toinen tapa lisätä solmuja on valita polusta haluttu viiva tai viivat valitsemalla sen päätepistinä
+Toinen tapa lisätä solmuja on valita polusta haluttu viiva tai viivat valitsemalla sen päätepisteinä
 olevat solmut. Tämän jälkeen asetuspalkin "plus"-nappia painamalla kyseiseen väliin ilmaantuu uusi
 solmu. Suoralla viivalla uusi solmu tulee puoleen väliin. Kaarevalla viivalla sijainti voi olla
-painottunut.
+vähän painottunut.
 
 Vastaavasti palkin "miinus"-napin painaminen poistaa valitut solmut.
 
 {: .figure-medium-row }
-> ![](../inkscape-nodetool-objekti.png)
-> ![](../inkscape-nodetool-lisays.png)
-> ![](../inkscape-nodetool-poisto.png)
+> ![Suljettu polku-objekti, jossa kuusi solmua](../inkscape-nodetool-objekti.png)
+> ![Lisätään uusi solmu kaksoisklikkaamalla kahden solmun välissä olevaa viivaa](../inkscape-nodetool-lisays.png)
+> ![Yksi solmu poistettu](../inkscape-nodetool-poisto.png)
 
 Palkin seuraava nappi tarkoittaa kuvakkeensa mukaisesti toimintoa, joka **yhdistää polun kaksi
 avoimen pään solmua yhdeksi solmuksi**. Uusi yhdistetty solmu tulee kahden valitun solmun puoliväliin,
 joten kappaleen muoto luonnollisestikin muuttuu.
 
 {: .figure-medium-row }
-> ![](../inkscape-nodetool-yhdista-1.png)
-> ![](../inkscape-nodetool-yhdista-2.png)
+> ![Avoin polku, jonka molempien päiden solmut ovat valittuina](../inkscape-nodetool-yhdista-1.png)
+> ![Avoimen polun solmut on yhdistetty yhdeksi ja lopputuloksena on suljettu polku](../inkscape-nodetool-yhdista-2.png)
 
 Seuraava nappi tekee myös kuvakkeensa mukaisen toiminnon, eli **katkaisee polun valitun solmun kohdalta**.
 Käytännössä yhdestä solmusta tulee kaksi polun päättösolmua, jotka ovat samassa kohdassa.
@@ -116,16 +116,16 @@ Katkaisun jälkeen mikään ei näytä muuttuneen, mutta jos näistä kahdesta s
 siirtää sitä, tulee katkaisukohta näkyviin, kuten alla olevissa kuvissa.
 
 {: .figure-medium-row }
-> ![](../inkscape-nodetool-katkaise-1.png)
-> ![](../inkscape-nodetool-katkaise-2.png)
+> ![Suljettu polku on katkaistu yhden solmun kohdalta kahdeksi solmuksi. Solmut ovat päällekkäin.](../inkscape-nodetool-katkaise-1.png)
+> ![Toinen solmuista on siirretty, jolloin näkyy, että polku on avoin.](../inkscape-nodetool-katkaise-2.png)
 
 Seuraavat kaksi nappia myöskin sulkevat ja katkaisevat polun valittujen solmujen kohdalta, mutta
 erona on se, että polun sulkemista ei tehdä yhdistämällä valitut solmut yhdeksi vaan **yhdistämällä
 solmut uudella viivalla**. Vastaavasti katkaiseminen tehdään päinvastoin **poistamalla solmujen välillä oleva viiva**.
 
 {: .figure-medium-row }
-> ![](../inkscape-nodetool-yhdista-3.png)
-> ![](../inkscape-nodetool-yhdista-4.png)
+> ![Avoin polku, jonka kaksi päätysolmua on valittuina](../inkscape-nodetool-yhdista-3.png)
+> ![Valitut solmut on yhdistetty niitä yhdistävällä viivalla ja polusta on tullut suljettu.](../inkscape-nodetool-yhdista-4.png)
 
 Kun polusta poistetaan viivoja solmujen väliltä, on hyvä tehdä huomio, että samassa polussa voi
 olla useita avoimia päitä. Polun ei siis tarvitse olla suljettu tai vain yksi murtoviiva alkusolmusta
@@ -134,48 +134,48 @@ että koska kyseessä on yksi useammasta osasta koostuva polku, sillä voi olla 
 viivan väri ja yksi viivan paksuus. Tästä aiheesta lisää myöhemmin.
 
 {: .figure-medium-row }
-> ![](../inkscape-nodetool-polku_osissa.png)
-> ![](../inkscape-nodetool-polku_osissa-2.png)
+> ![Suljetusta polusta on poistettu viivat kahdensolmuparin väliltä. Lopputuloksena avoin polku ja siitä irrallinen viiva.](../inkscape-nodetool-polku_osissa.png)
+> ![Samaa polkua olevat avoin polun osuus, irrallinen viiva ja suljettu polun osuus](../inkscape-nodetool-polku_osissa-2.png)
 
 
 ## Solmujen pehmennys
 
 Asetuspalkin seuraavat napit liittyvät solmujen kohdalle tuleviin kulmiin ja kaariin.
-Niillä määrätään solmun tyyppi, joka voi olla **kulma**, **pehmennetty**, **symmetrinen**
-tai **automaattinen**.
+Niillä määrätään solmun tyyppi, joka voi olla *kulma*, *pehmennetty*, *symmetrinen*
+tai *automaattinen*.
 
 {: .figure-normal }
-> ![](../inkscape-nodetool-solmujen_kulmat.png)
+> ![Solmujen tyypin valinta asetuspalkissa](../inkscape-nodetool-solmujen_kulmat.png)
 
-Solmun tyyppinä **kulma** esitetään kärjellään olevalla siirtokahvalla ja se tarkoittaa, että
-solmun molemmat "venytyskahvat" ovat siirrettävissä itsenäisesti, jolloin kulmasta voidaan
+Solmun tyyppinä *kulma* esitetään kärjellään olevalla siirtokahvalla ja se tarkoittaa, että
+solmun **molemmat "venytyskahvat" ovat siirrettävissä itsenäisesti**, jolloin kulmasta voidaan
 tehdä juuri niin terävä ja kaartuva kuin piirtäjä haluaa.
 
 {: .figure-medium-row }
-> ![](../inkscape-nodetool-kulma-1.png)
-> ![](../inkscape-nodetool-kulma-2.png)
+> ![Terävän kulman solmu ilman venytyskahvoja ja kärjellään olevalla siirtokahvalla](../inkscape-nodetool-kulma-1.png)
+> ![Solmun molemmat venytyskahvat venytetty eri suuntiin ja eri pituisiksi](../inkscape-nodetool-kulma-2.png)
 
-**Pehmennetty** solmu esitetään siirtokahvalla, jonka neliö on vaakasuorassa. Pehmennetyssä
-solmussa sen venytyskahvat ovat vastakkaisiin suuntiin. Kun toista kahvaa siirretään, toisen
+*Pehmennetty* solmu esitetään siirtokahvalla, jonka neliö on vaakasuorassa. Pehmennetyssä
+solmussa sen **venytyskahvat ovat vastakkaisiin suuntiin**. Kun toista kahvaa siirretään, toisen
 suunta muuttuu samalla. Tämä tekee polun suunnan muuttumisesta solmun kohdalla pehmeän ja sileän.
 Venytyskahvojen pituudet ovat kuitenkin toisistaan riippumattomat, eli solmuun "tulevan" ja "lähtevän"
 viivan kaarevuudet voivat olla erilaiset.
 
 {: .figure-medium-row }
-> ![](../inkscape-nodetool-pehmennetty-1.png)
-> ![](../inkscape-nodetool-pehmennetty-2.png)
+> ![Venytyskahvat ovat vastakkaisiin suuntiin eripitkinä](../inkscape-nodetool-pehmennetty-1.png)
+> ![Toista venytyskahvaa on siirretty ja toinen on siirtynyt samalla niin, että se on yhä vastakkaiseen suuntaan](../inkscape-nodetool-pehmennetty-2.png)
 
-Solmun kolmas tyyppi on **symmetrinen**, joka esitetään myös vaakasuoralla neliökahvalla.
-Symmetrisyys tarkoittaa sitä, että vastakkaissuuntaisuuden lisäksi venytyskahvojen
-pituudet ovat myös yhtä suuret. Kun toista venytetään, toinen seuraa perässä.
+Solmun kolmas tyyppi on *symmetrinen*, joka esitetään myös vaakasuoralla neliökahvalla.
+Symmetrisyys tarkoittaa sitä, että **vastakkaissuuntaisuuden lisäksi venytyskahvojen
+pituudet ovat yhtä suuret**. Kun toista venytetään, toinen seuraa perässä.
 Polun kaarevuus solmun kohdalla siis sileän lisäksi myös symmetrinen "tulevaan" ja "lähtevään" suuntaan.
 
 {: .figure-medium-row }
-> ![](../inkscape-nodetool-symmetrinen-1.png)
-> ![](../inkscape-nodetool-symmetrinen-2.png)
+> ![Kaksi vastakkaista venytyskahvaa, jotka ovat yhtä pitkät](../inkscape-nodetool-symmetrinen-1.png)
+> ![Toista venytyskahvaa on siirretty ja toisen suunta on muuttunut vastakkaiseksi ja pituus samaksi](../inkscape-nodetool-symmetrinen-2.png)
 
-Solmun neljäs tyyppi, **automaattinen**, pyrkii nimensä mukaisesti säilyttämään
-solmun sileyden myös silloin, kun muita solmuja siirrellään. Automaattinen solmu
+Solmun neljäs tyyppi, *automaattinen*, **pyrkii nimensä mukaisesti säilyttämään
+solmun sileyden** myös silloin, kun muita solmuja siirrellään. Automaattinen solmu
 esitetään pyöreällä siirtokahvalla. Kun solmu on merkitty automaatiseksi, sen viereisiä
 solmuja siirrettäessä automaattisen solmun venytyskahvat kääntyvät automaattisesti
 niin, että pehmennys pyrkii säilymään. Automaattisen solmun venytyskahvat ovat näkyvissä
@@ -183,15 +183,15 @@ ja niistä näkee venytysten suuruuden ja suunnan, mutta jos venytyskahvoja käy
 solmu siirtyy automaattisesta tilasta tavalliseksi pehmennetyksi solmuksi.
 
 {: .figure-medium-row }
-> ![](../inkscape-nodetool-automaattinen-1.png)
-> ![](../inkscape-nodetool-automaattinen-2.png)
+> ![Solmun siirtokahva on pyöreä ja venytyskahvat ovat vastakkaisiin suuntiin](../inkscape-nodetool-automaattinen-1.png)
+> ![Solmun viereistä solmua on siirretty ja solmun venytyskahvojen suunnat ja pituudet ovat muuttuneet automaattisesti](../inkscape-nodetool-automaattinen-2.png)
 
 ## Venytysten poisto ja lisäys
 
 Asetuspalkin seuraavat kaksi nappia liittyvät solmujen venytyskahvojen lisäämiseen ja poistamiseen.
 
 {: .figure-normal }
-> ![](../inkscape-nodetool-suoristus.png)
+> ![Kaksi nappia: suora viiva ja kaari](../inkscape-nodetool-suoristus.png)
 
 Jos kahden solmun välinen viiva on kaareva ja se halutaan suoristaa,
 tämä tapahtuu valitsemalla kyseinen viiva, eli sen molemmat päätysolmut, ja painamalla suoran
@@ -202,28 +202,28 @@ viivan päätysolmut ja painamalla kaarevan viivan nappia. Saman voi toki tehdä
 mainituilla tavoilla, eli *Shift*-vetämällä solmusta tai vetämällä itse viivasta.
 
 {: .figure-medium-row }
-> ![](../inkscape-nodetool-suoristus-1.png)
-> ![](../inkscape-nodetool-suoristus-2.png)
+> ![Kaksi kulma-tyyppistä solmua, joiden molemmat kulmat on pöristetty](../inkscape-nodetool-suoristus-1.png)
+> ![Solmujen välinen viiva on suoristettu](../inkscape-nodetool-suoristus-2.png)
 
 
 ## Live Path Effect
 
-**Live Path Effect** on erikoistoiminto, joka voidaan lisätä polulle erillisestä napista.
+*Live Path Effect* on erikoistoiminto, joka voidaan lisätä polulle erillisestä napista.
 
 {: .figure-normal }
-> ![](../inkscape-nodetool-lpe-ikoni.png)
+> ![LPE-toiminnon ikoni](../inkscape-nodetool-lpe-ikoni.png)
 
-Sen käyttäminen
-valittuna olevalle polulle lisää kunkin solmun kahvojen viereen ylimääräisen pienen kahvan.
+Sen käyttäminen valittuna olevalle polulle lisää kunkin solmun kahvojen viereen
+ylimääräisen pienen kahvan.
 Tällä kahvalla polkuun voi lisätä kulmanpyöristysefektin, joka säilyy kulman
 ominaisuutena vaikka solmuja liikutellaan. Tämä on erilainen pyöristys kuin
 venytyskahvoilla saavutettava ja tähän kannattaa tutustua kokeilemalla.
 
 {: .figure-medium-row }
-> ![](../inkscape-nodetool-lpe-1.png)
-> ![](../inkscape-nodetool-lpe-2.png)
-> ![](../inkscape-nodetool-lpe-3.png)
-> ![](../inkscape-nodetool-lpe-4.png)
+> ![Suljetulle polulle on laitettu päälle LPE-efekti](../inkscape-nodetool-lpe-1.png)
+> ![Polun yhtä kulmaa pyöristetään LPE-efektin kahvoilla](../inkscape-nodetool-lpe-2.png)
+> ![Kolme kulmaa pyöristetty LPE-efektillä](../inkscape-nodetool-lpe-3.png)
+> ![Yhtä solmua on siirretty ja kulman pyöristys säilyy](../inkscape-nodetool-lpe-4.png)
 
 
 ## Objekti poluksi
@@ -235,9 +235,9 @@ toisinaan ne voidaan haluta muuntaa poluiksi. Tätä varten solmutyökalun
 asetuspalkissa ovat kaksi seuraavaa toimintoa.
 
 {: .figure-normal }
-> ![](../inkscape-nodetool-poluksi-ikoni.png)
+> ![Objektit poluiksi - ja viivat poluiksi -napit solmutyökalun asetuspalkissa](../inkscape-nodetool-poluksi-ikoni.png)
 
-Näistä ensimmäinen muuntaa muuta tyyppiä olevat **objektit poluiksi**.
+Näistä ensimmäinen muuntaa muuta tyyppiä olevat *objektit poluiksi*.
 Kun valintatyökalu on käytössä, alareunan vihjepalkissa
 näkyy tekstinä valitun piirto-objektin tyyppi. Alla olevassa ensimmäisessä kuvassa
 näkyy, että valittuna on suorakulmio, jonka kulmat on pyöristetty.
@@ -249,16 +249,16 @@ Neljännessä kuvassa on vielä otettu valintatyökalu käyttöön, jolloin vihj
 että kyseessä on nyt polku.
 
 {: .figure-medium-row }
-> ![](../inkscape-nodetool-poluksi-1.png)
-> ![](../inkscape-nodetool-poluksi-2.png)
-> ![](../inkscape-nodetool-poluksi-3.png)
-> ![](../inkscape-nodetool-poluksi-4.png)
+> ![Kulmista pyöristetty suorakulmio-objekti valittuna valintatyökalulla ja tilanneteksti, joka kertoo sen tyypin](../inkscape-nodetool-poluksi-1.png)
+> ![Sama pyöristetty suorakulmio valittuna solmutyökalulla](../inkscape-nodetool-poluksi-2.png)
+> ![Sama objekti poluksi -toiminnon käytön jälkeen](../inkscape-nodetool-poluksi-3.png)
+> ![Sama objekti valintatyökalulla valittuna ja tilannetekstissä lukee objektin tyyppinä polku](../inkscape-nodetool-poluksi-4.png)
 
 Kun suorakulmio on muunnettu poluksi, sitä ei voi enää käsitellä suorakulmiona. Se on
 menettänyt suorakulmion rajoitteet ja sitä voidaan muokata tästä lähtien polkuobjektin
 vapaudella.
 
-Toinen poluksi muuntava toiminto on **viivat poluiksi**. Tämän työkalun käytössä on kyse
+Toinen poluksi muuntava toiminto on *viivat poluiksi*. Tämän työkalun käytössä on kyse
 nimensä mukaisesti siitä, että piirretty viiva muutetaan itsensä reunapoluksi.
 Tämän tarkoitus käy ehkä parhaiten ilmi alla olevista kuvista. Ensimmäisessä on
 polku, joka koostuu kahdesta solmusta ja niiden välisestä paksusta punaisesta ja
@@ -269,5 +269,5 @@ viivan väri on vaihtunut uuden polun täyttöväriksi. Uudella polulla ei ole n
 muunnos.
 
 {: .figure-medium-row }
-> ![](../inkscape-nodetool-stroketopath-1.png)
-> ![](../inkscape-nodetool-stroketopath-2.png)
+> ![Kaksi solmua ja niiden välillä paksu kaareva punainen viiva](../inkscape-nodetool-stroketopath-1.png)
+> ![Viiva on muutettu suljetuksi poluksi, joka kulkee pitkin aiemman viivan reunoja](../inkscape-nodetool-stroketopath-2.png)

@@ -14,8 +14,8 @@ Käydään lyhyesti läpi ohjelman ikkunassa näkyvän käyttöliittymän osat.
 
 ## Piirtoalue ja sivu
 
-Inkscapen käyttöliittymässä ikkunan keskellä on piirtoalue ja siinä suorakaiteen
-muotoinen rajattu alue eli sivu. Sivun koko ja muoto ovat valittavissa asetuksista.
+Inkscapen käyttöliittymässä ikkunan keskellä on *piirtoalue* ja siinä suorakaiteen
+muotoinen rajattu alue eli *sivu*. Sivun koko ja muoto ovat valittavissa asetuksista.
 Oletuksena se on pystysuuntaisen A4-paperin muotoinen ja kokoinen. Piirto-objekteja
 on mahdollista sijoittaa piirtoalueelle myös merkityn sivun ulkopuolelle, mutta
 tallennettua kuvaa tarkastellessa, esimerkiksi verkkosivulla, vain sivun sisäpuoli on näkyvissä.
@@ -26,27 +26,27 @@ tallennettua kuvaa tarkastellessa, esimerkiksi verkkosivulla, vain sivun sisäpu
 
 ## Valikko
 
-Ikkunan yläreunassa on ohjelman valikko, josta löytyvät normaalit tiedosto- ja
+Ikkunan yläreunassa on ohjelman *valikko*, josta löytyvät normaalit tiedosto- ja
 muokkausvalinnat sekä lukuisia muita toimintoja.
 
 Piirtoalueen ympärillä ikkunan eri reunoilla on joukko nappulapaneleja ja dialoginäkymiä.
 
 ## Komentopalkki
 
-Ikkunan yläreunassa heti valikon alapuolella on komentopalkki, jossa on
+Ikkunan yläreunassa heti valikon alapuolella on *komentopalkki*, jossa on
 pikavalintoja joillekin usein tarvittaville toiminnoille, kuten tiedostojen
 avaamiselle ja tallentamiselle. Nämä toiminnot löytyvät pääsääntöisesti myös
 valikosta eri kohdista, mutta tästä palkista ne ovat kätevästi saatavilla.
 Näitä toimintoja ovat esimerkiksi uuden tiedoston luonti, tiedoston
 avaus ja tallentaminen, kopiointi, leikkaus, liittäminen sekä kumoustoiminnot.
 
-Samasta palkista on avattavissa esiin myös erinäisiä *dialoginäkymiä*, kuten
+Samasta palkista on avattavissa esiin myös erilaisia *dialoginäkymiä*, kuten
 täytön ja reunan asetukset, tasot, tasausasetukset sekä piirtoalueen asetukset.
 
 ## Työkalurivi
 
-Työkalurivi on ikkunan vasemmassa reunassa pystysuuntaisesti oleva rivi nappuloita.
-Näillä valitaan kulloinkin käytössä oleva työkalu. Työkalut ovat järjestyksessä
+*Työkalurivi* on ikkunan vasemmassa reunassa pystysuuntaisesti oleva rivi nappuloita.
+Näillä valitaan kulloinkin käytössä oleva työkalu. Työkalut ovat (Inkscapen versiossa 1.4.2) järjestyksessä
 ylhäältä alaspäin:
 
 - Valitse ja muunna kohteita
@@ -72,6 +72,7 @@ ylhäältä alaspäin:
 - LPE-työkalu. Luo geometrisia muotoja (uudemmissa versioissa)
 - Mittaustyökalu
 - Lähennä ja loitonna
+- Sivutyökalu
 
 Lähes kaikille työkalulle on lisäksi pikanäppäin, jolla sen voi valita nopeasti näppäimistöllä.
 Pikanäppäimen näkee työkaluvihjeenä, kun hiiren vie työkalun napin päälle. Esimerkiksi
@@ -82,7 +83,7 @@ pääsee muokkaamaan kaksoisnapauttamalla työkalun kuvaketta.
 
 ## Työkalukohtaiset asetukset ja toiminnot
 
-Piirtoalueen yläpuolella olevan palkin sisältö vaihtuu sen mukaan, mikä työkalu kulloinkin
+Piirtoalueen yläpuolella olevan *asetuspalkin* sisältö vaihtuu sen mukaan, mikä työkalu kulloinkin
 on valittuna. Siellä ovat nähtävillä kuhunkin työkaluun liittyvät valinnat, asetukset
 ja toiminnot. Esimerkiksi valintatyökalun ollessa käytössä, tässä palkissa ovat
 muun muassa piirtoalueelta valitun kohteen sijainnin koordinaatit ja koko sekä
@@ -103,8 +104,8 @@ lukemalla niiden työkaluvihjeet sekä kokeilemalla.
 
 ## Väripaletti ja tilarivi
 
-Ikkunan alareunassa on esillä väripaletti, josta piirroksen eri kohteille voi valita
-reuna- ja täyttövärin. Hiiren vasen klikkaus värin päällä vaihtaa kyseisen värin
+Ikkunan alareunassa on esillä *väripaletti*, josta piirroksen eri kohteille voi valita
+*reuna-* ja *täyttövärin*. Hiiren vasen klikkaus värin päällä vaihtaa kyseisen värin
 valitun kohteen täyttöväriksi. Hiiren vasen klikkaus näppäimistön *shift*-näppäin
 painettuna vaihtaa valitun kohteen reunavärin.
 
@@ -119,19 +120,23 @@ oikean reunan napista voi valita tarjolla olevista paleteista haluamansa väriva
 ![Valintalista erilaisista väripaleteista](../inkscape_palettivaihtoehdot.png)
 
 
-Paletin alapuolella on tilarivi, jossa ovat nähtävillä parhaillaan valitun
-kohteen täyttö- ja reunaväri, kohteen peittävyys prosentteina, pikavalintoja
-tasoasetuksille sekä tila- ja vihjeteksti.
+Paletin alapuolella on *tilarivi*, jossa ovat nähtävillä parhaillaan valitun
+kohteen täyttö- ja reunaväri, reunaviivan paksuus, kohteen peittävyys (opacity) prosentteina,
+pikavalintoja tasoasetuksille sekä *tila- ja vihjeteksti*.
 
-Tila- ja vihjeteksti kertoo jatkuvasti, minkälainen kohde on valittuna tai
+Tila- ja vihjeteksti kertovat jatkuvasti, minkälainen kohde on valittuna ja
 mitä toimintoja käytössä olevalla työkalulla voi tehdä.
 
 {: .figure-full }
 ![Tila- ja vihjeteksti väripaletin alapuolella](../inkscape_vari_ja_vihje.png)
 
+Kuvassa tilateksti kertoo, että valittuna on "Suorakulmio"-tyyppinen kohde tasolla 1
+ja vihjeteksti kertoo, että klikkaamalla valittua kohdetta uudelleen voi vaihtaa
+skaalaus- ja kiertokäyttöliittymän välillä.
+
 ## Kohdistusvalinnat
 
-Ikkunan reunassa äärimmäisenä oikealla ylhäällä ovat kohdistus- eli tartuntavalinnat.
+Ikkunan reunassa äärimmäisenä oikealla ylhäällä ovat *kohdistus- eli tartuntavalinnat*.
 
 {: .figure-small }
 ![Tarttumisvalikko, jossa on monia rastiruutuja](../inkscape_snapping.png)
@@ -147,7 +152,7 @@ voi laittaa päälle tai kokonaan pois päältä.
 ## Telakoidut dialogit
 
 Lisäksi ikkunan oikeaan reunaan, piirtoalueen viereen,
-on mahdollista avata erilaisia dialoginäkymiä telakoituna. Tämä tarkoittaa sitä,
+on mahdollista avata erilaisia *dialoginäkymiä* telakoituna. Tämä tarkoittaa sitä,
 että dialoginäkymät on mahdollista irrottaa omiksi pieniksi ikkunoikseen taikka
 kiinnittää (telakoida) pääikkunan reunaan. Tällaisia dialogeja ovat esimerkiksi
 tasonäkymä, täyttö- ja viiva-asetukset sekä objektien tasaus.

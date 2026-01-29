@@ -8,42 +8,42 @@ parent: Perusteet
 
 # Reunaviivat ja täyttö
 
-Vektorikuvissa kuvien alkeiskuviot koostuvat kuvion **reunaviivasta** (stroke) ja sen **täytöstä** (fill) 
+Vektorikuvissa kuvien alkeiskuviot koostuvat kuvion *reunaviivasta* (stroke) ja sen *täytöstä* (fill) 
 eli "sisäpuolesta". Molemmille voi toisistaan riippumatta määritellä erilaisia ominaisuuksia, kuten värin.
 
 ## Reunaviiva
 
 Reunaviiva voi olla avoin tai suljettu. Jos se on avoin, se alkaa jostain
 pisteestä, ja päättyy johonkin pisteeseen. Jos reunaviiva puolestaan on suljettu,
-se alkaa samasta pisteestä, johon se myös päättyy. Kuvio voi myös koostua useammasta
+se alkaa samasta pisteestä, johon se myös päättyy. Yksi kuvio voi myös koostua useammasta
 kuin yhdestä avoimesta tai suljetusta käyrästä.
 
 {: .figure-small-row }
-> ![](../kayra-ei_tayttoa.svg)
-> ![](../kayra-taytto.svg)
-> ![](../kayra-ei_tayttoa-yhtenainen.svg)
-> ![](../kayra-taytto-yhtenainen.svg)
-> ![](../kayra-ei_tayttoa-monta.svg)
-> ![](../kayra-taytto-monta.svg)
+> ![Avoin käyrä punaisella reunaviivalla ilman täyttöä.](../kayra-ei_tayttoa.svg)
+> ![Avoin käyrä punaisella reunaviivalla ja sinisellä täytöllä.](../kayra-taytto.svg)
+> ![Suljettu käyrä punaisella reunaviivalla ilman täyttöä.](../kayra-ei_tayttoa-yhtenainen.svg)
+> ![Suljettu käyrä punaisella reunaviivalla ja sinisellä täytöllä.](../kayra-taytto-yhtenainen.svg)
+> ![Useampi suljettu käyrä punaisella reunaviivalla ilman täyttöä. Kolme käyristä on isoimman sisällä.](../kayra-ei_tayttoa-monta.svg)
+> ![Iso suljettu käyrä punaisella reunaviivalla ja sinisellä täytöllä. Kolme pienempää suljettua käyrää leikkaa isoimman täytöstä osia pois.](../kayra-taytto-monta.svg)
 
 Ympyrä ja nelikulmio ovat esimerkkejä kuvioista, joiden reunaviivat ovat suljettuja.
 Ellipsin tai ympyrän (vajaa) kaari sekä spiraali ovat puolestaan esimerkkejä
 avoimista kuvioista.
 
 {: .figure-small-row }
-> ![](../ympyra.svg)
-> ![](../suorakaide.svg)
-> ![](../lohko.svg)
-> ![](../kaari-taytetty.svg)
-> ![](../spiraali.svg)
-> ![](../tahti.svg)
+> ![Ympyrä punaisella reunaviivalla ja sinisellä täytöllä.](../ympyra.svg)
+> ![Suorakulmio punaisella reunaviivalla ja keltaisella täytöllä.](../suorakaide.svg)
+> ![Ellipsin sektori vihreällä reunaviivalla ja vaalean punaisella täytöllä.](../lohko.svg)
+> ![Ellipsin kaari vihreällä avoimella reunaviivalla ja vaaleanpunaisella täytöllä.](../kaari-taytetty.svg)
+> ![Punainen spiraali.](../spiraali.svg)
+> ![Keltainen tähti, jossa reunaviiva ja täyttö ovat kahta eri keltaisen sävyä.](../tahti.svg)
 
 Reunaviivalle voidaan määrätä ominaisuuksia, kuten **väri**, **paksuus**, **viivan tyyppi**
 (esimerkiksi yhtenäinen viiva, katkoviiva tai pisteviiva), **kulmien pyöristystapoja**,
 **viivan päätteitä** sekä **aloitus-, lopetus- ja välikuvioita** (esimerkiksi nuolenpäitä).
 
 {: .figure-medium-row }
-> ![](../viivat.svg)
+> ![Erilaisia viivatyyppejä: musta paksu, musta ohut, punainen, katkoviiva, tiheä pisteviiva, harva pisteviiva, nuolen kärjellinen viiva, katkoviiva, jossa saksien kuvat](../viivat.svg)
 
 
 ## Täyttö
@@ -51,19 +51,20 @@ Reunaviivalle voidaan määrätä ominaisuuksia, kuten **väri**, **paksuus**, *
 Täyttö tarkoittaa kuvion reunaviivan sisäpuolelle jäävää pintaa.
 Jos reunaviiva on avoin, menee täytön rajana reunaviivan alkupisteestä
 sen loppupisteeseen kulkeva kuvitteellinen suora jana. Tälle sisäosalle voidaan
-määrätä haluttu **täyttöväri**, **liukuvärjäys** (lineaarinen, säteittäinen, mesh)
-tai muunlainen täyttö, esimerkiksi **kuviointi**.
+määrätä haluttu *täyttöväri*, *liukuvärjäys* (lineaarinen, säteittäinen, mesh)
+tai muunlainen täyttö, esimerkiksi *kuviointi*.
 
 {: .figure-small-row }
-> ![](../taytto-vari.svg)
-> ![](../taytto-liuku-lineaarinen.svg)
-> ![](../taytto-liuku-sateittainen.svg)
-> ![](../taytto-liuku-mesh.png)
-> ![](../taytto-kuvio.svg)
+> ![Tähdessä tasainen keltainen täyttöväri](../taytto-vari.svg)
+> ![Tähdessä lineaarinen liukuväri keltaisesta sinisen kautta punaiseen](../taytto-liuku-lineaarinen.svg)
+> ![Tähdessä säteittäinen liukuväri. Keskellä keltainen, sinisen kautta punaiseen sakaroissa.](../taytto-liuku-sateittainen.svg)
+> ![Tähdessä mesh-liukuvärjäys symmetrisesti sakaroiden mukaan.](../taytto-liuku-mesh.png)
+> ![Tähti täytetty sini-valoisella kuvioinnilla](../taytto-kuvio.svg)
 
 Se, mikä puoli on reunaviivan sisäpuoli on selkeää yleensä silloin, jos
-reunaviiva ei leikkaa itseään. Palataan myöhemmin siihen, miten sisäpuoli ja
-sen täyttö määritellään, kun reunaviiva tekee itseään leikkaavan silmukan.
+reunaviiva ei leikkaa itseään. Palataan myöhemmin polkua käsiteltäessä siihen,
+miten sisäpuoli ja sen täyttö määritellään, kun reunaviiva tekee itseään
+leikkaavan silmukan.
 
 ## Väri
 
@@ -72,7 +73,7 @@ alakulmassa. Jos kuviolla on reunaväri, näkyy sen oikealla puolella myös
 reunan paksuus lukuarvona.
 
 {: .figure-large }
-![](../varit_ja_paksuus.png)
+![Inkscape-ikkunan vasen alakulma](../varit_ja_paksuus.png)
 
 Valitun kuvion **täyttöväri valitaan** klikkaamalla ikkunan alareunan väripaletista
 haluttua väriä. Jos useampi kuvio on yhtä aikaa valittuna, niiden kaikkien
@@ -94,25 +95,25 @@ napilla esiin ponnahtaa valikko, jossa ovat valittavissa yleisimmin käytetyt
 viivanpaksuuden lukuarvot sekä mittayksiköt.
 
 {: .figure-small }
-![](../inkscape-viivanpaksuus.png)
+![Pop-up-valikko, josta voi valita viivan paksuuden ja mittayksikön](../inkscape-viivanpaksuus.png)
 
 ## Täyttö ja reunaviiva -dialogi
 
 Laajemman näkymän täytön ja reunan värien sekä muiden ominaisuuksien muokkaamiseen
-saa ottamalla esiin **"Täyttö ja reunaviiva"** -dialogin. Tämä tapahtuu joko yläreunan komentopalkista
+saa ottamalla esiin *"Täyttö ja reunaviiva"* -dialogin. Tämä tapahtuu joko yläreunan komentopalkista
 taikka kaksoisklikkaamalla nykyisen värin ilmaisinta ikkunan vasemmassa alakulmassa.
 Pikanäppäin tälle näkymälle on *shift+ctrl+F*.
 
-{: .figure-large }
-![](../inkscape-nappi-tayttojaviiva.png)
+{: .figure-normal }
+![Komentopalkin osa, josta voi avata dialogeja](../inkscape-nappi-tayttojaviiva.png)
 
 Täyttö ja reuna -dialogissa on kolme välilehteä, joista ensimmäinen käsittelee
 täyttövärin valintaa, toinen reunavärin valintaa ja kolmas reunan tyyliä.
 
 {: .figure-medium-row }
-![](../inkscape-taytto.png)
-![](../inkscape-viivanvaritys.png)
-![](../inkscape-viivantyyli.png)
+![Täyttö-välilehti](../inkscape-taytto.png)
+![Viivan väritys -välilehti](../inkscape-viivanvaritys.png)
+![Viivan tyyli -välilehti](../inkscape-viivantyyli.png)
 
 
 ### Värit
@@ -130,18 +131,18 @@ myöhemmin. Tasaisen värin voi valita erilaisilla värienvalintatyökaluilla, j
 - **Luminance**, eli *kirkkaus* (mustasta valitun värin kautta valkoiseen, 0–100)
 
 {: .figure-large }
-![](../inkscape-taytto.png)
+![HSL-valinta täyttövärille. Neljä vaakasuuntaista palkkia ja lukuarvot](../inkscape-taytto.png)
 
-Tässä muodossa väri valitaan siis valitsemalla kolme arvoa lukuarvoa.
-Ensimmäisenä värin **sävy** spektristä, joka käy sateenkaaren tavoin värit punaisesta oranssin, keltaisen,
+Tässä muodossa väri valitaan siis valitsemalla kolme lukuarvoa.
+Ensimmäisenä värin *sävy* spektristä, joka käy sateenkaaren tavoin värit punaisesta oranssin, keltaisen,
 vihreän, sinisen ja violetin kautta takaisin punaiseen. Arvo vastaa väriympyrän kulmaa alkaen 0:sta
 360:een asteeseen.
 
-Toisena värin **kylläisyys**, eli arvo, joka kertoo, onko väri lähempänä harmaata vai "puhdasta" murtamatonta väriä.
+Toisena värin *kylläisyys*, eli arvo, joka kertoo, onko väri lähempänä harmaata vai "puhdasta" murtamatonta väriä.
 Tämän arvo kulkee 0:sta (harmaa) täyteen arvoon 100 (puhdas väri).
 
-Kolmas arvo kertoo värin **kirkkauden**, joka käy äärimmäisenä vasemmalla olevasta
-täysin mustasta valitun värin kautta äärimmäisenä oikealla olevaan täysin valkoiseen.
+Kolmas arvo kertoo värin *kirkkauden*, joka käy äärimmäisenä vasemmalla olevasta
+täysin mustasta valitun värin, keskellä, kautta äärimmäisenä oikealla olevaan täysin valkoiseen.
 Tämänkin arvot ovat väliltä 0–100.
 
 Neljäntenä värille valittavana arvona on vielä valittavissa **Alpha**, eli värin
@@ -155,14 +156,14 @@ valinta, joista yksinkertaisin on viivan paksuus. Paksuus on valittavissa
 numeroarvon ja mittayksikön avulla.
 
 {: .figure-large }
-![](../inkscape-viivantyyli.png)
+![Viivan tyyli -välilehti](../inkscape-viivantyyli.png)
 
 **"Kuvio"** (*Dashes*) tarkoittaa sitä, onko reunaviiva tasainen vai jonkinlainen katko- tai
 pisteviiva. Valittavana on useampi erilainen vaihtoehto. Kuvion yhteydessä valittavissa
-oleva lukuarvo **"Siirtymä"** viittaa siihen, mistä kohtaa toistuvaa kuviota sen käyttö alkaa.
+oleva lukuarvo **"Siirtymä"** viittaa siihen, mistä kohdasta toistuvaa kuviota sen käyttö alkaa.
 **"Pattern"**-tekstikentän avulla voi luoda oman katkoviivakuvion. Kuvan esimerkin "4 1"
-tarkoittaa kuviota, jossa neljän yksikön pituista viivaa seuraa yhden yksikön pituinen katko
-ja tämä kuvio toistuu koko reunaviivan pituudelta.
+tarkoittaa kuviota, jossa viivan paksuuteen suhteessa neljän yksikön pituista viivaa seuraa
+yhden yksikön pituinen katko ja tämä kuvio toistuu koko reunaviivan pituudelta.
 
 **"Markers"**-valinnalla voi valita viivan alku-, keski- sekä loppupisteisiin erityiset
 merkkikuviot. Yleisimpiä käyttötarkoituksia ovat esimerkiksi viivan päihin tulevat
@@ -179,17 +180,17 @@ Samassa dialogissa on alareunassa lisäksi valittavissa arvot kuvion sumennuksel
 peittävyydelle.
 
 {: .figure-large }
-![](../inkscape-sumennus-peitto.png)
+![Sumennuksen ja peittävyyden säätöpalkit ja lukuarvot](../inkscape-sumennus-peitto.png)
 
-Sumennus on oletuksena nolla, eli kuvio on terävä. Jos tätä arvoa kasvattaa,
+Sumennus on oletuksena nolla, eli kuvio on terävä ilman sumennusta. Jos tätä arvoa kasvattaa,
 muuttuu koko kuvio arvon kasvaessa sumeaksi. Alla esimerkkinä sama tähti
 sumennuksen arvoilla 0, 16, 35 ja 50.
 
 {: .figure-small-row}
-> ![](../taytto-vari.svg)
-> ![](../sumennus-tahti16.svg)
-> ![](../sumennus-tahti35.svg)
-> ![](../sumennus-tahti50.svg)
+> ![Keltainen tähti, sumennus 0 %](../taytto-vari.svg)
+> ![Keltainen tähti, sumennus 16 %](../sumennus-tahti16.svg)
+> ![Keltainen tähti, sumennus 35 %](../sumennus-tahti35.svg)
+> ![Keltainen tähti, sumennus 50 %](../sumennus-tahti50.svg)
 
 Peittävyys on puolestaan oletuksena 100 % ja tarkoittaa, että kuviosta ei näy
 läpi. Mitä pienemmäksi tämän arvon muuttaa, sitä enemmän kuvion läpi näkyy sen
@@ -200,12 +201,12 @@ Alla esimerkkinä kuvat, joissa keltaisen tähden peittävyys on saanut arvot
 100, 80, 50, 20, 5 ja 0.
 
 {: .figure-small-row}
-> ![](../opacity-tahti100.svg)
-> ![](../opacity-tahti80.svg)
-> ![](../opacity-tahti50.svg)
-> ![](../opacity-tahti20.svg)
-> ![](../opacity-tahti5.svg)
-> ![](../opacity-tahti0.svg)
+> ![Punaisen ja sinisen kuvion päällä keltainen tähti, jonka peittävyys on 100](../opacity-tahti100.svg)
+> ![Punaisen ja sinisen kuvion päällä keltainen tähti, jonka peittävyys on 80](../opacity-tahti80.svg)
+> ![Punaisen ja sinisen kuvion päällä keltainen tähti, jonka peittävyys on 50](../opacity-tahti50.svg)
+> ![Punaisen ja sinisen kuvion päällä keltainen tähti, jonka peittävyys on 20](../opacity-tahti20.svg)
+> ![Punaisen ja sinisen kuvion päällä keltainen tähti, jonka peittävyys on 5](../opacity-tahti5.svg)
+> ![Punaisen ja sinisen kuvion päällä keltainen tähti, jonka peittävyys on 0](../opacity-tahti0.svg)
 
 Kannattaa huomata, että kuviolle voi määrätä kolmea erilaista peittävyyttä:
 täyttövärin peittävyys, reunavärin peittävyys ja kuvion kokonaispeittävyys.

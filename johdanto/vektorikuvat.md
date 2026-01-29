@@ -168,14 +168,17 @@ arvoa.
 {: .figure-medium }
 ![Punainen hymiö, jonka silmiä on siirretty ja suusta tehty paksumpi](../../images/smiley-vector-100-modified.svg)
 
-```xml
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100" height="100" viewBox="0 0 30 30">
-    <circle cx="15" cy="15" r="12" fill="#f66" stroke="black" stroke-width="1"></circle>
-    <ellipse cx="11.3" cy="10" rx="1.7" ry="2.5" fill="white" stroke="black" stroke-width="1"></ellipse>
-    <ellipse cx="20" cy="13" rx="1.7" ry="2.5" fill="white" stroke="black" stroke-width="1"></ellipse>
-    <path fill="none" stroke="black" stroke-width="3" d="M10 19.5 c3 3 7 3 10 0"></path>
-</svg>
-```
+{: .example-title }
+> SVG-esimerkki
+>
+> ```xml
+> <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100" height="100" viewBox="0 0 30 30">
+>     <circle cx="15" cy="15" r="12" fill="#f66" stroke="black" stroke-width="1"></circle>
+>     <ellipse cx="11.3" cy="10" rx="1.7" ry="2.5" fill="white" stroke="black" stroke-width="1"></ellipse>
+>     <ellipse cx="20" cy="13" rx="1.7" ry="2.5" fill="white" stroke="black" stroke-width="1"></ellipse>
+>     <path fill="none" stroke="black" stroke-width="3" d="M10 19.5 c3 3 7 3 10 0"></path>
+> </svg>
+> ```
 
 Vektorikuvan muokattavuus perustuu juuri siihen, että kuvakokonaisuus koostuu
 objekteista (olioista), joita voi muokata siirtämällä, skaalaamalla, kiertäämällä,

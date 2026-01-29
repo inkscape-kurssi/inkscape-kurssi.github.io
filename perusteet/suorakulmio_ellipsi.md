@@ -11,13 +11,15 @@ parent: Perusteet
 Suorakulmiot ja ellipsit ovat alkeiskuvioista helpoimpia piirrettäviä.
 
 {: .figure .figure-right }
-![](../inkscape_suorakulmio-ikoni.png)
+![Suorakulmiotyökalun ja ellipsityökalun ikonit työkalupalkissa](../inkscape_suorakulmio-ikoni.png)
 
-Suorakulmiotyökalulla luodaan suorakulmioita ja niiden erikoistapauksina
-neliöitä. Näiden kulmat voivat olla myös pyöristettyjä.
+*Suorakulmiotyökalulla* luodaan suorakulmioita ja niiden erikoistapauksina
+*neliöitä*. Näiden kulmat voivat olla myös pyöristettyjä. Suorakulmiotyökalun
+pikanäppäin on *r*. (Rectangle)
 
-Ellipsityökalulla luodaan puolestaan ellipsejä ja niiden erikoistapauksina ympyröitä.
-Näistä voidaan lisäksi rajata näkyviin sektoreita tai kaaria.
+*Ellipsityökalulla* luodaan puolestaan ellipsejä ja niiden erikoistapauksina *ympyröitä*.
+Näistä voidaan lisäksi rajata näkyviin *sektoreita* tai *kaaria*. Ellipsityökalun
+pikanäppäin on *e*. (Ellipse)
 
 Molemmat työkalut löytyvät Inkscapessa vasemman reunan työkalupalkista.
 
@@ -35,18 +37,18 @@ valitut värit. Näitä asetuksia pääsee muokkaamaan kaksoisnapauttamalla työ
 kuvaketta työkalupalkissa.
 
 {: .figure-large }
-![](../inkscape_tyokalun_asetukset.png)
+![Inkscapen asetusikkunassa kohta: Työkalut, Muodot, Rectangle Tool](../inkscape_tyokalun_asetukset.png)
 
 Valitulle kuviolle värit saa vaihdettua väripaletista valitsemalla. Täyttövärin
 väriä klikkaamalla ja reunavärin klikkaamalla väriä *shift*-näppäin pohjassa.
 
 Piirtämisessä käytetyt vastakkaiset kulmat näkyvät valitussa suorakulmiossa pieninä
-neliön muotoisina **"kahvoina"**, joita voi siirtää suorakulmiotyökalulla myös piirtämisen jälkeen.
+**neliön muotoisina** *"kahvoina"*, joita voi siirtää suorakulmiotyökalulla myös piirtämisen jälkeen.
 
 {: .figure-medium }
-![](../inkscape_suorakulmio-kahvat.png)
+![Keltainen suorakulmio, jossa punainen reunaviiva. Vasemmassa yläkulmassa ja oikeassa alakulmassa neliökahva, oikeassa yläkulmassa ympyräkahva.](../inkscape_suorakulmio-kahvat.png)
 
-Kolmannessa kulmassa näkyvää pyöreää kahvaa käytetään kulmien pyöristämiseen. Siitä
+Kolmannessa kulmassa näkyvää **pyöreää kahvaa** käytetään kulmien pyöristämiseen. Siitä
 kerrotaan lisää kohta.
 
 Jos suorakulmion piirtäminen tehdään *Shift*-näppäin (vaihto-näppäin) pohjassa,
@@ -63,9 +65,9 @@ piirtää neliön lisäksi myös suorakulmioita, joiden mittasuhteet ovat esimer
 1:2, 1:3 ja 2:3 sekä kultaisen leikkauksen suhteesa 1:1,618.
 
 {: .figure-large }
-![](../suorakaide-ctrl.png)
+![Piirrettynä sininen suorakulmio ctrl pohjassa. Vihjepalkki kertoo lukitun mittasuhteen. ](../suorakaide-ctrl.png)
 
-Inkscapen alapalkin info-teksti kertoo, mitä kulloinkin ollaan tekemässä.
+Inkscapen alareunan vihjepalkin info-teksti kertoo, mitä kulloinkin ollaan tekemässä.
 Tässä kuvassa näkyy, että suorakulmiota on piirretty *Ctrl*-näppäin pohjassa
 ja koko on kiinnitetty kultaisen leikkauksen suhteeseen.
 
@@ -77,21 +79,21 @@ kulman voi pyöristää. Mitä kauemmas kuvion kulmasta ympyrän raahaa, sitä s
 on kulman pyöristyssäde.
 
 {: .figure-medium }
-![](../inkscape_suorakulmio-pyoristys.png)
+![Hiirellä raahataan neliön kulman pyöristyskahvaa.](../inkscape_suorakulmio-pyoristys.png)
 
 Kun kulma on pyöristetty, voi huomata, että kulmaan jää vielä  toinenkin pyöreä kahva.
 Tätä raahaamalla kulman saa pyöristettyä erilaisella säteellä toisen sivun suuntaan.
 
 {: .figure-medium }
-![](../inkscape_suorakulmio-pyoristys2.png)
+![Neliön kulman vaakasuuntainen pyöristys raahattuna suuremmaksi kuin pystysuuntainen.](../inkscape_suorakulmio-pyoristys2.png)
 
 Kulmien pyöristyksen voi "nollata" napauttamalla suorakulmiotyökalun asetuspalkissa
-olevasta "Tee kulmista teräviä" -napista.
+olevasta *"Tee kulmista teräviä"* -napista.
 
 ## Suorakulmiotyökalun asetuspalkki
 
 {: .figure-full }
-![](../inkscape_suorakulmio-paneli.png)
+![Suorakulmiotyökalun asetuspalkki. Tee kulmista teräviä -työkaluvihje napin kohdalla.](../inkscape_suorakulmio-paneli.png)
 
 Suorakulmiotyökalun asetuspalkissa ovat nähtävissä ja muokattavissa valitun
 suorakulmion leveys, korkeus, x- ja y-suuntaiset kulmanpyöristykset sekä näiden
@@ -100,7 +102,7 @@ nollaava nappi.
 
 ## Ellipsi
 
-Ellipsin piirtäminen tapahtuu vastaavalla tavalla kuin suorakaiteen piirtäminen.
+*Ellipsin* piirtäminen tapahtuu vastaavalla tavalla kuin suorakaiteen piirtäminen.
 Hiiren nappi painetaan pohjaan, raahataan ja nostetaan nappi ylös. Ellipsi
 muodostuu piirretyn suorakaiteen sisään. Suorakaiteen yläreunaan ja vasemmalle
 puolelle ilmestyvät neliön muotoiset kahvat, joista sen kokoa voidaan myöhemmin
@@ -110,7 +112,7 @@ vasemmalla olevasta neliökahvasta, se venyy samaan aikaan sekä vasemmalle ett�
 oikealle.
 
 {: .figure-medium }
-![](../inkscape-ellipsi-kahvat.png)
+![Ellipsin säätökahvat ellipsityökalulla](../inkscape-ellipsi-kahvat.png)
 
 Jos ellipsiä piirrettäessä pidetään *Shift*-näppäintä pohjassa, piirtämisen
 aloituspisteestä tuleekin ellipsin keskipiste. Siis aivan samoin kuin suorakulmion kanssa.
@@ -122,12 +124,12 @@ Ellipsin kehän ja sisäpuolen värit määräytyvät samoin kuin suorakaiteella
 Samoin, kuin suorakaidetyökalulla, ellipsityökalulla voidaan vaaka- ja pystysuuntien
 mittasuhteet lukita kokonaisluvuiksi tai kultaiseksi leikkaukseksi pitämällä
 *ctrl*-näppäintä pohjassa piirtämisen aikana. Näin saadaan piirrettyä muun muassa
-ympyrä.
+*ympyrä*.
 
 ## Sektori ja kaari
 
-Piirretty ympyrä tai ellipsi voidaan muuttaa sektoriksi taikka kaareksi ottamalla
-ellipsityökalulla kiinni valitussa ellipsissä näkyvästä ympyrän muotoisesta kahvasta.
+Piirretty ympyrä tai ellipsi voidaan muuttaa *sektoriksi* taikka *kaareksi* ottamalla
+ellipsityökalulla kiinni valitussa ellipsissä näkyvästä **ympyrän muotoisesta kahvasta**.
 Kahvasta raahaamalla ellipsi "aukeaa", jolloin kuviossa kehäviiva ei enää muodostakaan
 täydellistä ellipsiä vaan kaaren, joka alkaa jostain kohtaa ellipsin kehää ja
 päättyy johonkin toiseen kohtaa sitä. Kaaren kummassakin päässä on ympyrän muotoinen
@@ -137,8 +139,8 @@ ellipsin kehän sisä- vai ulkopuolella. Jos irti päästäminen tapahtuu sisäp
 tulee kuviosta kaari ja muussa tapauksessa sektori.
 
 {: .figure-medium-row }
-![](../inkscape-ellipsi-kaari.png)
-![](../inkscape-ellipsi-sektori.png)
+> ![Ellipsistä tehdään kaari](../inkscape-ellipsi-kaari.png)
+> ![Ellipsistä tehdään sektori](../inkscape-ellipsi-sektori.png)
 
 
 ## Ellipsityökalun asetuspalkki
@@ -147,7 +149,7 @@ Kuvion tyypin voi vaihtaa sektoriksi, kaareksi, kaarta vastaavaksi suljetuksi ku
 taikka täydeksi ellipsiksi ellipsityökalun omasta asetuspalkista vastaavaa nappia klikkaamalla.
 
 {: .figure-full }
-![](../inkscape-ellipsi-asetukset.png)
+![Ellipsityökalun asetuspalkki](../inkscape-ellipsi-asetukset.png)
 
 Asetuspalkista voi muuttaa myös numeerisesti vaaka- ja pystysuuntaisen puoliakselin pituutta
 halutussa mittayksikössä sekä kaaren alku- ja loppupisteiden kulmia. Kulmissa 0 astetta tarkoittaa

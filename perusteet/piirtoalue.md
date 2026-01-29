@@ -65,12 +65,12 @@ Zoomaus onnistuu myös komentopalkin pikanappuloilla sekä näppäimistön pikan
 Lähentäminen ja loitontaminen askelittain tapahtuu näppäimistön *plus*- sekä *miinus*-näppäimillä.
 Muita pikanäppäimiä ovat:
 
-- **1**: "Peruskoko" (1:1)
-- **2**: "Puolikas koko" (1:2)
-- **3**: Zoomaus tehtyyn valintaan
-- **4**: Zoomaus koko piirrokseen, eli niin, että kaikki piirretyt objektit näkyvät
-- **5**: Zoomaus koko sivuun, eli niin, että koko piirtoalue mahtuu näkyviin
-- **6**: Zoomaus sivun leveyteen
+- *1*: "Peruskoko" (1:1)
+- *2*: "Puolikas koko" (1:2)
+- *3*: Zoomaus tehtyyn valintaan
+- *4*: Zoomaus koko piirrokseen, eli niin, että kaikki piirretyt objektit näkyvät
+- *5*: Zoomaus koko sivuun, eli niin, että koko piirtoalue mahtuu näkyviin
+- *6*: Zoomaus sivun leveyteen
 
 {: .exercises }
 > Lataa alla oleva SVG-tiedosto (hiiren oikealla napilla "Tallenna kohde levylle")
