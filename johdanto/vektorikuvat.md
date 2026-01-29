@@ -22,7 +22,7 @@ Rasterikuva
 ============
 
 {: .figure-small.figure-right }
-![](../../images/raster-b.svg)
+![Pikseleillä muodostettu b-kirjain](../../images/raster-b.svg)
 
 [Rasterikuvat][Pikseligrafiikka] eli pikselikuvat eli bittikarttakuvat ovat kuvatyyppi,
 jota ovat esimerkiksi normaalit digitaalisella kameralla otetut valokuvat tai
@@ -73,7 +73,7 @@ vaikuttaa luonnollisesti myös käytettävissä olevien värisävyjen määrä.
 Valokuvissa on käytettävissä tyypillisesti noin 16 miljoonaa väriä.
 
 {: .figure-large }
-> ![](../../images/kissa.jpg)
+> ![Lähikuva kissan naamasta](../../images/kissa.jpg)
 > Valokuvat sisältävät paljon epäsäännöllisyksiä ja värisävyjä. Rasterikuvamuodot soveltuvat hyvin valokuvien tallentamiseen.
 
 Kuvioiden koostuminen kuvapisteistä tarkoittaa myös sitä, että kuvaa muokattaessa
@@ -86,7 +86,7 @@ Vektorikuva
 ============
 
 {: .figure-small.figure-right }
-![](../../images/vector-b.svg)
+![b-kirjain sileänä vektorikuvana](../../images/vector-b.svg)
 
 Toisin kuin rasterikuva, [vektorikuva][Vektorikuva] ei koostu kuvapisteistä vaan
 se sisältää tiedot erilaisista geometrisista kuvioista sekä niiden (matemaattisista) ominaisuuksista.
@@ -143,7 +143,7 @@ erityisesti piirroskuviin, joissa on selkeitä ääriviivoja ja jotka koostuvat 
 viivoista ja väripinnoista.
 
 {: .figure-large }
-![](../../images/sitikka.svg)
+![Vektorikuvana punainen rättisitikka sivulta](../../images/sitikka.svg)
 
 Suurempana näytettävää kuvaa varten ei tallenneta enempää tietoa, koska samat
 kuviot vain piirretään suuremmassa koossa, joten vektorikuva
@@ -155,7 +155,7 @@ merkistä ("10") neljään merkkiin ("2000").
 Vektorigrafiikassa objekteja voi ryhmitellä monimutkaisemmiksi kokonaisuuksiksi, muuttaa niiden värejä, skaalata, peilata, kiertää, järjestellä ja pinota eri järjestyksiin.
 
 {: .figure-medium }
-![](../../images/cars.svg)
+![Kuusi eri väristä autoa vektorikuvina. Kaksi kuplavolkkaria, kaksi rättisitikkaa ja kaksi urheiluautoa](../../images/cars.svg)
 
 Lisäksi, koska kuvassa olevia kuviota ei tallennettaessa muuteta niiden
 pikseliesitykseksi, säilyvät niiden ominaisuudet helposti muokattavina.
@@ -166,7 +166,7 @@ punaisella sävyllä `#f66`. Viivan paksuus vaihtuu muuttamalla `stroke-width`-a
 arvoa.
 
 {: .figure-medium }
-![](../../images/smiley-vector-100-modified.svg)
+![Punainen hymiö, jonka silmiä on siirretty ja suusta tehty paksumpi](../../images/smiley-vector-100-modified.svg)
 
 ```xml
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100" height="100" viewBox="0 0 30 30">

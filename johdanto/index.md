@@ -9,7 +9,7 @@ has_toc: true
 # Johdanto 
 
 {: .figure-medium }
-![](../images/butterflies/blue-butterfly.svg)
+![Sininen perhonen](../images/butterflies/blue-butterfly.svg)
 
 Tämän kurssin tarkoituksena on opastaa lukijaa käyttämään Inkscape-vektoripiirto-ohjelmistoa.
 Suuri osa ohjelman toiminnallisuuksista on niin luonteenomaisia vektorigrafiikalle ja

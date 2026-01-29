@@ -58,8 +58,8 @@ oikean näppäimen napsauttaminen loitontaa näkymää "yhden askeleen" verran.
 
 Zoomaus onnistuu myös komentopalkin pikanappuloilla sekä näppäimistön pikanäppäimillä.
 
-{: .figure-medium }
-![](../inkscape_zoom-napit.png)
+{: .figure-normal }
+![Zoom-napit](../inkscape_zoom-napit.png)
 
 
 Lähentäminen ja loitontaminen askelittain tapahtuu näppäimistön *plus*- sekä *miinus*-näppäimillä.

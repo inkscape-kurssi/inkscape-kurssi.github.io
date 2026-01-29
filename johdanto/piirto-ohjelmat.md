@@ -14,7 +14,7 @@ sovellusohjelmia, joilla vektorimuodossa tallennettavien kuvien
 muokkaaminen tapahtuu helposti.
 
 {: .figure-large }
-![](../../images/inkscape-ikkuna.jpg)
+![Kuvakaappaus Inkscapen ikkunasta, jossa leikekuvia autoista](../../images/inkscape-ikkuna.jpg)
 
 Tunnettuja vektoripiirto-ohjelmia ovat esimerkiksi:
 

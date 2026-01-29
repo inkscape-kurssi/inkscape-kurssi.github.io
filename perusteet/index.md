@@ -9,7 +9,7 @@ has_toc: false
 # Perusteet
 
 {: .figure-medium }
-![](../../images/butterflies/Monarch_butterfly_1.svg)
+![Monarkkiperhonen](../../images/butterflies/Monarch_butterfly_1.svg)
 
 Aloitetaan harjoittelu tutustumalla Inkscapen käyttöliittymään ja
 ohjelmassa navigointiin. Opetellaan lisäksi, miten valintatyökalulla

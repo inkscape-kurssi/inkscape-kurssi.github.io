@@ -9,7 +9,7 @@ permalink: /
 # Inkscape-kurssi
 
 {: .figure-medium }
-> ![](images/inkscape-logo.svg)
+> ![Inkscapen logo](images/inkscape-logo.svg)
 
 Tämä Inkscape-kurssi on suunnattu opettajille, opiskelijoille ja kaikille piirtämisestä kiinnostuneille.
 Inkscape on hyvä ja monipuolinen avoimen lähdekoodin sovellus vektorikuvien piirtämiseen ja muokkaamiseen, mutta sen käyttöönotto voi

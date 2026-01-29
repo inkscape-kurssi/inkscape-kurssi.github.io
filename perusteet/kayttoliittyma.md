@@ -21,7 +21,7 @@ on mahdollista sijoittaa piirtoalueelle myös merkityn sivun ulkopuolelle, mutta
 tallennettua kuvaa tarkastellessa, esimerkiksi verkkosivulla, vain sivun sisäpuoli on näkyvissä.
 
 {: .figure-full }
-> ![](../inkscape_ui.png)
+> ![Inkscapen käyttöliittymän osien esittely](../inkscape_ui.png)
 > Inkscapen käyttöliittymän osat ovat ikkunan reunoilla.
 
 ## Valikko
@@ -89,14 +89,14 @@ muun muassa piirtoalueelta valitun kohteen sijainnin koordinaatit ja koko sekä
 toiminnot kohteen peilaamiselle ja kiertämiselle.
 
 {: .figure-full }
-![](../inkscape_valinta-asetukset.png)
+![Valintatyökalun asetukset](../inkscape_valinta-asetukset.png)
 
 Tekstityökalulle täältä löytyvät
 puolestaan esimerkiksi kirjasimen (fontin) valinta, kirjasimen koko ja kirjasimen tyyli
 (lihavointi, kursivointi).
 
 {: .figure-full }
-![](../inkscape_teksti-asetukset.png)
+![Tekstityökalun asetukset](../inkscape_teksti-asetukset.png)
 
 Kullekin työkalulle valintoja on useita ja niiden merkityksiin voi tutustua parhaiten
 lukemalla niiden työkaluvihjeet sekä kokeilemalla.
@@ -109,14 +109,14 @@ valitun kohteen täyttöväriksi. Hiiren vasen klikkaus näppäimistön *shift*-
 painettuna vaihtaa valitun kohteen reunavärin.
 
 {: .figure-full }
-![](../inkscape_varipaletti.png)
+![Väripaletti](../inkscape_varipaletti.png)
 
 Jos paletissa on paljon värejä, on se vieritettävissä joko pysty- tai sivusuunnassa,
 riippuen Inkscapen versiosta tai asetuksista. Paletin
 oikean reunan napista voi valita tarjolla olevista paleteista haluamansa värivalikoiman.
 
 {: .figure-small }
-![](../inkscape_palettivaihtoehdot.png)
+![Valintalista erilaisista väripaleteista](../inkscape_palettivaihtoehdot.png)
 
 
 Paletin alapuolella on tilarivi, jossa ovat nähtävillä parhaillaan valitun
@@ -127,14 +127,14 @@ Tila- ja vihjeteksti kertoo jatkuvasti, minkälainen kohde on valittuna tai
 mitä toimintoja käytössä olevalla työkalulla voi tehdä.
 
 {: .figure-full }
-![](../inkscape_vari_ja_vihje.png)
+![Tila- ja vihjeteksti väripaletin alapuolella](../inkscape_vari_ja_vihje.png)
 
 ## Kohdistusvalinnat
 
 Ikkunan reunassa äärimmäisenä oikealla ylhäällä ovat kohdistus- eli tartuntavalinnat.
 
 {: .figure-small }
-![](../inkscape_snapping.png)
+![Tarttumisvalikko, jossa on monia rastiruutuja](../inkscape_snapping.png)
 
 Näillä valinnoilla voi valita monipuolisesti, miten piirtokohteet ja niiden
 pisteet siirrettäessä ja skaalattaessa "takertuvat" tai "napsahtavat" muihin
