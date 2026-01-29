@@ -5,7 +5,7 @@ Tämä on avoin suomenkielinen verkkokurssi avoimen ja vapaan lähdekoodin vekto
 Kurssi on kirjoitettu Markdown-teksteinä, joista [Jekyll](https://jekyllrb.com/) ohjelmistolla julkaistaan
 verkkosivusto. Kurssi on luettavissa osoitteessa: https://inkscape-kurssi.github.io/
 
-## Kuka
+## Kuka?
 
 Kurssin on luonut [Petri Salmela](https://github.com/pesasa) ja kurssin luontiin on saatu
 [apuraha](https://fuug.fi/2026/avoin-kurssi-inkscape-vektoripiirto-ohjelman-opiskeluun/)
@@ -28,7 +28,7 @@ Kyllä! Ole hyvä! Kurssi on tehty käytettäväksi. Sitä voi käyttää omaan 
 kurssin pitämiseen koulussa, työväenopistossa, yliopistolla, työpaikalla tai missä tahansa, missä
 näet tarvitsevasi materiaalia.
 
-## Voinko osallistua jotenkin
+## Voinko osallistua jotenkin?
 
 Tässä vaiheessa osallistumistapoja ovat esimerkiksi:
 
