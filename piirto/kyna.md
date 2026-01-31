@@ -22,7 +22,7 @@ Hiirellä piirtäminen aloitetaan painamalla hiiren nappi pohjaan jossain
 kohtaa piirtoalueella, liikuttamalla hiirtä haluttu reitti ja vapauttamalla
 nappi.
 
-Työkalu luo piirretystä reitistä uuden polkuobjektin, jonka varrelle tulee
+Työkalu luo piirretystä reitistä uuden polku-objektin, jonka varrelle tulee
 useita solmuja.
 
 Alla olevista kuvista näkyy, miltä piirtäminen näyttää, minkälainen on
