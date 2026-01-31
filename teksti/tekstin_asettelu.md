@@ -30,7 +30,7 @@ Valitaan ensin teksti ja sitten polku, jolle teksti halutaan ja lopuksi
 {: .figure-normal }
 ![Teksti-valikossa "Aseta polulle"](../inkscape-teksti-valikosta_teksti_polulle.png)
 
-Seurauksena teksti asettuu polulle alkaen polun alkupäästä, koska teksti ole
+Seurauksena teksti asettuu polulle alkaen polun alkupäästä, koska teksti oli
 vasemmalle tasattu.
 
 {: .figure-full }

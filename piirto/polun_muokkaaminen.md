@@ -226,7 +226,7 @@ venytyskahvoilla saavutettava ja tähän kannattaa tutustua kokeilemalla.
 > ![Yhtä solmua on siirretty ja kulman pyöristys säilyy](../inkscape-nodetool-lpe-4.png)
 
 
-## Objekti poluksi
+## Kohde poluksi
 
 Kaikki piirto-objektit eivät ole polkuja. Muita objektityyppejä ovat esimerkiksi
 aiemmin tutustutut suorakulmiot ja ellipsit sekä myöhemmin käsiteltävät
@@ -237,7 +237,7 @@ asetuspalkissa ovat kaksi seuraavaa toimintoa.
 {: .figure-normal }
 > ![Objektit poluiksi - ja viivat poluiksi -napit solmutyökalun asetuspalkissa](../inkscape-nodetool-poluksi-ikoni.png)
 
-Näistä ensimmäinen muuntaa muuta tyyppiä olevat *objektit poluiksi*.
+Näistä ensimmäinen muuntaa muuta tyyppiä olevat *kohteet poluiksi*.
 Kun valintatyökalu on käytössä, alareunan vihjepalkissa
 näkyy tekstinä valitun piirto-objektin tyyppi. Alla olevassa ensimmäisessä kuvassa
 näkyy, että valittuna on suorakulmio, jonka kulmat on pyöristetty.
@@ -258,7 +258,9 @@ Kun suorakulmio on muunnettu poluksi, sitä ei voi enää käsitellä suorakulmi
 menettänyt suorakulmion rajoitteet ja sitä voidaan muokata tästä lähtien polkuobjektin
 vapaudella.
 
-Toinen poluksi muuntava toiminto on *viivat poluiksi*. Tämän työkalun käytössä on kyse
+"Kohde poluksi" löytyy myös "Polku"-valikosta ja sen pikanäppäin on *Shift-Ctrl-c*.
+
+Toinen poluksi muuntava toiminto on *reunaviivat poluiksi*. Tämän työkalun käytössä on kyse
 nimensä mukaisesti siitä, että piirretty viiva muutetaan itsensä reunapoluksi.
 Tämän tarkoitus käy ehkä parhaiten ilmi alla olevista kuvista. Ensimmäisessä on
 polku, joka koostuu kahdesta solmusta ja niiden välisestä paksusta punaisesta ja
@@ -267,6 +269,8 @@ viivasta onkin tullut uuden polun sisäosa. Uusi polku seuraa vanhan ääriviivo
 viivan väri on vaihtunut uuden polun täyttöväriksi. Uudella polulla ei ole nyt
 ääriviivoja vaan pelkkä täyttöväri. Tämä on toisinaan hyvin käyttökelpoinen
 muunnos.
+
+Myös "Reunaviiva poluksi" löytyy "Polku"-valikosta ja sen pikanäppäin on *Ctrl-Alt-c*.
 
 {: .figure-medium-row }
 > ![Kaksi solmua ja niiden välillä paksu kaareva punainen viiva](../inkscape-nodetool-stroketopath-1.png)
