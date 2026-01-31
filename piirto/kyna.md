@@ -92,7 +92,7 @@ tyyppi. Nämä ovat jo viivatyökalusta tutut
 kaksi jälkimmäistä tekee tavallista bezier-käyrää
 pehmeämpää jälkeä vähemmillä solmuilla.
 
-Neljäs nappi on "Flatten Spiro or SPline LPE" on toiminto,
+Neljäs nappi, "Flatten Spiro or SPline LPE", on toiminto,
 joka muuntaa spiro- ja spline-polut saman muotoisiksi
 tavallisiksi bezier-käyriksi.
 
