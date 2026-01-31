@@ -129,10 +129,13 @@ body {
     display: block;
 }
 .figure-small-row,
-.figure-medium-row {
+.figure-medium-row,
+.figure-small-row p,
+.figure-medium-row p {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
+    align-items: center;
     border-left: none;
 }
 .figure-small-row img,
