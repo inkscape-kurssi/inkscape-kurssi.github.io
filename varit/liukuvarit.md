@@ -12,7 +12,7 @@ parent: Värityökalut
 ![Liukuvärityökalun kuvake työkalupalkissa](../inkscape-liukuvari-ikoni.png)
 
 Tasaisten värien lisäksi kohteiden täyttöväriksi sekä reunaväriksi
-voidaan valita erilaisia liukuvärjäyksiä (gradient).
+voidaan valita erilaisia liukuvärjäyksiä, eli gradientteja.
 Vaihtoehtoina ovat lineaarinen ja säteittäinen liukuväri. Lisäksi
 käytettävissä on myös monimutkaisempi [mesh](../mesh)-liukuvärjäys.
 
