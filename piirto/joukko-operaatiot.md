@@ -95,7 +95,7 @@ kohteen kahteen osaan. Jaon pikanäppäimenä on *Ctrl-/*. (control jakoviiva)
 
 *Polun leikkaus* voi suomenkielisenä käännöksenä helposti sekoittua edellä olevaan
 leikkaukseen. Tämä kuitenkin tarkoittaa tilannetta, jossa leikattaan kuin veitsellä tai saksilla
-polku osiin. (englannuksi "cut") Tässä toiminnossa päällimmäinen kohde
+polku osiin. (englanniksi "cut") Tässä toiminnossa päällimmäinen kohde
 leikkaa alemman kohteen reunaviivan osiin. Tämä eroaa edellä olevasta jaosta
 siinä, jaossa ositetaan täyttöosaa, polun leikkauksessa vain reunaviivaa.
 Pikanäppäimenä *Ctrl-Alt-/*.
@@ -154,7 +154,7 @@ kohdetta.
 
 ## Yhdistä
 
-*Yhdistä*-toiminto, jona pikanäppäin on *Ctrl-k*, yhdistää useamman polun
+*Yhdistä*-toiminto, jonka pikanäppäin on *Ctrl-k*, yhdistää useamman polun
 yhdeksi poluksi. Kun kohteet on yhdistetty yhdeksi poluksi, niille ei voi enää
 määrätä erilaisia värejä ja niitä ei voi liikuttaa toisistaan erillään.
 Ne ovat saman polun osia.
@@ -210,7 +210,7 @@ Toiminnon pikanäppäin on *Ctrl-Alt-f*.
 ## Flatten
 
 *Flatten*-toiminto muuttaa kaikki valittujen kohteiden osat erillisiksi polkuobjekteiksi.
-Alla olevassa kuvassa osia on siirretty hieman, jotta niidenerillisyys näkyy.
+Alla olevassa kuvassa osia on siirretty hieman, jotta niiden erillisyys näkyy.
 Kaikki polkujen sisäosat on irroitettu reunaviivoista, reunaviivat on muutettu
 niitä ympäröiviksi poluiksi ja yhden kohteen ollessa toisen alla siitä ja sen reunaviivasta
 ovat jääneet jäljelle vain näkyvillä olleet osuudet. Pikanäppäin tälle on *Shift-f*.
