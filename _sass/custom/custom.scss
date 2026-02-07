@@ -130,8 +130,12 @@ body {
 }
 .figure-small-row,
 .figure-medium-row,
+.figure-small-row-vert,
+.figure-medium-row-vert,
 .figure-small-row p,
-.figure-medium-row p {
+.figure-medium-row p,
+.figure-small-row-vert p,
+.figure-medium-row-vert p {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
@@ -149,6 +153,20 @@ body {
 .figure-medium-row svg {
     width: 300px;
     height: auto;
+    margin: 0.5em;
+    display: inline-block;
+}
+.figure-small-row-vert img,
+.figure-small-row-vert svg {
+    width: auto;
+    height: 100px;
+    margin: 0.5em;
+    display: inline-block;
+}
+.figure-medium-row-vert img,
+.figure-medium-row-vert svg {
+    width: auto;
+    height: 300px;
     margin: 0.5em;
     display: inline-block;
 }
