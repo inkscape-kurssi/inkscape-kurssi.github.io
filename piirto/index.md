@@ -22,11 +22,12 @@ muokkaamisella sekä joukko-operaatioilla.
 > Kappaleen aiheet
 >
 > - Erilaiset piirtotyökalut
->     - viivatyökalu ja vapaa piirto (bezier-käyrä)
->     - bezier-käyrien muokkaaminen
->     - kalligrafiatyökalu
-> - Solmutyökalu (node tool)
-> - Joukko-operaatiot eli Boolen operaatiot
+>     - [viivatyökalu](viivat) (polku, bezier-käyrä)
+>     - [polun muokkaaminen](polun_muokkaaminen) solmutyökalulla (node tool)
+>     - [kynätyökalu](kyna) (vapaa piirto)
+>     - [kalligrafiatyökalu](kalligrafia)
+> - [Joukko-operaatiot](joukko-operaatiot) eli Boolen operaatiot
 >     - bezier-käyrien väliset yhdiste (unioni), erotus, leikkaus, poisto (symmetrinen erotus),
 >       jako ja polun leikkaus
 >     - "Shape builder" -työkalu
+>     - polkuoperaatiot (yhdistä, katkaise, split path, fracture, flatten)

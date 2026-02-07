@@ -27,6 +27,6 @@ valitaan ja muokataan piirto-objekteja sekä miten piirretään peruskuvioita.
 >     - Peilaaminen
 >     - Kiertäminen
 > - Peruskuvioiden piirtäminen
->     - [suorakaide, neliö, ellipsi, ympyrä, kaari, sektori](suorakulmio_ellipsi)
->     - [tähdet, monikulmiot, spiraalit, laatikot](tahdet_spiraalit)
 >     - [kuvion reunaviiva ja täyttö](reuna_taytto)
+>     - [suorakulmio, neliö, ellipsi, ympyrä, kaari, sektori](suorakulmio_ellipsi)
+>     - [tähdet, monikulmiot, spiraalit, laatikot](tahdet_spiraalit)

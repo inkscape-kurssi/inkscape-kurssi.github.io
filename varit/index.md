@@ -3,6 +3,7 @@ date: "2025-12-15T15:30:00+03:00"
 title: "Värityökalut"
 layout: default
 nav_order: 6
+has_toc: false
 ---
 
 # Värityökalut
@@ -14,7 +15,7 @@ Tässä kappaleessa opetellaan värien käyttöä ja työkaluja niiden käsittel
 
 {: .highlight-title }
 > Kappaleen aiheet
-> - liukuvärit (gradientit) ja läpinäkyvyys
-> - Mesh-liukuvärit
-> - värien poiminta
-> - Maaliämpäri (paint bucket)
+> - [Liukuvärit](liukuvarit) (gradientit)
+> - [Mesh-liukuvärit](mesh)
+> - [värien poiminta](varin_poiminta)
+> - [Täyttötyökalu](tayttotyokalu) (Maaliämpäri, Paint bucket)
