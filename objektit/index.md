@@ -2,7 +2,7 @@
 date: "2025-12-12T00:15:00+03:00"
 title: "Objektit"
 layout: default
-nav_order: 6
+nav_order: 7
 has_toc: false
 ---
 
