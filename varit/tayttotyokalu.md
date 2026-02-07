@@ -29,12 +29,24 @@ siirretty vähän, jotta sen muoto tulee esiin.
 > ![](../inkscape-taytto-kaytto-2.png)
 > ![](../inkscape-taytto-kaytto-3.png)
 
+Jos jokin objekti on valittuna, kun täyttötyökalua käytetään,
+voidaan *Shift*-näppäintä klikkauksen aikana pohjassa pitämällä
+lisätä täytettävä polku valittuun kohteeseen.
+
+{: .figure-full }
+> ![Poimintatyökalun asetukset](../inkscape-taytto-asetuspalkki.png)
+
+Esimerkki:
+
+{: .figure-medium-row }
+> ![](../inkscape-taytto-kolmio_valittuna.png)
+> ![](../inkscape-taytto-klikataan_punaista_vaihdolla.png)
 
 ## Asetukset
 
 Täyttötyökalun asetuspalkissa on valittavissa asetukset, joilla
 määritetään värin "samuuden" tarkkuus, luotavan uuden polun koko
-sekä ______.
+sekä "välien sulkemista".
 
 {: .figure-full }
 > ![Poimintatyökalun asetukset](../inkscape-taytto-asetuspalkki.png)
