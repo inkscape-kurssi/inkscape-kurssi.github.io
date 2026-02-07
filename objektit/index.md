@@ -3,6 +3,7 @@ date: "2025-12-12T00:15:00+03:00"
 title: "Objektit"
 layout: default
 nav_order: 6
+has_toc: false
 ---
 
 # Objektit
@@ -10,11 +11,17 @@ nav_order: 6
 {: .figure-medium }
 ![](../../images/butterflies/Vintage-Butterfly-Illustration.svg)
 
+Piirto-objektia voidaan uudelleenkäyttää piirroksessa, niitä
+voidaan tasailla piirroksessa toistensa suhteen, ryhmitellä
+kokonaisuuksiksi ja sijoitella piirtämistä helpottaviin
+tasoihin. Tässä kappaleessa esitellään objektien käsittelyä
+näillä työkaluilla.
+
 {: .highlight-title }
 > Kappaleen aiheet
 >
-> - Objektien tasaaminen
+> - [Objektien monistaminen ja kloonaus](monistaminen_ja_kloonaus)
+> - [Objektien tasaaminen](tasaaminen)
 >     - tasaustyökalun käyttö objektien ja pisteiden kohdistamiseen
-> - Objektien kloonaus ja duplikointi
-> - Objektien ryhmittely
-> - Tasot
+> - [Objektien ryhmittely](ryhmittely)
+> - [Tasot](tasot)
