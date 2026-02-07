@@ -34,7 +34,7 @@ voidaan *Shift*-näppäintä klikkauksen aikana pohjassa pitämällä
 lisätä täytettävä polku valittuun kohteeseen.
 
 {: .figure-full }
-> ![Poimintatyökalun asetukset](../inkscape-taytto-asetuspalkki.png)
+> ![Täyttötyökalun ohjeet vihjetekstissä: "Napsauttamalla voit täyttää suljetun alueen. Vaihto+napsautus yhdistää uuden täytön valintaan. Ctrl+napsautus hakee napsautetun kohteen täytön ja viivan työkalun asetuksiksi.](../inkscape-taytto-vaihto.png)
 
 Esimerkki:
 
