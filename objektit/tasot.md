@@ -118,7 +118,7 @@ kyseisen tason peittävyyden 0 ja 100 prosentin väliltä, sekä niin sanotun
 *sekoitustila*, eli *Blend mode*.
 
 {: .figure-normal }
-> ![Tason peittävyys](../inkscape-tasot-peittävyys.png)
+> ![Tason peittävyys](../inkscape-tasot-peittavyys.png)
 
 Sekoitustilalla tarkoitetaan tapaa, jolla valittu taso yhdistetään sen
 alla oleviin tasoihin. Oletuksena oleva *Normal* tarkoittaa, että
