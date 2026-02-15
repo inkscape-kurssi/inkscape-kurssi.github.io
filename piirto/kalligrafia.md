@@ -20,7 +20,7 @@ on oletustilassaan litteä.
 
 ## Piirtäminen
 
-Työkalu valitaan työkalupaneelista tai pikanäppäimellä *c*.
+Työkalu valitaan työkalupaneelista tai pikanäppäimellä *C*.
 Kuten kynällä, piirtäminen alkaa painamalla hiiren nappi pohjaan
 ja se päättyy, kun nappi vapautetaan.
 

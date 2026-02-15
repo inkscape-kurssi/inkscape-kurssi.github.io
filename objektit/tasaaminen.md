@@ -16,7 +16,7 @@ pitää tasata toisiinsa tai koko kuvan suhteen jonkin reunan
 tai keskityksen mukaan. Tähän tarkoitukseen Inkscapessa
 on *Align and Distribute*, eli *Tasaa ja jaa* -dialogi.
 Dialogin voi avata komentopalkissa olevasta napista tai
-*Shift-Ctrl-a* -pikanäppäimellä.
+*Shift-Ctrl-A* -pikanäppäimellä.
 
 {: .figure-normal }
 ![Tasaa ja jaa -dialogi](../inkscape-tasaus-align.png)

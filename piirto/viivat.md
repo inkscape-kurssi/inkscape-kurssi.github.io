@@ -26,7 +26,7 @@ ja samaan pisteeseen voi kytkeytyä korkeintaan kaksi viivaa.
 
 Aloitetaan piirtämällä viiva-työkalulla polku, jonka kaikki viivat ovat suoria.
 
-Valitaan viivatyökalu joko klikkaamalla työkalupalkista tai pikanäppäimellä *b*.
+Valitaan viivatyökalu joko klikkaamalla työkalupalkista tai pikanäppäimellä *B*.
 Polun piirtäminen alkaa klikkaamalla hiiren napilla halutusta kohdasta
 piirtoaluetta ja jatkamalla klikkauksilla jokaisessa kohdassa, johon halutaan
 uusi solmu. Kun kaikki halutut solmut ovat paikoillaan, klikataan hiiren oikealla

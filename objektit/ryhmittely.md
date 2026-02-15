@@ -18,9 +18,9 @@ Tätä varten objekteja on mahdollista *ryhmitellä* uusiksi objekteiksi.
 Ryhmän luonti tapahtuu valitsemalla ryhmäksi liitettävät kohteet ja
 valitsemalla valikosta "Kohde" ja "Ryhmitä" taikka painamalla
 komentopalkin kuvaketta "Ryhmitä". Pikanäppäin ryhmän luomiselle
-on *Ctrl-g*. Ryhmän purkaminen tapahtuu samoin valikosta "Kohde" ja
+on *Ctrl-G*. Ryhmän purkaminen tapahtuu samoin valikosta "Kohde" ja
 "Pura ryhmitys" tai komentopalkin napilla taikka pikanäppäimellä
-*Shift-Ctrl-g*.
+*Shift-Ctrl-G*.
 
 {: .figure-normal }
 ![Napit "ryhmitä" ja "pura ryhmitys"](../inkscape-ryhmittely-ikonit.png)
@@ -32,7 +32,7 @@ kolmesta ellipsistä
 ![Kissan silmä ellipseistä](../inkscape-ryhmittely-silman_osat.png)
 
 Valitaan nämä kolme ellipsiä ja tehdään niistä ryhmä painamalla
-pikanäppäintä *Ctrl-g*.
+pikanäppäintä *Ctrl-G*.
 
 {: .figure-medium }
 ![Kissan silmä ellipseistä koostettuna ryhmänä](../inkscape-ryhmittely-silma_ryhma.png)
@@ -44,7 +44,7 @@ myös tilateksti kertoo tämän.
 ![Tilatekstinä: "Group of 3 objects in Taso1.](../inkscape-ryhmittely-vihjepalkki.png)
 
 Nyt silmästä voidaan tehdä kopio, koska kissa tarvitsee kaksi silmää.
-Painetaan pikanäppäintä *Ctrl-d* ja siirretään monistettu silmä nuolinäppäimillä
+Painetaan pikanäppäintä *Ctrl-D* ja siirretään monistettu silmä nuolinäppäimillä
 paikalleen.
 
 {: .figure-medium }
@@ -54,7 +54,7 @@ Seuraavaksi halutaan varmistaa, että kuvassa kissan silmät ovat symmetrisesti
 samalla etäisyydellä nenästä. Siihen voidaan käyttää tasausdialogia, mutta
 sitä ennen yhdistetään molemmat silmät uudeksi ryhmäksi.
 
-Valitaan molemmat silmät ja painetaan taas *Ctrl-g*.
+Valitaan molemmat silmät ja painetaan taas *Ctrl-G*.
 
 {: .figure-medium-row }
 > ![Kaksi silmää valittuina](../inkscape-ryhmittely-kaksi_silmaa_valittuina.png)
@@ -80,7 +80,7 @@ Lopputuloksena silmät ovat varmasti symmetrisesti.
 
 Tässä vaiheessa voidaan purkaa silmien ryhmittely yhteen, koska sitä tarvittiin
 vain tasaukseen. Valitaan kaksi silmää sisältävä objekti ja
-painetaan *Shift-Ctrl-g*.
+painetaan *Shift-Ctrl-G*.
 
 Viimeistellään silmät siirtämällä molemmat silmät pinojärjestyksessä vähän
 taaemmaksi harmaiden poskien alle pikanäppäimellä *PageDown*.

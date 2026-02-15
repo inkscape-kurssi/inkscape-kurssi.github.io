@@ -12,7 +12,7 @@ parent: Piirtotyökalut
 ![Solmutyökalun kuvake työkalupalkissa](../inkscape-nodetool-ikoni.png)
 
 Jo olemassa olevia polkuja voi muokata *solmutyökalulla* (node tool), joka on työkalupalkissa
-heti valintatyökalun alapuolella. Solmutyökalun voi hiiren lisäksi valita pikanäppäimillä *n* ja *F2*.
+heti valintatyökalun alapuolella. Solmutyökalun voi hiiren lisäksi valita pikanäppäimillä *N* ja *F2*.
 
 ## Solmujen valinta ja siirtäminen
 
@@ -42,7 +42,7 @@ on puolestaan pientä hienosäätöä. Nuolinäppäimillä siirtoja voi siis teh
 hiirtä tarkemmin ja täsmällisemmin. Tämä on käyttökelpoista esimerkiksi silloin, jos halutaan
 siirtää useampia solmuja yhtä suuria etäisyyksiä eri suuntiin.
 
-Yksi hyödyllinen pikanäppäin toiminto on myös *Ctrl-a*, jolla saa nopeasti valittua kaikki
+Yksi hyödyllinen pikanäppäin toiminto on myös *Ctrl-A*, jolla saa nopeasti valittua kaikki
 aktiiviseen polkuun tai polkuihin kuuluvat solmut.
 
 Lisäksi on hyödyllistä tietää, että kahden solmun välistä viivaa klikkaamalla työkalu
@@ -258,7 +258,7 @@ Kun suorakulmio on muunnettu poluksi, sitä ei voi enää käsitellä suorakulmi
 menettänyt suorakulmion rajoitteet ja sitä voidaan muokata tästä lähtien polkuobjektin
 vapaudella.
 
-"Kohde poluksi" löytyy myös "Polku"-valikosta ja sen pikanäppäin on *Shift-Ctrl-c*.
+"Kohde poluksi" löytyy myös "Polku"-valikosta ja sen pikanäppäin on *Shift-Ctrl-C*.
 
 Toinen poluksi muuntava toiminto on *reunaviivat poluiksi*. Tämän työkalun käytössä on kyse
 nimensä mukaisesti siitä, että piirretty viiva muutetaan itsensä reunapoluksi.
@@ -270,7 +270,7 @@ viivan väri on vaihtunut uuden polun täyttöväriksi. Uudella polulla ei ole n
 ääriviivoja vaan pelkkä täyttöväri. Tämä on toisinaan hyvin käyttökelpoinen
 muunnos.
 
-Myös "Reunaviiva poluksi" löytyy "Polku"-valikosta ja sen pikanäppäin on *Ctrl-Alt-c*.
+Myös "Reunaviiva poluksi" löytyy "Polku"-valikosta ja sen pikanäppäin on *Ctrl-Alt-C*.
 
 {: .figure-medium-row }
 > ![Kaksi solmua ja niiden välillä paksu kaareva punainen viiva](../inkscape-nodetool-stroketopath-1.png)

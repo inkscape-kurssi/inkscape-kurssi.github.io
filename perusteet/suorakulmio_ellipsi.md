@@ -15,11 +15,11 @@ Suorakulmiot ja ellipsit ovat alkeiskuvioista helpoimpia piirrettäviä.
 
 *Suorakulmiotyökalulla* luodaan suorakulmioita ja niiden erikoistapauksina
 *neliöitä*. Näiden kulmat voivat olla myös pyöristettyjä. Suorakulmiotyökalun
-pikanäppäin on *r*. (Rectangle)
+pikanäppäin on *R*. (Rectangle)
 
 *Ellipsityökalulla* luodaan puolestaan ellipsejä ja niiden erikoistapauksina *ympyröitä*.
 Näistä voidaan lisäksi rajata näkyviin *sektoreita* tai *kaaria*. Ellipsityökalun
-pikanäppäin on *e*. (Ellipse)
+pikanäppäin on *E*. (Ellipse)
 
 Molemmat työkalut löytyvät Inkscapessa vasemman reunan työkalupalkista.
 

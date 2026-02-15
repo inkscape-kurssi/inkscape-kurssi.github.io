@@ -114,7 +114,7 @@ kuvion voi nollata alkuasetuksiinsa.
 
 ## Spiraali
 
-*Spiraalityökalu* tuottaa nimensä mukaisesti spiraalin. Sen pikanäppäin on *i*. Piirtäminen alkaa
+*Spiraalityökalu* tuottaa nimensä mukaisesti spiraalin. Sen pikanäppäin on *I*. Piirtäminen alkaa
 hiiren klikkauksella spiraalin keskipisteestä ja päättyy hiiren napin nostamiseen
 spiraalin ulkoreunalla.
 

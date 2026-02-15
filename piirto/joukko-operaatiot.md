@@ -109,7 +109,7 @@ Pikanäppäimenä *Ctrl-Alt-/*.
 ![Shape Builder -työkalun kuvake työkalupalkissa](../inkscape-shapebuilder-ikoni.png)
 
 Joukko-operaatioiden muodostamiseen löytyy myös erillinen työkalu, *Shape Builder*,
-joka on työkalupalkissa ja jonka pikanäppäin on *x*.
+joka on työkalupalkissa ja jonka pikanäppäin on *X*.
 
 Kun Shape Builder käynnistetään, se sumentaa piirtoalueen ja antaa
 merkitä valituista kohteista hiirellä niiden päällekkäin osuvista 
@@ -154,7 +154,7 @@ kohdetta.
 
 ## Yhdistä
 
-*Yhdistä*-toiminto, jonka pikanäppäin on *Ctrl-k*, yhdistää useamman polun
+*Yhdistä*-toiminto, jonka pikanäppäin on *Ctrl-K*, yhdistää useamman polun
 yhdeksi poluksi. Kun kohteet on yhdistetty yhdeksi poluksi, niille ei voi enää
 määrätä erilaisia värejä ja niitä ei voi liikuttaa toisistaan erillään.
 Ne ovat saman polun osia.
@@ -172,7 +172,7 @@ kuvassa ovat näkyvissä polun kaikki solmut ja viivat.
 polussa olevat alipolut omiksi path-objekteikseen, joita voidaan käsitellä erikseen
 ja määrätä niille erilaiset värit ja reunaviivan ominaisuudet.
 
-Katkaisun pikakomento on *Shift-Ctrl-k*.
+Katkaisun pikakomento on *Shift-Ctrl-K*.
 
 {: .figure-normal }
 > ![Alipolut katkaistu erillisiksi path-objekteiksi](../inkscape-polut-katkaise.png)
@@ -189,7 +189,7 @@ objektiksi.
 Tämä toiminnallisuus voi olla hyödyllinen esimerkiksi erotettaessa
 poluksi muunnetusta tekstistä kirjaimia erillisiksi objekteiksi.
 
-Pikanäppäimenä tälle toiminnolle on *Shift-Ctrl-Alt-k*.
+Pikanäppäimenä tälle toiminnolle on *Shift-Ctrl-Alt-K*.
 
 {: .figure-normal }
 > ![Ei päällekkäin olevat lipolut katkaistu erillisiksi path-objekteiksi](../inkscape-polut-split_path.png)
@@ -202,7 +202,7 @@ keltainen näkyvä osuus ympyrästä on yksi objekti, ympyrän ja
 vihreän suorakulmion leikkaus on muuttunut yhdeksi objektiksi ja
 loput vihreästä suorakulmiosta on oma objektinsa.
 
-Toiminnon pikanäppäin on *Ctrl-Alt-f*.
+Toiminnon pikanäppäin on *Ctrl-Alt-F*.
 
 {: .figure-normal }
 > ![Fracturella päällekkäiset osat murrettu irti toisistaan.](../inkscape-polut-fracture.png)
@@ -213,7 +213,7 @@ Toiminnon pikanäppäin on *Ctrl-Alt-f*.
 Alla olevassa kuvassa osia on siirretty hieman, jotta niiden erillisyys näkyy.
 Kaikki polkujen sisäosat on irroitettu reunaviivoista, reunaviivat on muutettu
 niitä ympäröiviksi poluiksi ja yhden kohteen ollessa toisen alla siitä ja sen reunaviivasta
-ovat jääneet jäljelle vain näkyvillä olleet osuudet. Pikanäppäin tälle on *Shift-f*.
+ovat jääneet jäljelle vain näkyvillä olleet osuudet. Pikanäppäin tälle on *Shift-F*.
 
 Tämän toiminnon jälkeen mikään objekteista ei ole enää toisen alla.
 

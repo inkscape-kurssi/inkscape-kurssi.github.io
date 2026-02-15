@@ -76,7 +76,7 @@ ylhäältä alaspäin:
 
 Lähes kaikille työkalulle on lisäksi pikanäppäin, jolla sen voi valita nopeasti näppäimistöllä.
 Pikanäppäimen näkee työkaluvihjeenä, kun hiiren vie työkalun napin päälle. Esimerkiksi
-valintatyökalun voi ottaa käyttöön nopeasti painamalla näppäimistön **s**-näppäintä.
+valintatyökalun voi ottaa käyttöön nopeasti painamalla näppäimistön *S*-näppäintä.
 
 Kullekin työkaluista on asetuksissa joitakin työkalukohtaisia asetuksia, joita
 pääsee muokkaamaan kaksoisnapauttamalla työkalun kuvaketta.

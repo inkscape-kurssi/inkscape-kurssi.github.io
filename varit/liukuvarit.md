@@ -17,7 +17,7 @@ Vaihtoehtoina ovat lineaarinen ja säteittäinen liukuväri. Lisäksi
 käytettävissä on myös monimutkaisempi [mesh](../mesh)-liukuvärjäys.
 
 Liukuvärejä voidaan luoda työkalupalkin *Liukuväri*-työkalulla, jonka
-pikanäppäin on *g*.
+pikanäppäin on *G*.
 
 Liukuvärityökalun asetuspalkissa on valittavina liukuvärin tyyppi,
 lineaarinen eli suora sekä säteittäinen. Toisena tärkeänä valintana

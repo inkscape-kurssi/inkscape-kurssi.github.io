@@ -13,7 +13,7 @@ parent: Teksti
 
 *Tekstityökalulla* piirrokseen voi lisätä tekstejä joko irrallisina
 teksteinä tai rivittyvinä tekstilaatikkoina. Tekstityökalun voi valita
-työkalupalkista tai pikanappaimella *t*.
+työkalupalkista tai pikanappaimella *T*.
 
 ## Teksti
 
@@ -81,7 +81,7 @@ joko koko tekstiobjektiin taikka vain valittuun osaan tekstistä.
 Tekstiä voi myös rivittää rivinvaihdolla.
 
 Pikanäppäin lihavoinnille on, kuten monessa muussakin ohjelmassa,
-*Ctrl-b* ja kursivoinnille *Ctrl-i*.
+*Ctrl-B* ja kursivoinnille *Ctrl-I*.
 
 {: .figure-normal }
 ![Tekstissä erilaisija muotoiluja](../inkscape-teksti-muotoiluja.png)

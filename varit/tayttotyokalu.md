@@ -12,7 +12,7 @@ parent: Värityökalut
 ![Täyttötyökalun kuvake työkalupalkissa](../inkscape-taytto-ikoni.png)
 
 *Täyttötyökalu* täyttää valittuna värillä yhtenäisiä sujettuja alueita.
-Sen pikanäppäin on *u*.
+Sen pikanäppäin on *U*.
 
 Täyttötyökalu tekee vastaavan kuin rasteripiirto-ohjelmien täyttötyökalu.
 Kun sillä klikataan jotain kohtaa piirtoalueesta, haetaan klikkauskohdan

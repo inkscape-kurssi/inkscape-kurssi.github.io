@@ -13,7 +13,7 @@ parent: Värityökalut
 
 Joskus on tarve poimia kohteelle väri jostain toisesta kohdasta piirustusta.
 Tähän sopiva työkalu on *värinpoimintatyökalu* eli *dropper*.
-Työkalupalkissa tälle on pipetin näköinen kuvake ja pikanäppäiminä *d* sekä *F7*.
+Työkalupalkissa tälle on pipetin näköinen kuvake ja pikanäppäiminä *D* sekä *F7*.
 
 Työkalun käyttö on helppoa. Kohde, jonka väri halutaan muuttaa, on valittuna
 ja pomintatyökalulla klikataan piirroksesta sitä kohtaa, jonka väri halutaan

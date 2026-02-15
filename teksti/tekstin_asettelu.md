@@ -105,7 +105,7 @@ ympyrään, ellipsiin, suorakulmioon tai vapaaseen polkukuvioon.
 
 Ensin valitaan sijoitettava teksti, sen jälkeen valitaan kuvio, johon se
 halutaan sijoittaa ja lopuksi "Teksti"-valikosta kohta "Vie kehykseen".
-Pikanäppäin tälle toiminnolle on *Alt-w*.
+Pikanäppäin tälle toiminnolle on *Alt-W*.
 
 Tämä toiminto asettelee tekstin toisen objektin sisään niin, että se
 myötäilee objektin reunoja. Sisällä oleva teksti on edelleen muokattavaa

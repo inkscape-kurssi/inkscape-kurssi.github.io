@@ -20,8 +20,8 @@ kytkös niin, että yhtä muokattaessa toinenkin muuttuu.
 Objektista voi tehdä toisen täsmälleen samanlaisen kopion
 muistakin ohjelmista tutulla tavalla: "kopioi" ja "liitä".
 Nämä löytyvät "Muokkaa"-valikosta ja niiden pikanäppäiminä
-ovat tutut *Ctrl-c* ja *Ctrl-v*. Tuttu "Leikkaa" toiminto,
-jonka pikanäppäin on *Ctrl-x*, toimii myös.
+ovat tutut *Ctrl-C* ja *Ctrl-V*. Tuttu "Leikkaa" toiminto,
+jonka pikanäppäin on *Ctrl-X*, toimii myös.
 
 Liittäminen tapahtuu hiiren osoittimen kohdalle niin, että
 osoitin on keskellä uutta objektia.
@@ -30,7 +30,7 @@ Inkscapessa on kuitenkin myös nopeampi tapa *monistaa*
 objekti. "Muokkaa"-valikosta löytyvä komento "Monista"
 tekee valituista objekteista välittömästi kopion samaan
 paikkaan, jossa alkuperäinen on ja valitsee sen.
-Tämän pikanäppäin on *Ctrl-d*, joka tulee sanasta "duplicate".
+Tämän pikanäppäin on *Ctrl-D*, joka tulee sanasta "duplicate".
 
 Monistaminen löytyy myös yläreunan komentopalkista.
 
@@ -67,7 +67,7 @@ erikseen.
 *Kloonaus* on toinen tapa tehdä kopio alkuperäisestä objektista.
 Kloonauksessa alkuperäisen objektin ja sen kloonin välillä säilyy kytkös.
 Alkuperäisen objektin muokkaaminen muokkaa myös sen kloonia.
-Myös *"Kloonaa"* löytyy "Muokkaa"-valikosta ja sen pikanäppäin on *Alt-d*.
+Myös *"Kloonaa"* löytyy "Muokkaa"-valikosta ja sen pikanäppäin on *Alt-D*.
 
 Myös kloonaaminen ja sen purku löytyvät komentopalkista.
 
@@ -150,7 +150,7 @@ Tämä tarkoittaa sitä, että linkityksen purkamisen jälkeen klooni
 muuttuu tavalliseksi kopioksi, joka ei enää seuraa alkuperäiselle
 objektille tehtyjä muutoksia. Purkaminen löytyy komentopalkista ja
 "Muokkaa"-valikon "Kloonaa"-alavalikosta. Sen voi tehdä myös pikanäppäimellä
-*Shift-Alt-d*.
+*Shift-Alt-D*.
 
 {: .figure-normal }
 > ![Komentopalkin napit](../inkscape-duplikaatti-napit.png)

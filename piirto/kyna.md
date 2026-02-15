@@ -14,7 +14,7 @@ parent: Piirtotyökalut
 *Kynätyökalu* eli *vapaa piirto* on työkalun polkujen piirtämiseen
 vapaalla kädellä hiirellä, kosketusnäytöllä tai tietokoneeseen liitetyllä
 piirtopöydällä. Työkalun voi valita työkalupalkista tai pikanäppäimellä
-*p*.
+*P*.
 
 ## Piirtäminen
 
