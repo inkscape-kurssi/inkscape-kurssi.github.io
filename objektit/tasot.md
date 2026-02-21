@@ -69,6 +69,13 @@ Dialogissa tasot ovat listassa päällekkäin siinä järjestyksessä
 kuin ne ovat piirroksessa. Päällimmäinen ylimpänä.
 Aktiivisena oleva taso on korostettuna.
 
+{: .figure-normal }
+> ![Aktiivinen taso alapalkissa](../inkscape-tasot-alapalkki.png)
+
+Aktiivisena olevan tason tiedot näkyvät myös alapalkissa. Tason nimi,
+onko se näkyvissä sekä onko se lukittuna. Tästä saa myös nopeasti
+vaihdettua nykyisen tason näkyvyyttä ja lukitusta.
+
 Uusien tasojen lisääminen tapahtuu vasemman yläkulman plus-ikonilla,
 joka oletuksena lisää uuden tason valittuna olevan tason yläpuolelle
 ja käyttää tason oletusnimenä aiemman tason nimeä ja yhdellä kasvatettua
@@ -145,12 +152,15 @@ myös piirroksessa olevat objektit.
 
 Kun tason kohdalta klikkaa sen nimen edessä olevaa kolmiota, avautuu
 puurakenteena esiin kaikki tason sisällä olevista objekteista ja niistä
-muodostetuista ryhmistä muodostuva sisäkköinen hierarkia.
+muodostetuista ryhmistä muodostuva sisäkkäinen hierarkia.
 
 {: .figure-normal }
 > ![Pupu-objekti puurakenteessa](../inkscape-tasot-objekti.png)
 
 Piirroksesta kulloinkin valittu kohde näkyy korostettuna puurakenteessa.
+Yksittäisillä ryhmillä ja objekteilla on oletuksena niiden tyyppiin
+viittaava nimi eli id. Näitä voi halutessaan vaihtaa samoin kuin tasojen
+nimiä kaksoisklikkaamalla niiden kohdalla.
 
 {: .figure-normal }
 > ![Pupun silmä puurakenteessa](../inkscape-tasot-objekti_ryhmassa.png)
@@ -170,3 +180,37 @@ tällä tavalla myös lukitulle tasolle.
 
 {: .figure-normal }
 > ![Tasot-valikko](../inkscape-tasot-valikko.png)
+
+Piirtoalueelta valitun yksittäisen kohteen tai ryhmän valinta näkyy
+tasodialogissa korostettuna valintana. Korostuksia on eri tummuuksia.
+Tässä kuvassa aktiivisena oleva taso näkyy vaaleamman sinisellä korostuksella,
+itse valittu objekti (ryhmä) tumman sinisenä ja kaikki valitun ryhmän
+sisällä olevat osaobjektit vaalemmalla sinisellä.
+
+{: .figure-normal }
+> ![Ryhmä valittuna "Eläimet"-tasolta](../inkscape-tasot-ryhmien_valinta.png)
+
+Ryhmän sisällä olevan yksittäisen objektin voi valita joko tasodialogista tai
+piirroksesta suoraan klikkaamalla valintatyökalulla samalla, kun pitää *Ctrl*-näppäintä
+pohjassa.
+
+{: .figure-normal }
+> ![Yksittäinen path-objekti valittuna ryhmän sisältä](../inkscape-tasot-valinta_ryhman_sisalla.png)
+
+Jos piirtoalueella kaksoisklikataan valintatyökalulla jotain ryhmää,
+siirrytään ryhmän sisään. Saman voi tehdä tasodialogissa klikkaamalla ryhmää
+hiiren kakkosnapilla ja valitsemalla ryhmän sisään siirtymisen ("Enter Group").
+
+{: .figure-normal }
+> ![Siirrytään sisään ryhmään "#g31500" sen kontekstivalikon kautta.](../inkscape-tasot-valinta_ryhmaan_sisaan.png)
+
+Kun ollaan ryhmän sisällä, tämä tasodialogissa niin, että aktiiviseksi on
+vaaleammalla korostusvärillä merkitty tason sijaan ryhmä.
+
+{: .figure-normal }
+> ![Ryhmä aktiivisena](../inkscape-tasot-ryhman_sisalla.png)
+
+Kuten ryhmiä esiteltäessä jo todettiinkin, ryhmän sisällä oleminen näkyy myös ohjelman alapalkissa.
+
+{: .figure-normal }
+> ![Ryhmän nimi näkyy alapalkissa.](../inkscape-tasot-ryhma_alapalkissa.png)

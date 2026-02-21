@@ -43,6 +43,17 @@ myös tilateksti kertoo tämän.
 {: .figure-normal }
 ![Tilatekstinä: "Group of 3 objects in Taso1.](../inkscape-ryhmittely-vihjepalkki.png)
 
+Tarvittaessa ryhmän sisältä voi valita yksittäisen osaobjektin
+klikkaamalla sitä valintatyökalulla pitämällä *Ctrl*-näppäintä samalla pohjassa.
+Ryhmään voi myös "siirtyä sisään" kaksoisklikkaamalla sitä. Tämän jälkeen
+ryhmän sisällä olevia kohteita voi valita tavallisella klikkauksella.
+Ryhmän sisällä oleminen näkyy siitä, että ryhmän id näkyy alapalkissa
+tilannetekstin vasemmalla puolella. Normaalisti tässä kohtaa näkyy taso, jolla
+työskellellään. Tästä lisää, kun tutustutaan tasoihin.
+
+{: .figure-normal }
+![Siirytty sisään ryhmään "#g31464".](../inkscape-ryhmittely-ryhman_sisalla.png)
+
 Nyt silmästä voidaan tehdä kopio, koska kissa tarvitsee kaksi silmää.
 Painetaan pikanäppäintä *Ctrl-D* ja siirretään monistettu silmä nuolinäppäimillä
 paikalleen.
