@@ -19,4 +19,4 @@ kuin esimerkiksi viivain kynällä ja paperilla piirrettäessä.
 > Kappaleen aiheet
 >
 > - [Ruudukot (grid) ja muut apuviivat](apuviivat)
-> - Mittatyökalu
+> - [Mittatyökalu](mittatyokalu)
