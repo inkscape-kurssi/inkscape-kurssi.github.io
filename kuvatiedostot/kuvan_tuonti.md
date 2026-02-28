@@ -14,6 +14,7 @@ tuomista uutena objektina jo olemassa olevaan Inkscape-asiakirjaan.
 Kuvan voi tuonnin voi tehdä kolmella tavalla. Tiedostonvalintadialogin
 voi avata komentopalkin "Tuo"-napilla, jonka kuvakkeessa nuoli osoittaa
 sisään asiakirjaan, taikka "Tiedosto"-valikosta kohdasta "Tuo...".
+Tuonnin pikanäppäin on *Ctrl-I*.
 
 {: .figure-medium }
 ![Rasterikuvan tuonti napilla](../inkscape-import-nappi.png)

@@ -8,9 +8,15 @@ parent: Kuvatiedostot
 
 # Kuvan avaaminen
 
-Kun Inkscapen "Tiedosto"-valikosta valitaan vaihtoehto "Avaa...",
-voi valita normaalilla tiedostonvalintadialogilla avattavan tiedoston.
-Inkscape osaa avata useita eri tiedostomuotoja, joista osa on
+Kun komentopalkista painetaan "Avaa"-nappia tai "Tiedosto"-valikosta
+valitaan vaihtoehto "Avaa...", voi valita normaalilla tiedostonvalintadialogilla
+avattavan tiedoston. Pikanäppäin tälle on *Ctrl-O*.
+
+{: .figure-normal }
+![Komentopalkin "Avaa"-nappi](../inkscape-avaa-nappi.png)
+
+Inkscape osaa avata oman SVG-tiedostotyyppinsä lisäksi
+useita muita tiedostomuotoja, joista osa on
 vektorikuvien muotoja ja osa rasterikuvien muotoja.
 
 {: .figure-medium-row }
@@ -18,12 +24,13 @@ vektorikuvien muotoja ja osa rasterikuvien muotoja.
 > ![Inkscapen ymmärtämiä tiedostomuotoja](../inkscape-avaa-tiedostotyypit-2.png)
 
 Inkscapen oma tiedostomuoto on SVG, eli "Scalable Vector Graphics"
-ja nämä tiedostot se osaa avata parhaiten. Muita vektorigrafiikkamuotoja
+ja nämä tiedostot se avaa täydellisesti. Muita vektorigrafiikkamuotoja
 ovat esimerkiksi Adobe Illustratorin `*.ai`, AutoCAD:in `*.dxf`,
 Corel DRAW:n `*.cdr`, Adoben "Portable Document Format", eli `*.pdf`,
 taittoalalla käytetyt "Postscript" `*.ps` ja "Encapsulated PostScript" `*.eps`,
 "Windows Metafiles" `*.wmf` sekä joukko muita tiedostotyyppejä.
-Nämä Inkscape osaa avata parhaansa mukaan.
+Nämä Inkscape osaa avata parhaansa mukaan. Toisinaan paremmin, toisinaan
+joillain puutteilla.
 
 Lisäksi tuettujen tiedostomuotojen joukossa on rasterikuvien tallennusmuotoja,
 kuten `*.jpg`, `*.png`, `*.gif`. Näitä avattaessa luodaan uusi
@@ -54,6 +61,8 @@ kummalla jälki on parempaa.
 
 ### Internal import
 
+Inkscapen oma sisäinen menetelmä on suositeltava, sillä se on
+monipuolisempi ja avaa PDF-tiedostot paremmin muokattavaan muotoon.
 Sisäisessä tuontitavassa käyttäjä voi valita, miten sisältöä tuodaan.
 Ensimmäisenä on valinta, **mitkä sivut** halutaan tuoda. Tuodaanko
 kaikki sivut vai ainoastaan valitut sivut.
@@ -117,6 +126,16 @@ objektiryhminä.
 
 {: .figure-normal }
 ![PDF-tiedosto avattuna](../inkscape-avaa-pdf_multipage-2.png)
+
+### Cairo import
+
+Joissain tilanteissa Inkscapen sisäinen PDF-tuonti ei onnistu
+kunnolla ja silloin kannattaa yrittää turvautua Cairo-kirjastolla
+tapahtuvaan tuontiin. Tämä on tapa on kuitenkin rajoittuneempi,
+sillä se tuo PDF-tiedostosta vain sen ensimmäisen sivun ja
+tekstitkään eivät ole välttämättä muokattavaa muotoa vaa
+irrallisia kirjaisymboleja. Joidenkin tiedostojen kanssa
+tämä on kuitenkin tarpeellinen vaihtoehto.
 
 ## Rasterikuvan avaaminen
 
