@@ -95,7 +95,7 @@ poluiksi.
 *"Precision of approximating gradient meshes"* -valinnalla voi säätää, millä
 tarkkuudella mesh-liukuvärit luodaan.
 
-Valinta *"Uppota kuvat"* tarkoittaa, että PDF-tiedostossa olevat kuvat
+Valinta *"Upota kuvat"* tarkoittaa, että PDF-tiedostossa olevat kuvat
 upotetaan suoraan uuteen dokumenttiin sisään upotettuina kuvaobjekteina.
 Jos tästä ruudusta poistetaan rasti, kuvatiedostot tallentuvat levylle erillisiksi
 tiedostoiksi ja dokumentin kuvaobjekteihin ei tule itse kuvien dataa

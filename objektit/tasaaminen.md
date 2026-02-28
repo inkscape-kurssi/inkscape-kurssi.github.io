@@ -137,7 +137,7 @@ eivätkä pompi.
 Kohteiden *jakamisella* (*distribute*) tarkoitetaan sitä, että
 ne asetellaan halutussa suunnassa tasavälein.
 
-{: .figure-large }
+{: .figure-normal }
 > ![Tasajaon toimintanapit](../inkscape-tasaus-jaa.png)
 
 Myös jakamisen toiminnot on dialogissa aseteltu kahteen riviin.
