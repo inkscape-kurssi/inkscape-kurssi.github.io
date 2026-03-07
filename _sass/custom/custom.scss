@@ -130,10 +130,12 @@ body {
 }
 .figure-small-row,
 .figure-medium-row,
+.figure-normal-row,
 .figure-small-row-vert,
 .figure-medium-row-vert,
 .figure-small-row p,
 .figure-medium-row p,
+.figure-normal-row p,
 .figure-small-row-vert p,
 .figure-medium-row-vert p {
     display: flex;
@@ -152,6 +154,13 @@ body {
 .figure-medium-row img,
 .figure-medium-row svg {
     width: 300px;
+    height: auto;
+    margin: 0.5em;
+    display: inline-block;
+}
+.figure-normal-row img,
+.figure-normal-row svg {
+    width: auto;
     height: auto;
     margin: 0.5em;
     display: inline-block;
