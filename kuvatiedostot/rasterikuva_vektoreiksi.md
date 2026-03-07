@@ -246,8 +246,16 @@ myös täytetyiksi poluiksi "Reunaviiva poluksi" -toiminnolla.
 
 Lopullinen käsin vektoroitu kissa.
 
-{: .figure-large }
+{: .figure-full }
 ![Käsin vektoroitu kissa](../kissa-kasin.svg)
 
 Käsin vektoroimalla lopputulos on yksinkertaisempi. Laatu riippuu siitä, miten paljon
 kuvaa jaksaa muokata.
+
+Käsin vektoroinnissa myös maaliämpäri on hyödyllinen työkalu. Alla oleva kuva on
+vektoroitu käyttämällä maaliämpäriä eri värialueisiin erilaisilla kynnysarvoilla,
+yhdistelemällä samaa väriä olevia alueita unionilla ja liittämällä maaliämpärin
+luomiin polkuihin kynällä piirrettyjä alueita sekä pinoamalla värialueet sopivasti.
+
+{: .figure-full }
+![Maaliämpärillä vektoroidut kissat](../kissat_maaliamparilla.svg)
