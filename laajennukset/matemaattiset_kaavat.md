@@ -84,7 +84,7 @@ ja muokkaamiseen.
 TexText sisältää yksinkertaisen tekstieditorin, jossa
 on myös synktaksin korostus LaTeX-kaavoille. Kääntäjäohjelmaksi
 voi valita joko `pdflatex`-, `xelatex`- tai `luatex`-kääntäjän
-sekä uudemmisa versioissa myös `typst`-kääntäjän.
+sekä uudemmissa versioissa myös `typst`-kääntäjän.
 
 Lopputulosta pystyy esikatselemaan laajennuksen omassa ikkunassa
 ennen sen tallentamista asiakirjaan.
