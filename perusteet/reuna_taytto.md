@@ -210,3 +210,55 @@ Alla esimerkkinä kuvat, joissa keltaisen tähden peittävyys on saanut arvot
 
 Kannattaa huomata, että kuviolle voi määrätä kolmea erilaista peittävyyttä:
 täyttövärin peittävyys, reunavärin peittävyys ja kuvion kokonaispeittävyys.
+
+### Itsensä leikkaava polku
+
+Mikä on polun sisäpuolta ja mikä on polun ulkopuolta, kun polku ja sen
+"sisäpuoli" menevät sen itsensä kanssa päällekkäin? Alla on kolme esimerkkiä
+tällaisesta polusta. Ensimmäisessä polun reunaviiva tekee lenkin sen sisäosan
+päällä. Toisessa polun muodostaman alueen kaksi päätä kiertyvät niin, että
+menevät pällekkäin toistensa kanssa. Kolmannessa polku tekee itsensä sisään
+kaksinkertaisen lenkin. Nämä ovat vain kolme esimerkkiä.
+
+{: .figure-medium-row }
+> ![Itsensä kanssa päällekkäin oleva polku](../inkscape-viiva-itsensa_leikkaava_1.png)
+> ![Itsensä kanssa päällekkäin oleva polku](../inkscape-viiva-itsensa_leikkaava_2.png)
+> ![Itsensä kanssa päällekkäin oleva polku](../inkscape-viiva-itsensa_leikkaava_3.png)
+
+Kaikissa näissä esimerkeissä itsensä kanssa päällekkäin menevä polun sisäosat "kumoavat"
+toisensa. Siis niissä kohdissa, joissa sisäosa olisi kaksinkertainen, ei ole täyttöväriä.
+Kohdassa, jossa sisäosa on kolminkertainen (viimeinen kuva), on puolestaan taas täyttöväri.
+Eli täyttövärin olemassaolossa on kyse parillisuudesta. Parittomissa kohdissa on täyttöväriä,
+parittomissa ei.
+
+Tämä on oletuksena käytössä oleva *täyttösääntö*. Täyttösäännön voi valita "Täyttö ja reuna" -dialogsta.
+
+{: .figure-normal }
+![Täyttö ja reuna dialogin täytttösääntö-valinta](../inkscape-viiva-dialogin_tayttosaanto_1.png)
+
+Vaihotehtoja on kaksi. Oletuksena on yllä kuvattu "parillinen-pariton" -sääntö.
+Toinen vaihtoehto on "nollasta poikkeavat", joka tarkoittaa, että polun sisäpuoli
+saa aina valitun täyttövärin riippumatta siitä, onko se itsensä kanssa päällekkäin.
+
+{: .figure-normal }
+![Täyttö ja reuna dialogin täytttösääntö-valinta](../inkscape-viiva-dialogin_tayttosaanto_2.png)
+
+Samat polut näyttävät "nollasta poikkeavat" -täyttösäännöllä tältä.
+
+{: .figure-medium-row }
+> ![Leikkaava polku nollasta poikkeavalla täyttösäännöllä](../inkscape-viiva-nollasta_poikkeava-1.png)
+> ![Leikkaava polku nollasta poikkeavalla täyttösäännöllä](../inkscape-viiva-nollasta_poikkeava-2.png)
+> ![Leikkaava polku nollasta poikkeavalla täyttösäännöllä](../inkscape-viiva-nollasta_poikkeava-3.png)
+
+Muistetaan vielä, että yksi polku voi koostua myös useammasta toisistaan erillisestä
+osasta, joten tilanne voi olla myös tällainen:
+
+{: .figure-medium-row }
+> ![Polku koostuu kahdesta sisäkkäisestä silmukasta. parilline-parillinen](../inkscape-viiva-kaksiosainen_polku-parillinenpariton-1.png)
+> ![Polku koostuu kahdesta sisäkkäisestä silmukasta. nollasta poikkeavat](../inkscape-viiva-kaksiosainen_polku-nollastapoikkeavat-1.png)
+
+tai tällainen
+
+{: .figure-medium-row }
+> ![Polku koostuu kahdesta osittain päällekkäisestä silmukasta. parilline-parillinen](../inkscape-viiva-kaksiosainen_polku-parillinenpariton-2.png)
+> ![Polku koostuu kahdesta osittain päällekkäisestä silmukasta. nollasta poikkeavat](../inkscape-viiva-kaksiosainen_polku-nollastapoikkeavat-2.png)
