@@ -73,7 +73,7 @@ kuin aiemminkin.
 {: .figure-medium }
 ![Vene lumisessa maisemassa](../vene-01.jpg)
 
-Suodin: "Kuvan maalaus ja piirto > Vanha postikortti":
+Suotimet: "Kuvan maalaus ja piirto > Vanha postikortti" ja "Kuvan maalaus ja piirto > Öljymaalaus":
 
 {: .figure-medium-row }
 > ![Vene lumisessa maisemassa suotimella "vanha postikortti"](../inkscape-suotimet-vanha_postikortti.png)
