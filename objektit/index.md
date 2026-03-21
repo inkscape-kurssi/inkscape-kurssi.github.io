@@ -25,3 +25,4 @@ näillä työkaluilla.
 >     - tasaustyökalun käyttö objektien ja pisteiden kohdistamiseen
 > - [Objektien ryhmittely](ryhmittely)
 > - [Tasot](tasot)
+> - [Syväys ja maski](syvays_ja_maski)
