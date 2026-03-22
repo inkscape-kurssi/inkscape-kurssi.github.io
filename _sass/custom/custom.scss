@@ -69,6 +69,7 @@ body {
     display: flex;
     flex-flow: row nowrap;
     justify-content: center;
+    max-width: 100%;
 }
 .figure-small {
     width: 100px;
@@ -78,6 +79,7 @@ body {
 }
 .figure-large {
     width: 500px;
+    max-width: 100%;
 }
 .figure-full {
     width: 100%;
@@ -122,7 +124,7 @@ body {
     display: block;
 }
 .figure-full img,
-.figure-ful {
+.figure-full {
     width: 100%;
     height: auto;
     margin: 0.5em auto;
