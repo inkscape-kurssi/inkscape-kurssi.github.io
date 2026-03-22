@@ -171,3 +171,35 @@ Kun vielä lisätään TexTexillä tarvittavat merkinnät ja kaavat, saadaan lop
 
 {: .figure-large }
 ![Kartion vaipan ja pohjan yhteispinta-ala](../inkscape-matematiikka-ympyrakartion_kokonaispinta-ala.svg)
+
+
+Jos Inkscapella piirretään 3D-kappaleiden havainnekuvia, kannattaa hyödyntää ainakin
+ruudukkoa ja tarttumistoimintoa, jolla kappaleiden kulmapisteet saadaan helposti kohdistettua
+toistensa suhteen. Muita hyödyllisiä tekniikoita ovat erilaiset viivatyylit (yhtenäinen
+viiva, katkoviivat), erilaiset täyttövärit ja niiden tummuudet sekä läpinäkyvyydet.
+
+{: .figure-normal }
+![Kuutiosenttimetri](../inkscape-matematiikka-kuutio.png)
+
+Yllä on esimerkki kuutiosenttimetrin havainnollisuksesta, jossa kuvaan on piirretty
+etummaista tahkoa lukuun ottamatta kaikki muut tahkot. Vaakasuuntaiset tahkot
+sinisellä, pystysuuntaiset tahko kahdella eri tummuutta olevalla keltaisella.
+Lisäksi kuvassa takana olevat tahkot ovat täydellä peittävyydellä ja niiden
+edessä olevat tahkot (ylhäällä ja oikealla) ovat läpikuultavia, jotta niiden takana oleva rakenne näkyy.
+
+Kolmiulotteisista kappaleista voidaan monistamalla ja asettelemalla
+pinota myös mutkikkaampia kokonaisuuksia.
+
+{: .figure-large }
+![Kuutiosenttimetri](../inkscape-matematiikka-kuutiopino.svg)
+
+Samalla tekniikalla voidaan piirää esimerkiksi muitakin Platonin kappaleita.
+
+{: .figure-large }
+![Pltonin kappaleet](../inkscape-matematiikka-platonin_kappaleet.svg)
+
+Samoin varjostukset ovat tärkeässä osassa myös esimerkiksi erilaisilla
+pohjilla varustettujen lieriöiden kaavakuvissa.
+
+{: .figure-large }
+![Lieriöitä](../inkscape-matematiikka-lieriot.svg)
