@@ -85,9 +85,9 @@ Alla on vielä lopputulos SVG-kuvaksi vietynä tiedostona.
 {: .figure-medium }
 ![Ympyrä ja siihen liittyviä osia nimettyinä](../inkscape-matematiikka-ympyra_nimetty.svg)
 
-Jos kuva sisältää tekstiä ja sitä halutaankäyttää
+Jos kuva sisältää tekstiä ja sitä halutaan käyttää
 SVG-muodossa, on hyvä muistaa, että
-silloin kannattaa koettaa valita kirjasintyypiksi,
+silloin kannattaa koettaa valita kirjasintyypiksi
 jokin sellainen fontti, joka todennäköisimmin löytyy kuvaa
 katselevalta. Jos kyseistä fonttia ei löydy, se
 yritetään korvata jollain muulla ja ei ole täysiä takeita
