@@ -31,3 +31,4 @@ muokkaamisella sekä joukko-operaatioilla.
 >       jako ja polun leikkaus
 >     - "Shape builder" -työkalu
 >     - polkuoperaatiot (yhdistä, katkaise, split path, fracture, flatten)
+> - [Polun laajentaminen ja supistaminen](polun_koko)
