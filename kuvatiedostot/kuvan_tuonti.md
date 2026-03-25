@@ -11,7 +11,7 @@ parent: Kuvatiedostot
 Kuvan tuonti tarkoittaa jonkin kuvatiedoston
 tuomista uutena objektina jo olemassa olevaan Inkscape-asiakirjaan.
 
-Kuvan voi tuonnin voi tehdä kolmella tavalla. Tiedostonvalintadialogin
+Kuvan tuonnin voi tehdä kolmella tavalla. Tiedostonvalintadialogin
 voi avata komentopalkin "Tuo"-napilla, jonka kuvakkeessa nuoli osoittaa
 sisään asiakirjaan, taikka "Tiedosto"-valikosta kohdasta "Tuo...".
 Tuonnin pikanäppäin on *Ctrl-I*.
@@ -133,7 +133,7 @@ muokkauskeinoilla. Sen tarkkuus on myös edelleen
 rasterikuvan kiinteä tarkkuus.
 
 Sille voidaan kuitenkin tehdä muita operaatioita, kuten
-rajaus halutun vektoriobjektin mukaan.
+[rajaus halutun vektoriobjektin](../../objektit/syvays_ja_maski) mukaan.
 
 {: .figure-normal }
 ![Tuotu rasterikuva](../inkscape-import-rasteri_clip.png)

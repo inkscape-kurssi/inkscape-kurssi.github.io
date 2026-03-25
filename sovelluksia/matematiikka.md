@@ -46,7 +46,7 @@ pohjassa sekä *Shift*- että *Ctrl*-näppäimiä. Näistä
 keskipisteestä ja *Ctrl* auttaa saamaan aikaan ellipsin
 sijaan ympyrän.
 
-Lopuksi käytetään TexText-lisäosaa ja lisätään sillä
+Lopuksi käytetään [TexText-lisäosaa](../../laajennukset/matemaattiset_kaavat#textext) ja lisätään sillä
 kulmien nimet &alpha; ja &beta; Kuvaan on lisätty
 myös taustalle valkoinen suorakulmio, jotta
 sillä on helppo rajata tiedostoksi vietävän SVG-kuvan
@@ -167,7 +167,7 @@ auki.
 {: .figure-medium }
 ![Kartion sivujanan suuruinen ympyrä](../inkscape-matematiikka-ympyrakartion_kartio-7.png)
 
-Kun vielä lisätään TexTexillä tarvittavat merkinnät ja kaavat, saadaan lopullinen kuva.
+Kun vielä lisätään TexTextillä tarvittavat merkinnät ja kaavat, saadaan lopullinen kuva.
 
 {: .figure-large }
 ![Kartion vaipan ja pohjan yhteispinta-ala](../inkscape-matematiikka-ympyrakartion_kokonaispinta-ala.svg)
