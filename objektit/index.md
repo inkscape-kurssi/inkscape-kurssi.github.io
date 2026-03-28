@@ -6,10 +6,10 @@ nav_order: 7
 has_toc: false
 ---
 
-# Objektit
+{: .figure-full }
+![](../../images/otsikkokissa-objektit.svg)
 
-{: .figure-medium }
-![](../../images/butterflies/Vintage-Butterfly-Illustration.svg)
+# Objektit
 
 Piirto-objektia voidaan uudelleenkäyttää piirroksessa, niitä
 voidaan tasailla piirroksessa toistensa suhteen, ryhmitellä

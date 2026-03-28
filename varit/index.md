@@ -6,10 +6,10 @@ nav_order: 6
 has_toc: false
 ---
 
-# Värityökalut
+{: .figure-full }
+![](../../images/otsikkokissa-varit.svg)
 
-{: .figure-medium }
-![](../../images/butterflies/Butterfly7.svg)
+# Värityökalut
 
 Tässä kappaleessa opetellaan värien käyttöä ja työkaluja niiden käsittelyyn.
 
@@ -19,3 +19,4 @@ Tässä kappaleessa opetellaan värien käyttöä ja työkaluja niiden käsittel
 > - [Mesh-liukuvärit](mesh)
 > - [värien poiminta](varin_poiminta)
 > - [Täyttötyökalu](tayttotyokalu) (Maaliämpäri, Paint bucket)
+

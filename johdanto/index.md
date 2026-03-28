@@ -6,10 +6,10 @@ nav_order: 2
 has_toc: true
 ---
 
-# Johdanto 
+{: .figure-full }
+![](../images/otsikkokissa-johdanto.svg)
 
-{: .figure-medium }
-![Sininen perhonen](../images/butterflies/blue-butterfly.svg)
+# Johdanto 
 
 Tämän kurssin tarkoituksena on opastaa lukijaa käyttämään Inkscape-vektoripiirto-ohjelmistoa.
 Suuri osa ohjelman toiminnallisuuksista on niin luonteenomaisia vektorigrafiikalle ja

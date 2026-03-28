@@ -6,10 +6,10 @@ nav_order: 8
 has_toc: false
 ---
 
-# Apuvälineitä
+{: .figure-full }
+![](../../images/otsikkokissa-apuvalineet.svg)
 
-{: .figure-medium }
-![](../../images/butterflies/monarch.svg)
+# Apuvälineitä
 
 Inkscape tarjoaa piirtämiseen erilaisia apuvälineitä, kuten ruudukoita ja apuviivoja,
 jotka eivät ole osa itse piirrosta vaan antavat tukea piirtämiseen samalla tavalla
@@ -20,3 +20,4 @@ kuin esimerkiksi viivain kynällä ja paperilla piirrettäessä.
 >
 > - [Ruudukot (grid) ja muut apuviivat](apuviivat)
 > - [Mittatyökalu](mittatyokalu)
+

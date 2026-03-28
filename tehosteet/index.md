@@ -6,10 +6,10 @@ nav_order: 10
 has_toc: false
 ---
 
-# Tehosteet ja suotimet
+{: .figure-full }
+![](../../images/otsikkokissa-tehosteet.svg)
 
-{: .figure-medium }
-![Monarkkiperhonen](../../images/butterflies/Monarch_butterfly_1.svg)
+# Tehosteet ja suotimet
 
 Inkscapella piirrettävissä kuvissa ja SVG-kuvissa ylipäätään voidaan
 käyttää erilaisia *tehosteita* (*effects*) ja *suotimia* (*filters*).

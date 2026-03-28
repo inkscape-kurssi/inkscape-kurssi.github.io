@@ -6,10 +6,13 @@ nav_order: 5
 has_toc: false
 ---
 
+{: .figure-full }
+![](../../images/otsikkokissa-teksti.svg)
+
 # Teksti
 
-{: .figure-medium }
-![](../../images/butterflies/Papilio_machaon.svg)
+Tekstin lisääminen piirrokseen on usein tärkeää.
+Joko leipätekstinä tai koristeellisempana tekstinä.
 
 {: .highlight-title}
 > Kappaleen aiheet
@@ -22,3 +25,5 @@ has_toc: false
 > - [Tekstin efektit](tekstin_asettelu)
 >     - teksti pitkin käyrää
 >     - teksti kehyksen sisällä
+
+

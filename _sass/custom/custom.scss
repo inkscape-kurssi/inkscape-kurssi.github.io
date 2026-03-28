@@ -198,15 +198,17 @@ body {
 p.highlight, p.highlight-title,
 blockquote.highlight, blockquote.highlight-title {
     background-image: url(../../images/butterfly-wireframe2-transparent.svg);
-    background-size: 180px;
+    background-image: url(../../images/taustakissa-transparent-2.svg);
+    background-size: 90px;
     background-repeat: no-repeat;
-    background-position: right 20px center;
+    background-position: right 0px bottom 0px;
 }
 
 .side-bar {
     background-color: #eee;
     background-image: url(../../images/butterfly-wireframe4-transparent.svg);
-    background-size: 600px;
+    background-image: url(../../images/taustakissa-transparent.svg);
+    background-size: 300px;
     background-position: left 20px bottom 20px;
     background-repeat: no-repeat;
     background-attachment: fixed;

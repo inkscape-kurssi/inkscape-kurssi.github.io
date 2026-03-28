@@ -6,10 +6,10 @@ nav_order: 4
 has_toc: false
 ---
 
-# Piirtotyökalut
+{: .figure-full }
+![](../../images/otsikkokissa-piirto.svg)
 
-{: .figure-medium }
-![](../../images/butterflies/Butterfly7.svg)
+# Piirtotyökalut
 
 Tässä kappaleessa tutustutaan piirtotyökaluihin, joilla voidaan luoda ja muokata
 vapaamuotoisia piirto-objekteja. Näissä on kaikissa pohjana niin kutsuttu
@@ -32,3 +32,4 @@ muokkaamisella sekä joukko-operaatioilla.
 >     - "Shape builder" -työkalu
 >     - polkuoperaatiot (yhdistä, katkaise, split path, fracture, flatten)
 > - [Polun laajentaminen ja supistaminen](polun_koko)
+

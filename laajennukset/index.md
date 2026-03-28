@@ -6,10 +6,10 @@ nav_order: 11
 has_toc: false
 ---
 
-# Laajennukset
+{: .figure-full }
+![](../../images/otsikkokissa-laajennukset.svg)
 
-{: .figure-medium }
-![Monarkkiperhonen](../../images/butterflies/Monarch_butterfly_1.svg)
+# Laajennukset
 
 Inkscapeen on mahdollista lisätä toimintoja erilaisilla lisäosilla
 eli laajennuksilla. Laajennukset ovat tyypillisesti esimerkiksi

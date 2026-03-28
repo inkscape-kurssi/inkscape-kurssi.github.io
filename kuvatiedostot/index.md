@@ -6,10 +6,10 @@ nav_order: 9
 has_toc: false
 ---
 
-# Kuvatiedostot
+{: .figure-full }
+![](../../images/otsikkokissa-kuvatiedostot.svg)
 
-{: .figure-medium }
-![](../../images/butterflies/monarch.svg)
+# Kuvatiedostot
 
 Inkscapella pystytään käsittelemään useita eri tiedostotyyppejä.
 Se pystyy käsittelemään ensisijaisesti vektorikuvia, mutta jonkin verran 
