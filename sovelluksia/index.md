@@ -18,6 +18,4 @@ joissa Inkscapea ja vektorigrafiikkaa voi hyödyntää.
 > Kappaleen aiheet
 > 
 > - [Matemaattisia havainnekuvia](matematiikka)
-> - [Fysiikan piirroksia](fysiikka)
-> - [Pdf-tiedoston muokkaus](pdf-tiedosto)
 
