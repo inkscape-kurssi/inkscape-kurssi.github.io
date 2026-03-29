@@ -18,7 +18,7 @@ muokkaaminen tapahtuu helposti.
 
 Tunnettuja vektoripiirto-ohjelmia ovat esimerkiksi:
 
-- Inkscape
+- [Inkscape](https://inkscape.org)
 - Adobe Illustrator
 - Corel Draw
 - LibreOffice Draw
@@ -43,8 +43,8 @@ muuttamiseen ja lukuisiin muihin toimintoihin:
 - Lukuisia muita muokkaus- ja efektitoimintoja
 
 Useat ohjelmat tallentavat luomansa tiedostot omaan tiedostomuotoonsa, jonka avaaminen jollain muulla
-ohjelmalla voi olla joskus helpompaa ja joskus hankalampaa. Yksi Inkscapen eduista on se, että
+ohjelmalla voi olla joskus helpompaa ja joskus hankalampaa. Yksi Inkscapen suurista eduista on se, että
 se käyttää tallennuksissaan standardia SVG-tiedostomuotoa, jonka voi avata suurella osalla muista
-ohjelmista.
+ohjelmista. Verkkostandardina SVG-kuvia voi katsella vaikka suoraan verkkoselaimella.
 
 [Bezier]: https://fi.wikipedia.org/wiki/B%C3%A9zier-k%C3%A4yr%C3%A4

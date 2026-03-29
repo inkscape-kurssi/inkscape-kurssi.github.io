@@ -52,7 +52,7 @@ Täyttö tarkoittaa kuvion reunaviivan sisäpuolelle jäävää pintaa.
 Jos reunaviiva on avoin, menee täytön rajana reunaviivan alkupisteestä
 sen loppupisteeseen kulkeva kuvitteellinen suora jana. Tälle sisäosalle voidaan
 määrätä haluttu *täyttöväri*, *liukuvärjäys* (lineaarinen, säteittäinen, mesh)
-tai muunlainen täyttö, esimerkiksi *kuviointi*.
+tai muu täyttö, esimerkiksi *kuviointi*.
 
 {: .figure-small-row }
 > ![Tähdessä tasainen keltainen täyttöväri](../taytto-vari.svg)
@@ -262,3 +262,10 @@ tai tällainen
 {: .figure-medium-row }
 > ![Polku koostuu kahdesta osittain päällekkäisestä silmukasta. parilline-parillinen](../inkscape-viiva-kaksiosainen_polku-parillinenpariton-2.png)
 > ![Polku koostuu kahdesta osittain päällekkäisestä silmukasta. nollasta poikkeavat](../inkscape-viiva-kaksiosainen_polku-nollastapoikkeavat-2.png)
+
+{: .exercises }
+> Lataa alla oleva SVG-tiedosto (hiiren oikealla napilla "Tallenna kohde levylle")
+> ja avaa se Inkscapella. Tiedosto sisältää harjoitustehtäviä, joilla harjoitellaan
+> reunan ja täytön käyttöä.
+> 
+> [Harjoitus - Reuna ja täyttö](/files/harjoitus-reuna_ja_taytto.svg)

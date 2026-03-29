@@ -3,7 +3,7 @@ date: "2025-12-12T15:00:00+03:00"
 title: "Johdanto"
 layout: default
 nav_order: 2
-has_toc: true
+has_toc: false
 ---
 
 {: .figure-full }
@@ -22,3 +22,10 @@ miksi niitä tarvitaan ja mikä on *SVG* sekä esitellään Inkscapen käyttöli
 Seuraavaksi käydään läpi ohjelman työkaluja sekä toimintoja ja samalla harjoitellaan
 niitä kurssilla annettavan harjoitusmateriaalin kanssa. Kurssin tavoitteena on
 esitellä opetettavat toiminnot esimerkkien kautta itse tekemällä ja harjoittelemalla.
+
+{: .highlight-title }
+> Kappaleen aiheet
+> 
+> - [Mitä ovat vektorikuvat?](vektorikuvat)
+> - [SVG-tiedostot](svg-tiedostot)
+> - [Piirto-ohjelmat](piirto-ohjelmat)

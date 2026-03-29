@@ -8,6 +8,9 @@ parent: Perusteet
 
 # Valintatyökalu
 
+{: .figure .figure-right }
+![Valintatyökalun kuvake työkalupalkissa](../inkscape-valinta-kuvake.png)
+
 Valintatyökalu on työkalupalkissa ylimpänä ja sitä symboloi nuolikuvake.
 Työkalun voi valita myös näppäimistöllä *F1*- tai *s*-näppäintä painamalla.
 Valintatyökalulla voi piirtoalueelta valita kohteita yhden tai useampia kerrallaan.
@@ -23,7 +26,7 @@ lisätään valintaan. Jos näin klikkaa jo valittua kohdetta uudelleen, se pois
 valinnasta.
 
 Valinta näkyy katkoviivoilla piirrettynä suorakaiteena kaikkien valittujen
-kohteiden ympärillä sekä koko valinnan ympärile kulmiin ja reunoihin ilmaantuvina
+kohteiden ympärillä sekä koko valinnan ympärille kulmiin ja reunoihin ilmaantuvina
 *skaalauskahvoina*.
 
 {: .figure-medium }
@@ -31,7 +34,7 @@ kohteiden ympärillä sekä koko valinnan ympärile kulmiin ja reunoihin ilmaant
 
 
 Yhden tai useamman kohteen voi valita myös painamalla hiiren napin pohjaan
-ja piirtämällä hiirellä raahaamalla suorakulmion. Sen sisään jääneet kohteet
+ja piirtämällä hiirellä raahaamalla suorakulmion. Kaikki sen sisään jääneet kohteet
 tulevat mukaan valintaan.
 
 {: .figure-large }
@@ -52,7 +55,7 @@ Pitämällä *Shift*-näppäintä pohjassa nuolinäppäintä painettaessa siirry
 eli 20 pikseliä. Vastaavasti, jos nuolinäppäintä painaessa pitää samalla *Alt*-näppäintä pohjassa,
 kohde siirtyy normaalia pienemmän matkan, joka riippuu voimassa olevasta zoomauksesta.
 Nuolinäppäimillä kohdetta saa siis siirrettyä tarkasti halutun määrän ja hienosäädettyä sijaintia.
-Tämä on kätevää erityisesti myös silloin, kun siirtymä halutaan tehdä saman määrän verran
+Tämä on kätevää erityisesti silloin, kun siirtymä halutaan tehdä saman määrän verran
 sekä pysty- että vaakasuunnassa.
 
 ## Skaalaaminen
@@ -71,7 +74,7 @@ pohjassa *Ctrl*-näppäintä, pysyvät kohteen mittasuhteet lukittuina.
 Normaalisti skaalattaessa käytettyä skaalauskahvaa vastakkainen kahva pysyy paikallaan
 ja skaalaus tapahtuu näiden kahden kahvan välissä. Jos kuitenkin samanaikaisesti
 pidetään *Shift*-näppäintä pohjassa, pysyy valinnan keskipiste paikoillaan ja
-skaalaaminen tapahtuu valinnan sen ympärillä.
+skaalaaminen tapahtuu sen ympärillä.
 
 ## Kierto ja vääntö
 
@@ -95,10 +98,10 @@ väännettyä kuvion vinoon.
 
 ## Värin ja reunan paksuuden valinta
 
-Valinnan täyttövärin voi vaihtaa klikkaamalla ikkunan alareunan väripaletista
+Valinnan **täyttövärin** voi vaihtaa klikkaamalla ikkunan alareunan väripaletista
 halutun värin. Jos klikatessa pitää *Shift*-näppäintä pohjassa, vaihtuu
-valinnassa olevien kohteiden reunan väri. Värin sijasta voi valita myös
-paletin alussa, äärivasemmalla, olevan ja ruksilla merkityn "**ei väriä**" -vaihtoehdon. Tällöin
+valinnassa olevien kohteiden **reunan väri**. Värin sijasta voi valita myös
+paletin alussa äärimmäisenä vasemmalla olevan ja ruksilla merkityn "**ei väriä**" -vaihtoehdon. Tällöin
 valinnasta riippuen objektin täyttö tai reuna muuttuu läpinäkyväksi. Valitut värit
 näkyvät ikkunan vasemmassa alakulmassa. Viivan värin vieressä olevaa numeroa
 hiiren oikealla nappulalla painamaa klikkaamalla esiin tulevasta valikosta voi
@@ -150,7 +153,7 @@ maailman mittayksiköitä, kuten mm, cm tai tuumat, digitaalisia ja painoalan yk
 kuten [pikselit] (px), [point] (pt) ja [pica] (pc), sekä prosenttiosuus piirtoalueen koon suhteen.
 
 Samoin kohteen leveys ja korkeus ovat myös syötettävissä lukuarvoina. Leveyden ja korkeuden
-kenttien välissä oleva **lukkosymboli** kuvaan kohteen mittasuhteiden lukitsemista. Jos lukko on
+kenttien välissä oleva **lukkosymboli** kuvaa kohteen mittasuhteiden lukitsemista. Jos lukko on
 kiinni, leveyden tai korkeuden muuttaminen muuttaa myös toista samassa suhteessa niin, että
 kuvaobjektin mittasuhteet säilyvät.
 
@@ -175,7 +178,7 @@ mutta niiden toiminnasta on hyvä olla tietoinen siltä varalta, että niitä sa
 > 
 > [Harjoitus 2 - Valintatyökalu](/files/harjoitus-02-valinta.svg)
 >
-> [Harjoitus 3 - Valintatyökalu - Edistyneet](/files/harjoitus-03-valinta_edistyneet.svg)
+> [Harjoitus 3 - Valintatyökalu - Edistyneet](/files/harjoitus-03-valinta_edistynyt.svg)
 
 
 [pikselit]: https://en.wikipedia.org/wiki/Pixel

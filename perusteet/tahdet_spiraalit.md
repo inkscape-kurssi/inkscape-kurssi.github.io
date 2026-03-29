@@ -195,3 +195,10 @@ esimerkiksi peleissä, joissa halutaan poistaa perspektiivin vaikutus kappaleide
 Laatikkotyökalun käyttö avautuu parhaiten kokeilemalla ja harjoittelemalla.
 
 [isometrinen projektio]: https://fi.wikipedia.org/wiki/Isometrinen_projektio
+
+{: .exercises }
+> Lataa alla oleva SVG-tiedosto (hiiren oikealla napilla "Tallenna kohde levylle")
+> ja avaa se Inkscapella. Tiedosto sisältää harjoitustehtäviä, joilla harjoitellaan
+> tähtien, säännöllisten monikulmioiden ja spiraalien piirtämistä.
+> 
+> [Harjoitus - Tähdet ja spiraalit](/files/harjoitus-tahdet_ja_spiraalit.svg)

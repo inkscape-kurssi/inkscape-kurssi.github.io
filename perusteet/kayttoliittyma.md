@@ -18,7 +18,7 @@ Inkscapen käyttöliittymässä ikkunan keskellä on *piirtoalue* ja siinä suor
 muotoinen rajattu alue eli *sivu*. Sivun koko ja muoto ovat valittavissa asetuksista.
 Oletuksena se on pystysuuntaisen A4-paperin muotoinen ja kokoinen. Piirto-objekteja
 on mahdollista sijoittaa piirtoalueelle myös merkityn sivun ulkopuolelle, mutta
-tallennettua kuvaa tarkastellessa, esimerkiksi verkkosivulla, vain sivun sisäpuoli on näkyvissä.
+tallennettua kuvaa tarkasteltaessa, esimerkiksi verkkosivulla, vain sivun sisäosa on näkyvissä.
 
 {: .figure-full }
 > ![Inkscapen käyttöliittymän osien esittely](../inkscape_ui.png)
@@ -29,16 +29,16 @@ tallennettua kuvaa tarkastellessa, esimerkiksi verkkosivulla, vain sivun sisäpu
 Ikkunan yläreunassa on ohjelman *valikko*, josta löytyvät normaalit tiedosto- ja
 muokkausvalinnat sekä lukuisia muita toimintoja.
 
-Piirtoalueen ympärillä ikkunan eri reunoilla on joukko nappulapaneleja ja dialoginäkymiä.
+Piirtoalueen ympärillä ikkunan eri reunoilla on joukko nappulapaneeleja ja dialoginäkymiä.
 
 ## Komentopalkki
 
 Ikkunan yläreunassa heti valikon alapuolella on *komentopalkki*, jossa on
-pikavalintoja joillekin usein tarvittaville toiminnoille, kuten tiedostojen
+pikavalintoja usein tarvittaville toiminnoille, kuten tiedostojen
 avaamiselle ja tallentamiselle. Nämä toiminnot löytyvät pääsääntöisesti myös
-valikosta eri kohdista, mutta tästä palkista ne ovat kätevästi saatavilla.
+valikosta, mutta tästä palkista ne ovat kätevästi saatavilla.
 Näitä toimintoja ovat esimerkiksi uuden tiedoston luonti, tiedoston
-avaus ja tallentaminen, kopiointi, leikkaus, liittäminen sekä kumoustoiminnot.
+avaaminen ja tallentaminen, kopiointi, leikkaaminen, liittäminen sekä kumoustoiminnot.
 
 Samasta palkista on avattavissa esiin myös erilaisia *dialoginäkymiä*, kuten
 täytön ja reunan asetukset, tasot, tasausasetukset sekä piirtoalueen asetukset.
@@ -74,11 +74,11 @@ ylhäältä alaspäin:
 - Lähennä ja loitonna
 - Sivutyökalu
 
-Lähes kaikille työkalulle on lisäksi pikanäppäin, jolla sen voi valita nopeasti näppäimistöllä.
+Lähes kaikille työkalulle on lisäksi pikanäppäin, jolla sen voi aktivoida nopeasti näppäimistöllä.
 Pikanäppäimen näkee työkaluvihjeenä, kun hiiren vie työkalun napin päälle. Esimerkiksi
-valintatyökalun voi ottaa käyttöön nopeasti painamalla näppäimistön *S*-näppäintä.
+valintatyökalun voi ottaa käyttöön nopeasti painamalla näppäimistön *S*-näppäintä (select).
 
-Kullekin työkaluista on asetuksissa joitakin työkalukohtaisia asetuksia, joita
+Kullekin työkaluista on asetuksissa joitain ohjelmanlaajuisia asetuksia, joita
 pääsee muokkaamaan kaksoisnapauttamalla työkalun kuvaketta.
 
 ## Työkalukohtaiset asetukset ja toiminnot
@@ -132,7 +132,7 @@ mitä toimintoja käytössä olevalla työkalulla voi tehdä.
 
 Kuvassa tilateksti kertoo, että valittuna on "Suorakulmio"-tyyppinen kohde tasolla 1
 ja vihjeteksti kertoo, että klikkaamalla valittua kohdetta uudelleen voi vaihtaa
-skaalaus- ja kiertokäyttöliittymän välillä.
+skaalaus- ja kiertokäyttöliittymien välillä.
 
 ## Kohdistusvalinnat
 

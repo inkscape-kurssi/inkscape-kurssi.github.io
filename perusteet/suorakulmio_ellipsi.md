@@ -32,7 +32,7 @@ toisiaan vastaan kohtisuorien sivujen muodostamana kuviona. Jos suorakulmion
 haluaa johonkin muuhun asentoon, sen voi kääntää piirtämisen jälkeen valintatyökalulla.
 
 Suorakulmion reuna- ja täyttöväreiksi tulevat, käytössä olevista asetuksista riippuen,
-joko viimeeksi käytetyt värit taikka asetuksissa tälle työkalulle aina käytettäviksi
+joko viimeksi käytetyt värit taikka asetuksissa tälle työkalulle aina käytettäviksi
 valitut värit. Näitä asetuksia pääsee muokkaamaan kaksoisnapauttamalla työkalun
 kuvaketta työkalupalkissa.
 
@@ -155,3 +155,10 @@ Asetuspalkista voi muuttaa myös numeerisesti vaaka- ja pystysuuntaisen puoliaks
 halutussa mittayksikössä sekä kaaren alku- ja loppupisteiden kulmia. Kulmissa 0 astetta tarkoittaa
 keskipisteestä vaakasuoraan oikealle olevaa suuntaa ja kulman suuruus kasvaa
 tästä suunnasta myötäpäivään aina 360 asteeseen saakka.
+
+{: .exercises }
+> Lataa alla oleva SVG-tiedosto (hiiren oikealla napilla "Tallenna kohde levylle")
+> ja avaa se Inkscapella. Tiedosto sisältää harjoitustehtäviä, joilla harjoitellaan
+> suorakulmion ja ellipsin käyttöä.
+> 
+> [Harjoitus - Suorakulmio ja ellipsi](/files/harjoitus-suorakulmio_ja_ellipsi.svg)
