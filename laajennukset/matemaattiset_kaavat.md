@@ -82,7 +82,7 @@ ja muokkaamiseen.
 ![TexText](../inkscape-laajennukset-textext_dialogi.png)
 
 TexText sisältää yksinkertaisen tekstieditorin, jossa
-on myös synktaksin korostus LaTeX-kaavoille. Kääntäjäohjelmaksi
+on myös syntaksin korostus LaTeX-kaavoille. Kääntäjäohjelmaksi
 voi valita joko `pdflatex`-, `xelatex`- tai `luatex`-kääntäjän
 sekä uudemmissa versioissa myös `typst`-kääntäjän.
 
