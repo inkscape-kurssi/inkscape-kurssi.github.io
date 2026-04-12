@@ -130,3 +130,10 @@ arvolla 15 ja alempi arvolla 60.
 ![Kynän paineentunnistus päällä](../inkscape-kyna-tasoitus.png)
 
 Viimeiset asetukset, "Shape" ja "Scale", ovat samat kuin [viiva](../viivat/)-työkalussa.
+
+{: .exercises }
+> Lataa alla oleva SVG-tiedosto (hiiren oikealla napilla "Tallenna kohde levylle")
+> ja avaa se Inkscapella. Tiedosto sisältää harjoitustehtäviä, joilla harjoitellaan
+> tähtien, säännöllisten monikulmioiden ja spiraalien piirtämistä.
+> 
+> [Harjoitus - Kynätyökalu](/files/harjoitus-kynatyokalu.svg)

@@ -275,3 +275,11 @@ Myös "Reunaviiva poluksi" löytyy "Polku"-valikosta ja sen pikanäppäin on *Ct
 {: .figure-medium-row }
 > ![Kaksi solmua ja niiden välillä paksu kaareva punainen viiva](../inkscape-nodetool-stroketopath-1.png)
 > ![Viiva on muutettu suljetuksi poluksi, joka kulkee pitkin aiemman viivan reunoja](../inkscape-nodetool-stroketopath-2.png)
+
+
+{: .exercises }
+> Lataa alla oleva SVG-tiedosto (hiiren oikealla napilla "Tallenna kohde levylle")
+> ja avaa se Inkscapella. Tiedosto sisältää harjoitustehtäviä, joilla harjoitellaan
+> tähtien, säännöllisten monikulmioiden ja spiraalien piirtämistä.
+> 
+> [Harjoitus - Polun muokkaaminen](/files/harjoitus-polun_muokkaaminen.svg)

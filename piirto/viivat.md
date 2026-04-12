@@ -210,6 +210,14 @@ Lisää SVG-kuvien piirtämisestä kirjoittamalla suoraan `<path>`-elementtejä 
 [Wikipediasta][Wikipedia-bezier].
 
 
+{: .exercises }
+> Lataa alla oleva SVG-tiedosto (hiiren oikealla napilla "Tallenna kohde levylle")
+> ja avaa se Inkscapella. Tiedosto sisältää harjoitustehtäviä, joilla harjoitellaan
+> tähtien, säännöllisten monikulmioiden ja spiraalien piirtämistä.
+> 
+> [Harjoitus - Viivat](/files/harjoitus-viivat.svg)
+
+
 
 [moz-path]: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorials/SVG_from_scratch/Paths
 [Wikipedia-bezier]: https://en.wikipedia.org/wiki/B%C3%A9zier_curve

@@ -219,3 +219,11 @@ Tämän toiminnon jälkeen mikään objekteista ei ole enää toisen alla.
 
 {: .figure-normal }
 > ![Flatten irrottanut kaikki näkyvät osat erikseen.](../inkscape-polut-flatten.png)
+
+
+{: .exercises }
+> Lataa alla oleva SVG-tiedosto (hiiren oikealla napilla "Tallenna kohde levylle")
+> ja avaa se Inkscapella. Tiedosto sisältää harjoitustehtäviä, joilla harjoitellaan
+> tähtien, säännöllisten monikulmioiden ja spiraalien piirtämistä.
+> 
+> [Harjoitus - Joukko-operaatiot](/files/harjoitus-joukko-operaatiot.svg)
