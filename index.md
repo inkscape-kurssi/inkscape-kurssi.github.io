@@ -20,5 +20,9 @@ Kurssi alkaa esittelemällä yleisesti, mitä vektorigrafiikka on, miten se eroa
 Tämän jälkeen esitellään itse ohjelman toimintoja ja lopuksi annetaan käytännön vinkkejä ohjelman käyttämiseen aidoissa tilanteissä.
 
 {: .note }
-Kurssi käsittelee Inkscape-sovelluksen käyttöä, mutta suurin osa opeista on sovellettavissa minkä tahansa vektoripiirto-ohjelman käyttöön.
-
+> Kurssi käsittelee Inkscape-sovelluksen käyttöä, mutta suurin osa opeista on sovellettavissa minkä tahansa vektoripiirto-ohjelman käyttöön.
+>
+> Kurssi kannattaa aloittaa asentamalla [Inkscape](https://inkscape.org) omalle tietokoneelle.
+>
+> Inkscape on täysin ilmainen avoimen lähdekoodin ohjelma ja se on saatavilla Windows-, macOS- ja Linux-käyttöjärjestelmille.
+> Linux-käyttöjärjestelmiin Inkscape löytyy niiden omasta sovellusvalikoimasta.
