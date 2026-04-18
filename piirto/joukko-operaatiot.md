@@ -229,3 +229,5 @@ Tämän toiminnon jälkeen mikään objekteista ei ole enää toisen alla.
 > [Harjoitus - Joukko-operaatiot](/files/harjoitus-joukko-operaatiot.svg)
 >
 > [Harjoitus - Polkuperaatiot](/files/harjoitus-polkuoperaatiot.svg)
+>
+> [Harjoitus - Shape Builder](/files/harjoitus-shapebuilder.svg)
