@@ -134,6 +134,6 @@ Viimeiset asetukset, "Shape" ja "Scale", ovat samat kuin [viiva](../viivat/)-ty�
 {: .exercises }
 > Lataa alla oleva SVG-tiedosto (hiiren oikealla napilla "Tallenna kohde levylle")
 > ja avaa se Inkscapella. Tiedosto sisältää harjoitustehtäviä, joilla harjoitellaan
-> tähtien, säännöllisten monikulmioiden ja spiraalien piirtämistä.
+> kynätyökalun käyttöä.
 > 
 > [Harjoitus - Kynätyökalu](/files/harjoitus-kynatyokalu.svg)

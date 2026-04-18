@@ -213,7 +213,7 @@ Lisää SVG-kuvien piirtämisestä kirjoittamalla suoraan `<path>`-elementtejä 
 {: .exercises }
 > Lataa alla oleva SVG-tiedosto (hiiren oikealla napilla "Tallenna kohde levylle")
 > ja avaa se Inkscapella. Tiedosto sisältää harjoitustehtäviä, joilla harjoitellaan
-> tähtien, säännöllisten monikulmioiden ja spiraalien piirtämistä.
+> polkujen piirtämistä viivatyökalulla.
 > 
 > [Harjoitus - Viivat](/files/harjoitus-viivat.svg)
 

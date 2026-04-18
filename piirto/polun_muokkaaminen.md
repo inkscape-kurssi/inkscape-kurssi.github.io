@@ -280,6 +280,6 @@ Myös "Reunaviiva poluksi" löytyy "Polku"-valikosta ja sen pikanäppäin on *Ct
 {: .exercises }
 > Lataa alla oleva SVG-tiedosto (hiiren oikealla napilla "Tallenna kohde levylle")
 > ja avaa se Inkscapella. Tiedosto sisältää harjoitustehtäviä, joilla harjoitellaan
-> tähtien, säännöllisten monikulmioiden ja spiraalien piirtämistä.
+> polun muokkaamista solmutyökalulla.
 > 
 > [Harjoitus - Polun muokkaaminen](/files/harjoitus-polun_muokkaaminen.svg)

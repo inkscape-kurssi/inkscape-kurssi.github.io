@@ -231,12 +231,12 @@ Kohdassa, jossa sisäosa on kolminkertainen (viimeinen kuva), on puolestaan taas
 Eli täyttövärin olemassaolossa on kyse parillisuudesta. Parittomissa kohdissa on täyttöväriä,
 parittomissa ei.
 
-Tämä on oletuksena käytössä oleva *täyttösääntö*. Täyttösäännön voi valita "Täyttö ja reuna" -dialogsta.
+Tämä on oletuksena käytössä oleva *täyttösääntö*. Täyttösäännön voi valita "Täyttö ja reuna" -dialogista.
 
 {: .figure-normal }
 ![Täyttö ja reuna dialogin täytttösääntö-valinta](../inkscape-viiva-dialogin_tayttosaanto_1.png)
 
-Vaihotehtoja on kaksi. Oletuksena on yllä kuvattu "parillinen-pariton" -sääntö.
+Vaihtoehtoja on kaksi. Oletuksena on yllä kuvattu "parillinen-pariton" -sääntö.
 Toinen vaihtoehto on "nollasta poikkeavat", joka tarkoittaa, että polun sisäpuoli
 saa aina valitun täyttövärin riippumatta siitä, onko se itsensä kanssa päällekkäin.
 
