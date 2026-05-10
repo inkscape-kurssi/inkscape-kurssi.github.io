@@ -218,3 +218,9 @@ suoraan muiden objektien kylkeen ja silti jättää tekstin ympärille tilaa.
 > ![Tekstilaatikko](../inkscape-teksti-tekstilaatikko.png)
 > ![Tekstilaatikko, johon lisätty tyhjää tilaa ympärille](../inkscape-teksti-tekstilaatikko-padding.png)
 
+{: .exercises }
+> Lataa alla oleva SVG-tiedosto (hiiren oikealla napilla "Tallenna kohde levylle")
+> ja avaa se Inkscapella. Tiedosto sisältää harjoitustehtäviä, joilla harjoitellaan
+> tekstityökalun käyttöä.
+> 
+> [Harjoitus - Tekstityökalu](/files/harjoitus-teksti.svg)

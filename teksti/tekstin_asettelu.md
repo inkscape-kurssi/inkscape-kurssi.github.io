@@ -145,3 +145,9 @@ ovat esimerkiksi valkoisia ja niiden välissä on jo valmiiksi riittävästi til
 > ![Teksti aseteltuna palstoihin valmiina](../inkscape-teksti-teksti_laatikoissa-valmis.png)
 
 
+{: .exercises }
+> Lataa alla oleva SVG-tiedosto (hiiren oikealla napilla "Tallenna kohde levylle")
+> ja avaa se Inkscapella. Tiedosto sisältää harjoitustehtäviä, joilla harjoitellaan
+> tekstin asettelua polulle ja kehykseen.
+> 
+> [Harjoitus - Tekstin asettelu](/files/harjoitus-tekstiasettelu.svg)

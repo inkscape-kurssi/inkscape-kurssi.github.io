@@ -223,7 +223,7 @@ Tämän toiminnon jälkeen mikään objekteista ei ole enää toisen alla.
 
 {: .exercises }
 > Lataa alla olevat SVG-tiedostot (hiiren oikealla napilla "Tallenna kohde levylle")
-> ja avaa ne Inkscapella. Tiedostot sisältää harjoitustehtäviä, joilla harjoitellaan
+> ja avaa ne Inkscapella. Tiedostot sisältävät harjoitustehtäviä, joilla harjoitellaan
 > joukko-operaatioden ja polkuoperaatioiden käyttöä.
 > 
 > [Harjoitus - Joukko-operaatiot](/files/harjoitus-joukko-operaatiot.svg)
